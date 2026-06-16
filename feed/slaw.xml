@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Slawistik - Journal of Slavic Studies</title>
+  <link href="https://www.degruyterbrill.com/journal/key/slaw/71/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/slaw.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/slaw/html" rel="related"/>
+  <updated>2026-06-16T15:35:33.410747+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/slaw.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Zeitschrift für Slawistik - Journal of Slavic Studies (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-frontmatter1</id>
+    <updated>2026-06-16T15:35:33.410780+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/slaw-2026-frontmatter1
+Pages: Page range: I-IV</summary>
+  </entry>
+  <entry>
+    <title>„Nemamo plan B ali rušamo plan A“. Zur Pragmatik der Studierendenproteste in Serbien (2024–2026)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2001/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2001</id>
+    <updated>2026-06-16T15:35:33.410793+00:00</updated>
+    <summary>Authors: Anna Jouravel
+DOI: https://doi.org/10.1515/slaw-2026-2001
+Pages: Page range: 1-43</summary>
+  </entry>
+  <entry>
+    <title>Russian Old Settlers’ dialects from a Creolist perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2002/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2002</id>
+    <updated>2026-06-16T15:35:33.410805+00:00</updated>
+    <summary>Authors: Dieter Stern
+DOI: https://doi.org/10.1515/slaw-2026-2002
+Pages: Page range: 44-79</summary>
+  </entry>
+  <entry>
+    <title>Non-prototypical Aspectual Clusters and Corpus Data: thegrozit’‘threaten’ cluster in Russian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2003/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2003</id>
+    <updated>2026-06-16T15:35:33.410816+00:00</updated>
+    <summary>Authors: Anastasia Makarova, Tore Nesset
+DOI: https://doi.org/10.1515/slaw-2026-2003
+Pages: Page range: 80-110</summary>
+  </entry>
+  <entry>
+    <title>The development of word- and morpheme-initial /x/ in Lower Sorbian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2004/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2004</id>
+    <updated>2026-06-16T15:35:33.410827+00:00</updated>
+    <summary>Authors: Lechosław Jocz
+DOI: https://doi.org/10.1515/slaw-2026-2004
+Pages: Page range: 111-131</summary>
+  </entry>
+  <entry>
+    <title>Haplology and diplology of grammatical markers in Slavic and Baltic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2005/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2005</id>
+    <updated>2026-06-16T15:35:33.410838+00:00</updated>
+    <summary>Authors: Axel Holvoet
+DOI: https://doi.org/10.1515/slaw-2026-2005
+Pages: Page range: 132-147</summary>
+  </entry>
+  <entry>
+    <title>Immaculate Conception(s): The Virgin, the Purity of the Political Body, and the Building of a New Orthodox Piety in Early Modern Ukraine</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2006/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2006</id>
+    <updated>2026-06-16T15:35:33.410848+00:00</updated>
+    <summary>Authors: Maria Grazia Bartolini
+DOI: https://doi.org/10.1515/slaw-2026-2006
+Pages: Page range: 148-191</summary>
+  </entry>
+  <entry>
+    <title>Der Rilke-Kult im Slowakischen Staat (1939–1945)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2007/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2007</id>
+    <updated>2026-06-16T15:35:33.410858+00:00</updated>
+    <summary>Authors: Miloslav Szabó
+DOI: https://doi.org/10.1515/slaw-2026-2007
+Pages: Page range: 192-221</summary>
+  </entry>
+  <entry>
+    <title>XXII Workshop “Intercultural Communication and Intercultural Learning”</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2008/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2008</id>
+    <updated>2026-06-16T15:35:33.410868+00:00</updated>
+    <summary>Authors: Elena Denisova-Schmidt
+DOI: https://doi.org/10.1515/slaw-2026-2008
+Pages: Page range: 222-223</summary>
+  </entry>
+  <entry>
+    <title>Sprachkontakt und Sprachwechsel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2009/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2009</id>
+    <updated>2026-06-16T15:35:33.410878+00:00</updated>
+    <summary>Authors: Holger Kuße
+DOI: https://doi.org/10.1515/slaw-2026-2009
+Pages: Page range: 224-226</summary>
+  </entry>
+  <entry>
+    <title>Screening the Scars. The Cinematic (In)visibility of Social Trauma. Ed. Andreas Hamburger. Bicester/Oxfordshire: Karnac Books 2025, ISBN 978-1-80013-290–0, 270 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2010/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-2010</id>
+    <updated>2026-06-16T15:35:33.410889+00:00</updated>
+    <summary>Authors: Christian Voß
+DOI: https://doi.org/10.1515/slaw-2026-2010
+Pages: Page range: 227-229</summary>
+  </entry>
+</feed>

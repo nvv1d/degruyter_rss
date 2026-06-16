@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Phonetica - International Journal of Phonetic Science</title>
+  <link href="https://www.degruyterbrill.com/journal/key/phon/83/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/phon.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/phon/html" rel="related"/>
+  <updated>2026-06-16T15:35:07.786223+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/phon.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Phonetica - International Journal of Phonetic Science (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2026-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/phon-2026-frontmatter3</id>
+    <updated>2026-06-16T15:35:07.786264+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phon-2026-frontmatter3
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Articulatory adaptations to the effect of nasality on vowel formants in Xinfeng Tieshikou Hakka</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-0052/html"/>
+    <id>https://doi.org/10.1515/phon-2025-0052</id>
+    <updated>2026-06-16T15:35:07.786278+00:00</updated>
+    <summary>Authors: Qian Zhang, Jason A. Shaw
+DOI: https://doi.org/10.1515/phon-2025-0052
+Pages: Page range: 125-150</summary>
+  </entry>
+  <entry>
+    <title>Variation and change in the production of te reo Māori closing vowel sequences</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-0043/html"/>
+    <id>https://doi.org/10.1515/phon-2025-0043</id>
+    <updated>2026-06-16T15:35:07.786290+00:00</updated>
+    <summary>Authors: Kirsten Culhane, Jennifer Hay, Simon Todd, Márton Sóskuthy, Jeanette King, Forrest Panther, Peter J. Keegan
+DOI: https://doi.org/10.1515/phon-2025-0043
+Pages: Page range: 151-206</summary>
+  </entry>
+  <entry>
+    <title>Recognizing vocal emotions in two unfamiliar languages: universal patterns versus cultural and prosodic proximity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-0046/html"/>
+    <id>https://doi.org/10.1515/phon-2025-0046</id>
+    <updated>2026-06-16T15:35:07.786331+00:00</updated>
+    <summary>Authors: Yachan Liang, Vincent J. van Heuven, Roeland van Hout
+DOI: https://doi.org/10.1515/phon-2025-0046
+Pages: Page range: 207-243</summary>
+  </entry>
+  <entry>
+    <title>From ‘preferred’ to ‘peripheral’? A century-long study of linking-r in Standard Southern British English (1920s–2020s)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-0037/html"/>
+    <id>https://doi.org/10.1515/phon-2025-0037</id>
+    <updated>2026-06-16T15:35:07.786363+00:00</updated>
+    <summary>Authors: Jose A. Mompean
+DOI: https://doi.org/10.1515/phon-2025-0037
+Pages: Page range: 245-283</summary>
+  </entry>
+  <entry>
+    <title>Gradient boundaries through confidence intervals for forced alignment estimates using model ensembles</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-0039/html"/>
+    <id>https://doi.org/10.1515/phon-2025-0039</id>
+    <updated>2026-06-16T15:35:07.786378+00:00</updated>
+    <summary>Authors: Matthew C. Kelley
+DOI: https://doi.org/10.1515/phon-2025-0039
+Pages: Page range: 285-305</summary>
+  </entry>
+</feed>

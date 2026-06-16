@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Anglistik und Amerikanistik...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zaa/74/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zaa.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zaa/html" rel="related"/>
+  <updated>2026-06-16T15:35:53.338191+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zaa.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Zeitschrift für Anglistik und Amerikanistik... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-frontmatter2</id>
+    <updated>2026-06-16T15:35:53.338241+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zaa-2026-frontmatter2
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-3001/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-3001</id>
+    <updated>2026-06-16T15:35:53.338256+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zaa-2026-3001
+Pages: Page range: 109-109</summary>
+  </entry>
+  <entry>
+    <title>Grotesque and Sublime Identities in Poe’sTales of the Grotesque and Arabesque</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-3002/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-3002</id>
+    <updated>2026-06-16T15:35:53.338268+00:00</updated>
+    <summary>Authors: Elena Anastasaki
+DOI: https://doi.org/10.1515/zaa-2026-3002
+Pages: Page range: 111-128</summary>
+  </entry>
+  <entry>
+    <title>Bearing the Brunt of the Cold War: FromThe HooktoOn the Waterfrontas a Creative Collaboration</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-3003/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-3003</id>
+    <updated>2026-06-16T15:35:53.338279+00:00</updated>
+    <summary>Authors: Junghyun Hwang
+DOI: https://doi.org/10.1515/zaa-2026-3003
+Pages: Page range: 129-142</summary>
+  </entry>
+  <entry>
+    <title>Walking the Mean Streets: Indian Women Detectives as UrbanFlâneuses</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-3004/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-3004</id>
+    <updated>2026-06-16T15:35:53.338291+00:00</updated>
+    <summary>Authors: Somjeeta Pandey
+DOI: https://doi.org/10.1515/zaa-2026-3004
+Pages: Page range: 143-157</summary>
+  </entry>
+  <entry>
+    <title>Dissonance as Historical Consciousness: Music, Memory, and Rebellion inH(A)PPY</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-3005/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-3005</id>
+    <updated>2026-06-16T15:35:53.338302+00:00</updated>
+    <summary>Authors: Stylianos Kompogiannis
+DOI: https://doi.org/10.1515/zaa-2026-3005
+Pages: Page range: 159-172</summary>
+  </entry>
+  <entry>
+    <title>The Politics of Cultural Nostalgia:Don’t Worry Darlingand the Fifties</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-3006/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-3006</id>
+    <updated>2026-06-16T15:35:53.338334+00:00</updated>
+    <summary>Authors: Steffen Hantke
+DOI: https://doi.org/10.1515/zaa-2026-3006
+Pages: Page range: 173-185</summary>
+  </entry>
+  <entry>
+    <title>Exchanges, Challenges, and Concerns in the North Atlantic Triangle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-2001/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-2001</id>
+    <updated>2026-06-16T15:35:53.338345+00:00</updated>
+    <summary>Authors: Jochen Achilles
+DOI: https://doi.org/10.1515/zaa-2026-2001
+Pages: Page range: 187-190</summary>
+  </entry>
+  <entry>
+    <title>The Complete Poetry of Percy Bysshe Shelley and The Poems of Shelley</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-2003/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-2003</id>
+    <updated>2026-06-16T15:35:53.338355+00:00</updated>
+    <summary>Authors: Christoph Bode
+DOI: https://doi.org/10.1515/zaa-2026-2003
+Pages: Page range: 191-197</summary>
+  </entry>
+  <entry>
+    <title>Reproduction and the Maternal Body in Literature and Culture. Bodies of Knowledge, 1726–1818</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2026-2002/html"/>
+    <id>https://doi.org/10.1515/zaa-2026-2002</id>
+    <updated>2026-06-16T15:35:53.338365+00:00</updated>
+    <summary>Authors: Davina Höll
+DOI: https://doi.org/10.1515/zaa-2026-2002
+Pages: Page range: 199-202</summary>
+  </entry>
+</feed>

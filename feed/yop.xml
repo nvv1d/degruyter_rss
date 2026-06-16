@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yearbook of Phraseology...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/yop/16/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/yop.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/yop/html" rel="related"/>
+  <updated>2026-06-16T15:35:10.822775+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/yop.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Yearbook of Phraseology... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/phras-2025-frontmatter1</id>
+    <updated>2026-06-16T15:35:10.822808+00:00</updated>
+    <summary>Authors: Carmen Mellado Blanco, Fabio Mollica, Jean-Pierre Colson, Natalia Filatkina, Kathrin Steyer, Antonio Pamies-Bertrán
+DOI: https://doi.org/10.1515/phras-2025-frontmatter1
+Pages: Page range: i-viii</summary>
+  </entry>
+  <entry>
+    <title>Editorial (English)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0001/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0001</id>
+    <updated>2026-06-16T15:35:10.822822+00:00</updated>
+    <summary>Authors: Carmen Mellado Blanco, Fabio Mollica
+DOI: https://doi.org/10.1515/phras-2025-0001
+Pages: Page range: 1-2</summary>
+  </entry>
+  <entry>
+    <title>Editorial (Deutsch)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0002/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0002</id>
+    <updated>2026-06-16T15:35:10.822834+00:00</updated>
+    <summary>Authors: Carmen Mellado Blanco, Fabio Mollica
+DOI: https://doi.org/10.1515/phras-2025-0002
+Pages: Page range: 3-4</summary>
+  </entry>
+  <entry>
+    <title>Phraseology and Figurative Language: Some Basic Concepts and Future Prospects</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0003/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0003</id>
+    <updated>2026-06-16T15:35:10.822845+00:00</updated>
+    <summary>Authors: Dmitrij Dobrovol’skij
+DOI: https://doi.org/10.1515/phras-2025-0003
+Pages: Page range: 5-50</summary>
+  </entry>
+  <entry>
+    <title>Idiomatische Mehrwortverbindungen im Fremdsprachenunterricht – Vorschlag einer Selektion für Deutsch lernende Polen aus der Perspektive der plurilingualen Fremdsprachendidaktik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0004/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0004</id>
+    <updated>2026-06-16T15:35:10.822858+00:00</updated>
+    <summary>Authors: Anna Sulikowska
+DOI: https://doi.org/10.1515/phras-2025-0004
+Pages: Page range: 51-90</summary>
+  </entry>
+  <entry>
+    <title>Bridging the Gap: Using Embodiment and CMT Strategies to Improve Idiom Understanding Among Moroccan EFL Students</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0005/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0005</id>
+    <updated>2026-06-16T15:35:10.822869+00:00</updated>
+    <summary>Authors: Abdelaaziz El Yamani, Meriam Labzar, El Habib Darkaoui Soufi, Hassane Darir
+DOI: https://doi.org/10.1515/phras-2025-0005
+Pages: Page range: 91-124</summary>
+  </entry>
+  <entry>
+    <title>Measuring Creative Phraseology in Literature: Machine Translation Systems Versus Large Language Models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0006/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0006</id>
+    <updated>2026-06-16T15:35:10.822898+00:00</updated>
+    <summary>Authors: Laura Noriega-Santiáñez, Gloria Corpas Pastor
+DOI: https://doi.org/10.1515/phras-2025-0006
+Pages: Page range: 125-152</summary>
+  </entry>
+  <entry>
+    <title>Addition in Anglo-American anti-Proverbs about Money</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0007/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0007</id>
+    <updated>2026-06-16T15:35:10.822923+00:00</updated>
+    <summary>Authors: Anna T. Litovkina
+DOI: https://doi.org/10.1515/phras-2025-0007
+Pages: Page range: 153-176</summary>
+  </entry>
+  <entry>
+    <title>Where there is (there’s) a will, there is (there’s) a way</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0008/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0008</id>
+    <updated>2026-06-16T15:35:10.822938+00:00</updated>
+    <summary>Authors: Wolfgang Mieder
+DOI: https://doi.org/10.1515/phras-2025-0008
+Pages: Page range: 177-214</summary>
+  </entry>
+  <entry>
+    <title>Book reviews</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0009/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0009</id>
+    <updated>2026-06-16T15:35:10.822949+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phras-2025-0009
+Pages: Page range: 215-218</summary>
+  </entry>
+  <entry>
+    <title>Book reviews</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0010/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0010</id>
+    <updated>2026-06-16T15:35:10.822983+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phras-2025-0010
+Pages: Page range: 219-224</summary>
+  </entry>
+  <entry>
+    <title>Book reviews</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0011/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0011</id>
+    <updated>2026-06-16T15:35:10.822994+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phras-2025-0011
+Pages: Page range: 225-228</summary>
+  </entry>
+  <entry>
+    <title>Book reviews</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2025-0012/html"/>
+    <id>https://doi.org/10.1515/phras-2025-0012</id>
+    <updated>2026-06-16T15:35:10.823003+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phras-2025-0012
+Pages: Page range: 229-234</summary>
+  </entry>
+</feed>

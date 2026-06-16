@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Linguistic Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/tlir/43/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/tlir.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/tlir/html" rel="related"/>
+  <updated>2026-06-16T15:35:50.210931+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/tlir.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from The Linguistic Review (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/tlr-2026-frontmatter2</id>
+    <updated>2026-06-16T15:35:50.210965+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/tlr-2026-frontmatter2
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Being verbal is distinct from being (syntactically) eventive: evidence from nominals</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-0011/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-0011</id>
+    <updated>2026-06-16T15:35:50.210978+00:00</updated>
+    <summary>Authors: Sebastian Wasak
+DOI: https://doi.org/10.1515/tlr-2025-0011
+Pages: Page range: 187-212</summary>
+  </entry>
+  <entry>
+    <title>The dual nature of restructuring verbs and infinitival complementation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-0043/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-0043</id>
+    <updated>2026-06-16T15:35:50.210991+00:00</updated>
+    <summary>Authors: Daniele Portolan
+DOI: https://doi.org/10.1515/tlr-2025-0043
+Pages: Page range: 213-285</summary>
+  </entry>
+  <entry>
+    <title>Phases and infinitival clauses in the miracle creed system</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-0016/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-0016</id>
+    <updated>2026-06-16T15:35:50.211001+00:00</updated>
+    <summary>Authors: Stefanie Bode
+DOI: https://doi.org/10.1515/tlr-2025-0016
+Pages: Page range: 287-335</summary>
+  </entry>
+  <entry>
+    <title>Contextual licensing of agreement and anaphora: evidence from Korean–Spanish structures and model-based probes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2026-0001/html"/>
+    <id>https://doi.org/10.1515/tlr-2026-0001</id>
+    <updated>2026-06-16T15:35:50.211013+00:00</updated>
+    <summary>Authors: Kyungjin Hwang
+DOI: https://doi.org/10.1515/tlr-2026-0001
+Pages: Page range: 337-379</summary>
+  </entry>
+</feed>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Educational Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/eduling/5/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/eduling.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/eduling/html" rel="related"/>
+  <updated>2026-06-16T15:33:13.891836+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/eduling.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Educational Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/eduling-2026-frontmatter1</id>
+    <updated>2026-06-16T15:33:13.891869+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/eduling-2026-frontmatter1
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Translanguaging ideology? Scholars’ and practitioners’ discourses in a foreign-language education context</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2025-0008/html"/>
+    <id>https://doi.org/10.1515/eduling-2025-0008</id>
+    <updated>2026-06-16T15:33:13.891883+00:00</updated>
+    <summary>Authors: Tomoko Tode, Kojiro Hozawa
+DOI: https://doi.org/10.1515/eduling-2025-0008
+Pages: Page range: 1-30</summary>
+  </entry>
+  <entry>
+    <title>A multidimensional analysis of university students’ everyday reading and writing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2025-0010/html"/>
+    <id>https://doi.org/10.1515/eduling-2025-0010</id>
+    <updated>2026-06-16T15:33:13.891895+00:00</updated>
+    <summary>Authors: Brett Hashimoto
+DOI: https://doi.org/10.1515/eduling-2025-0010
+Pages: Page range: 31-69</summary>
+  </entry>
+  <entry>
+    <title>Assessing intercultural communicative competence: internet memes for telecollaboration</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2025-0026/html"/>
+    <id>https://doi.org/10.1515/eduling-2025-0026</id>
+    <updated>2026-06-16T15:33:13.891906+00:00</updated>
+    <summary>Authors: Lidiia Shepelytska
+DOI: https://doi.org/10.1515/eduling-2025-0026
+Pages: Page range: 70-92</summary>
+  </entry>
+  <entry>
+    <title>Deferred epistemologies: cyclical theory importation and knowledge governance in China’s foreign language education in schools</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2025-0014/html"/>
+    <id>https://doi.org/10.1515/eduling-2025-0014</id>
+    <updated>2026-06-16T15:33:13.891916+00:00</updated>
+    <summary>Authors: Hao Xu
+DOI: https://doi.org/10.1515/eduling-2025-0014
+Pages: Page range: 93-114</summary>
+  </entry>
+  <entry>
+    <title>An interview with David Block</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2025-0022/html"/>
+    <id>https://doi.org/10.1515/eduling-2025-0022</id>
+    <updated>2026-06-16T15:33:13.891927+00:00</updated>
+    <summary>Authors: William Simpson, Jérémie Bouchard
+DOI: https://doi.org/10.1515/eduling-2025-0022
+Pages: Page range: 115-126</summary>
+  </entry>
+</feed>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of China Computer-Assisted Language Learning</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jccall/5/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jccall.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jccall/html" rel="related"/>
+  <updated>2026-06-16T15:34:06.956275+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jccall.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Journal of China Computer-Assisted Language Learning (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jccall-2025-frontmatter2</id>
+    <updated>2026-06-16T15:34:06.956336+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jccall-2025-frontmatter2
+Pages: Page range: i-ii</summary>
+  </entry>
+  <entry>
+    <title>Cultivating AI literacy in language education: theoretical discussions and practical applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2025-0023/html"/>
+    <id>https://doi.org/10.1515/jccall-2025-0023</id>
+    <updated>2026-06-16T15:34:06.956350+00:00</updated>
+    <summary>Authors: Junjie Gavin Wu, Seongyong Lee, Danyang Zhang, Csaba Szabo
+DOI: https://doi.org/10.1515/jccall-2025-0023
+Pages: Page range: 169-174</summary>
+  </entry>
+  <entry>
+    <title>Critical AI literacy for applied linguistics and language education students</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2025-0005/html"/>
+    <id>https://doi.org/10.1515/jccall-2025-0005</id>
+    <updated>2026-06-16T15:34:06.956362+00:00</updated>
+    <summary>Authors: Pascual Pérez-Paredes, Niall Curry, Carlos Ordoñana-Guillamón
+DOI: https://doi.org/10.1515/jccall-2025-0005
+Pages: Page range: 175-214</summary>
+  </entry>
+  <entry>
+    <title>AI literacy in shadow education: exploring Chinese EFL practitioners’ perceptions and experiences</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2025-0011/html"/>
+    <id>https://doi.org/10.1515/jccall-2025-0011</id>
+    <updated>2026-06-16T15:34:06.956373+00:00</updated>
+    <summary>Authors: Qian Liu, Mengjie Jiang, Yonghua (Yoka) Wang, Liqun He
+DOI: https://doi.org/10.1515/jccall-2025-0011
+Pages: Page range: 215-242</summary>
+  </entry>
+  <entry>
+    <title>Enhancing EAP students’ academic writing and AI literacies: practice at a transnational university in China</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2025-0004/html"/>
+    <id>https://doi.org/10.1515/jccall-2025-0004</id>
+    <updated>2026-06-16T15:34:06.956388+00:00</updated>
+    <summary>Authors: Huimin He, Joseph Tinsley
+DOI: https://doi.org/10.1515/jccall-2025-0004
+Pages: Page range: 243-259</summary>
+  </entry>
+  <entry>
+    <title>Developing AI literacies and negotiating professional identities: a study of pre-service English teachers in a ChatGPT-facilitated pedagogy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2025-0007/html"/>
+    <id>https://doi.org/10.1515/jccall-2025-0007</id>
+    <updated>2026-06-16T15:34:06.956399+00:00</updated>
+    <summary>Authors: Yilin You, Yue Zhang
+DOI: https://doi.org/10.1515/jccall-2025-0007
+Pages: Page range: 260-286</summary>
+  </entry>
+  <entry>
+    <title>Language teacher AI literacy: insights from collaborations with ChatGPT</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2024-0030/html"/>
+    <id>https://doi.org/10.1515/jccall-2024-0030</id>
+    <updated>2026-06-16T15:34:06.956409+00:00</updated>
+    <summary>Authors: Weiming Liu
+DOI: https://doi.org/10.1515/jccall-2024-0030
+Pages: Page range: 287-316</summary>
+  </entry>
+  <entry>
+    <title>Review ofAI Competency Framework for Teachers, Fengchun Miao and Mutlu Cukurova, 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2025-0018/html"/>
+    <id>https://doi.org/10.1515/jccall-2025-0018</id>
+    <updated>2026-06-16T15:34:06.956419+00:00</updated>
+    <summary>Authors: Yijia Fang, Shuai Zhang
+DOI: https://doi.org/10.1515/jccall-2025-0018
+Pages: Page range: 317-326</summary>
+  </entry>
+  <entry>
+    <title>Book Review on Technology and English Language Teaching in a Changing World: A Practical Guide for Teachers and Teacher Educators</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jccall-2024-0027/html"/>
+    <id>https://doi.org/10.1515/jccall-2024-0027</id>
+    <updated>2026-06-16T15:34:06.956429+00:00</updated>
+    <summary>Authors: Yunjing Guo
+DOI: https://doi.org/10.1515/jccall-2024-0027
+Pages: Page range: 327-335</summary>
+  </entry>
+</feed>

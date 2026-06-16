@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mother Tongue...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mot/25/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/mot.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mot/html" rel="related"/>
+  <updated>2026-06-16T15:34:58.396053+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/mot.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Mother Tongue... (De Gruyter)</subtitle>
+  <entry>
+    <title>Title</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-frontmatter2501/html"/>
+    <id>https://doi.org/10.31826/mot-2024-frontmatter2501</id>
+    <updated>2026-06-16T15:34:58.396086+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/mot-2024-frontmatter2501
+Pages: Page range: I-IV</summary>
+  </entry>
+  <entry>
+    <title>CONTENTS</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-toc2501/html"/>
+    <id>https://doi.org/10.31826/mot-2024-toc2501</id>
+    <updated>2026-06-16T15:34:58.396100+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/mot-2024-toc2501
+Pages: Page range: V-VI</summary>
+  </entry>
+  <entry>
+    <title>Introduction to this issue of Mother Tongue</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250101/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250101</id>
+    <updated>2026-06-16T15:34:58.396112+00:00</updated>
+    <summary>Authors: Gregory Haynes, Pierre Bancel
+DOI: https://doi.org/10.31826/mot-2024-250101
+Pages: Page range: 1-2</summary>
+  </entry>
+  <entry>
+    <title>In Memory of John D. Bengtson (March 26, 1948–March 3, 2024)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250102/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250102</id>
+    <updated>2026-06-16T15:34:58.396124+00:00</updated>
+    <summary>Authors: Václav Blažek
+DOI: https://doi.org/10.31826/mot-2024-250102
+Pages: Page range: 3-11</summary>
+  </entry>
+  <entry>
+    <title>Tributes to John Bengtson</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250103/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250103</id>
+    <updated>2026-06-16T15:34:58.396136+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/mot-2024-250103
+Pages: Page range: 12-14</summary>
+  </entry>
+  <entry>
+    <title>In Memory of Raimo Anttila (muistoja)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250104/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250104</id>
+    <updated>2026-06-16T15:34:58.396146+00:00</updated>
+    <summary>Authors: Lyle Campbell
+DOI: https://doi.org/10.31826/mot-2024-250104
+Pages: Page range: 15-17</summary>
+  </entry>
+  <entry>
+    <title>On Raimo Aulis Anttila (1935–1923)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250105/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250105</id>
+    <updated>2026-06-16T15:34:58.396157+00:00</updated>
+    <summary>Authors: Georgios K. Giannakis
+DOI: https://doi.org/10.31826/mot-2024-250105
+Pages: Page range: 18-19</summary>
+  </entry>
+  <entry>
+    <title>Reprint of book review, “Greek and Indo-European etymology in action: Proto Indo-European *aǵ-” by Raimo Anttila</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250106/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250106</id>
+    <updated>2026-06-16T15:34:58.396175+00:00</updated>
+    <summary>Authors: Leonid Kulikov
+DOI: https://doi.org/10.31826/mot-2024-250106
+Pages: Page range: 20-22</summary>
+  </entry>
+  <entry>
+    <title>The Vedic root variants of the type CaC // C(C)ā: Formal patterns and transitivity types (Indo-Aryan evidence for the Indo-European Schwebeablaut and laryngeal root extension)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250107/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250107</id>
+    <updated>2026-06-16T15:34:58.396192+00:00</updated>
+    <summary>Authors: Leonid Kulikov
+DOI: https://doi.org/10.31826/mot-2024-250107
+Pages: Page range: 23-52</summary>
+  </entry>
+  <entry>
+    <title>Observations on the Reflexes k- and h- for Initial *k- in Hungarian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250108/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250108</id>
+    <updated>2026-06-16T15:34:58.396207+00:00</updated>
+    <summary>Authors: Jan Henrik Holst
+DOI: https://doi.org/10.31826/mot-2024-250108
+Pages: Page range: 53-62</summary>
+  </entry>
+  <entry>
+    <title>(De)classifying Arunachal Languages: Reconsidering the Evidence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250109/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250109</id>
+    <updated>2026-06-16T15:34:58.396233+00:00</updated>
+    <summary>Authors: Roger Blench
+DOI: https://doi.org/10.31826/mot-2024-250109
+Pages: Page range: 63-94</summary>
+  </entry>
+  <entry>
+    <title>Old Norse Yggdrasill. An Etymological Re-evaluation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250110/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250110</id>
+    <updated>2026-06-16T15:34:58.396244+00:00</updated>
+    <summary>Authors: Gregory Haynes
+DOI: https://doi.org/10.31826/mot-2024-250110
+Pages: Page range: 95-118</summary>
+  </entry>
+  <entry>
+    <title>The Path in Heaven</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250111/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250111</id>
+    <updated>2026-06-16T15:34:58.396254+00:00</updated>
+    <summary>Authors: Michael Witzel
+DOI: https://doi.org/10.31826/mot-2024-250111
+Pages: Page range: 119-152</summary>
+  </entry>
+  <entry>
+    <title>Pris aux mots – De l'origine du langage à l'origine des langues. Mother Tongue Editorial Board</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250112/html"/>
+    <id>https://doi.org/10.31826/mot-2024-250112</id>
+    <updated>2026-06-16T15:34:58.396265+00:00</updated>
+    <summary>Authors: Pierre Bancel
+DOI: https://doi.org/10.31826/mot-2024-250112
+Pages: Page range: 153-153</summary>
+  </entry>
+</feed>

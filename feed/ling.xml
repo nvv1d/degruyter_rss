@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Linguistics...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ling/64/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/ling.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ling/html" rel="related"/>
+  <updated>2026-06-16T15:34:45.492630+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/ling.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Linguistics... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2026-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/ling-2026-frontmatter3</id>
+    <updated>2026-06-16T15:34:45.492660+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ling-2026-frontmatter3
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>A phonological typology of demonstratives: a study in iconicity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2021-0114/html"/>
+    <id>https://doi.org/10.1515/ling-2021-0114</id>
+    <updated>2026-06-16T15:34:45.492673+00:00</updated>
+    <summary>Authors: Sonja Dahlgren, Seppo Kittilä
+DOI: https://doi.org/10.1515/ling-2021-0114
+Pages: Page range: 431-471</summary>
+  </entry>
+  <entry>
+    <title>Variation in Gizey third-person subjects and the emergence of antilogophoricity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2024-0002/html"/>
+    <id>https://doi.org/10.1515/ling-2024-0002</id>
+    <updated>2026-06-16T15:34:45.492685+00:00</updated>
+    <summary>Authors: Guillaume Guitang
+DOI: https://doi.org/10.1515/ling-2024-0002
+Pages: Page range: 473-500</summary>
+  </entry>
+  <entry>
+    <title>The acquisition of theDeterminer Phrase (DP)and adjective placement in early L3 German by adult Chinese speakers of advanced L2 English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2024-0039/html"/>
+    <id>https://doi.org/10.1515/ling-2024-0039</id>
+    <updated>2026-06-16T15:34:45.492697+00:00</updated>
+    <summary>Authors: Stano Kong
+DOI: https://doi.org/10.1515/ling-2024-0039
+Pages: Page range: 501-533</summary>
+  </entry>
+  <entry>
+    <title>General classifiers as ‘forerunners’ in the grammaticalization of numeral classifiers in Southern Sinitic languages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0197/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0197</id>
+    <updated>2026-06-16T15:34:45.492707+00:00</updated>
+    <summary>Authors: Qi Huang
+DOI: https://doi.org/10.1515/ling-2023-0197
+Pages: Page range: 535-567</summary>
+  </entry>
+  <entry>
+    <title>Phonological distances between Eurasian lects measured via Phonotacticon 1.0 reveal areal patterns</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2024-0157/html"/>
+    <id>https://doi.org/10.1515/ling-2024-0157</id>
+    <updated>2026-06-16T15:34:45.492717+00:00</updated>
+    <summary>Authors: Ian Joo, Yu-Yin Hsu
+DOI: https://doi.org/10.1515/ling-2024-0157
+Pages: Page range: 569-601</summary>
+  </entry>
+  <entry>
+    <title>Optional subject indexing in spontaneous speech in Modern Persian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0235/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0235</id>
+    <updated>2026-06-16T15:34:45.492728+00:00</updated>
+    <summary>Authors: Pegah Faghiri
+DOI: https://doi.org/10.1515/ling-2023-0235
+Pages: Page range: 603-638</summary>
+  </entry>
+  <entry>
+    <title>Response to Körtvélyessy (2025): productivity and related topics in word-formation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2025-0185/html"/>
+    <id>https://doi.org/10.1515/ling-2025-0185</id>
+    <updated>2026-06-16T15:34:45.492737+00:00</updated>
+    <summary>Authors: Laurie Bauer
+DOI: https://doi.org/10.1515/ling-2025-0185
+Pages: Page range: 639-650</summary>
+  </entry>
+</feed>

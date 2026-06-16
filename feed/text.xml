@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Text &amp; Talk...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/text/46/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/text.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/text/html" rel="related"/>
+  <updated>2026-06-16T15:35:42.995457+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/text.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Text &amp; Talk... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2026-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/text-2026-frontmatter3</id>
+    <updated>2026-06-16T15:35:42.995502+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/text-2026-frontmatter3
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Empathy as dynamic social meaning-making: audience responses to patient-generated materials about endometriosis care</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0219/html"/>
+    <id>https://doi.org/10.1515/text-2024-0219</id>
+    <updated>2026-06-16T15:35:42.995515+00:00</updated>
+    <summary>Authors: Elisabeth El Refaie
+DOI: https://doi.org/10.1515/text-2024-0219
+Pages: Page range: 291-311</summary>
+  </entry>
+  <entry>
+    <title>Motivational interviewing and the reframing of identity: small stories in first encounters between clients with alcohol use disorders and their therapists</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0161/html"/>
+    <id>https://doi.org/10.1515/text-2024-0161</id>
+    <updated>2026-06-16T15:35:42.995527+00:00</updated>
+    <summary>Authors: Cindie A. Aaen Maagaard, Anette Søgaard Nielsen
+DOI: https://doi.org/10.1515/text-2024-0161
+Pages: Page range: 313-338</summary>
+  </entry>
+  <entry>
+    <title>Shifting from a ‘just’ to a ‘fair’ transition in environmental discourse: a case of old wine in a new bottle?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0156/html"/>
+    <id>https://doi.org/10.1515/text-2024-0156</id>
+    <updated>2026-06-16T15:35:42.995540+00:00</updated>
+    <summary>Authors: Pietro Manzella
+DOI: https://doi.org/10.1515/text-2024-0156
+Pages: Page range: 339-356</summary>
+  </entry>
+  <entry>
+    <title>Unveiling romance in categories: exploring compatibility in Tinder conversations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0159/html"/>
+    <id>https://doi.org/10.1515/text-2024-0159</id>
+    <updated>2026-06-16T15:35:42.995551+00:00</updated>
+    <summary>Authors: Carles Roca-Cuberes, Michael Mora-Rodriguez, Julio Hardisson-Guimerà
+DOI: https://doi.org/10.1515/text-2024-0159
+Pages: Page range: 357-381</summary>
+  </entry>
+  <entry>
+    <title>Praising the client in career guidance</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0206/html"/>
+    <id>https://doi.org/10.1515/text-2024-0206</id>
+    <updated>2026-06-16T15:35:42.995562+00:00</updated>
+    <summary>Authors: Sanna Vehviläinen, Liisa Voutilainen
+DOI: https://doi.org/10.1515/text-2024-0206
+Pages: Page range: 383-407</summary>
+  </entry>
+  <entry>
+    <title>“Kaigewanxiao” (‘Just kidding’): the use of humor markers in Chinese media discourse</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0180/html"/>
+    <id>https://doi.org/10.1515/text-2024-0180</id>
+    <updated>2026-06-16T15:35:42.995574+00:00</updated>
+    <summary>Authors: Zhiwei Zhao, Chengtuan Li, Jing Han, Huhua Ouyang
+DOI: https://doi.org/10.1515/text-2024-0180
+Pages: Page range: 409-428</summary>
+  </entry>
+</feed>

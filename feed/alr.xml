@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Applied Linguistics Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/alr/17/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/alr.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/alr/html" rel="related"/>
+  <updated>2026-06-16T15:32:43.047036+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/alr.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Applied Linguistics Review (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2026-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/applirev-2026-frontmatter3</id>
+    <updated>2026-06-16T15:32:43.047069+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/applirev-2026-frontmatter3
+Pages: Page range: i-vii</summary>
+  </entry>
+  <entry>
+    <title>Platformization of language education</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0228/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0228</id>
+    <updated>2026-06-16T15:32:43.047082+00:00</updated>
+    <summary>Authors: Nathaniel Ming Curran, Christopher Jenks
+DOI: https://doi.org/10.1515/applirev-2025-0228
+Pages: Page range: 789-803</summary>
+  </entry>
+  <entry>
+    <title>English language teachers’ professionalism on social media: a sociomaterial perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0229/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0229</id>
+    <updated>2026-06-16T15:32:43.047095+00:00</updated>
+    <summary>Authors: Hassan Nejadghanbar, Juyoung Song
+DOI: https://doi.org/10.1515/applirev-2025-0229
+Pages: Page range: 805-827</summary>
+  </entry>
+  <entry>
+    <title>Projecting authenticity through nativeness: a multimodal analysis of microcelebrity English teachers’ Instagram reels</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0220/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0220</id>
+    <updated>2026-06-16T15:32:43.047105+00:00</updated>
+    <summary>Authors: Erhan Aslan, Wing Yee Jenifer Ho
+DOI: https://doi.org/10.1515/applirev-2025-0220
+Pages: Page range: 829-854</summary>
+  </entry>
+  <entry>
+    <title>Self-branding and the commodification of regional identity on Douyin</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0226/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0226</id>
+    <updated>2026-06-16T15:32:43.047116+00:00</updated>
+    <summary>Authors: Jinyan Wang, Nathaniel Ming Curran
+DOI: https://doi.org/10.1515/applirev-2025-0226
+Pages: Page range: 855-877</summary>
+  </entry>
+  <entry>
+    <title>Platformization, social media, and investing in unequal digital literacy practices</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0217/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0217</id>
+    <updated>2026-06-16T15:32:43.047127+00:00</updated>
+    <summary>Authors: Ron Darvin
+DOI: https://doi.org/10.1515/applirev-2025-0217
+Pages: Page range: 879-902</summary>
+  </entry>
+  <entry>
+    <title>‘He did not mean to do it to me’: online sexual harassment and the feminization of Filipina English teachers on an ELT platform</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0222/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0222</id>
+    <updated>2026-06-16T15:32:43.047138+00:00</updated>
+    <summary>Authors: Eun Cho, In Chull Jang
+DOI: https://doi.org/10.1515/applirev-2025-0222
+Pages: Page range: 903-923</summary>
+  </entry>
+  <entry>
+    <title>Online Filipino English teachers and the platformization of Japan’s English education</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0230/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0230</id>
+    <updated>2026-06-16T15:32:43.047148+00:00</updated>
+    <summary>Authors: Yoko Kobayashi
+DOI: https://doi.org/10.1515/applirev-2025-0230
+Pages: Page range: 925-939</summary>
+  </entry>
+  <entry>
+    <title>Meet your new AI teacher: hypes, promises, and realities in AI-powered language education platforms</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0224/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0224</id>
+    <updated>2026-06-16T15:32:43.047159+00:00</updated>
+    <summary>Authors: Ali Fuad Selvi
+DOI: https://doi.org/10.1515/applirev-2025-0224
+Pages: Page range: 941-965</summary>
+  </entry>
+  <entry>
+    <title>Conceptualizing critical AI literacy in writing education: power dynamics in Chinese EAL students’ negotiations with GenAI</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0247/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0247</id>
+    <updated>2026-06-16T15:32:43.047169+00:00</updated>
+    <summary>Authors: Yachao Sun
+DOI: https://doi.org/10.1515/applirev-2025-0247
+Pages: Page range: 967-990</summary>
+  </entry>
+  <entry>
+    <title>Unlocking linguistic potential: exploring translanguaging perceptions among EFL students in Turkey</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0297/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0297</id>
+    <updated>2026-06-16T15:32:43.047201+00:00</updated>
+    <summary>Authors: Ömer Gökhan Ulum
+DOI: https://doi.org/10.1515/applirev-2024-0297
+Pages: Page range: 991-1021</summary>
+  </entry>
+  <entry>
+    <title>‘Our family’ as discursive and biographical space: notes for a sociolinguistics of family</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0192/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0192</id>
+    <updated>2026-06-16T15:32:43.047213+00:00</updated>
+    <summary>Authors: Adriana Patiño-Santos, Eva Codó
+DOI: https://doi.org/10.1515/applirev-2025-0192
+Pages: Page range: 1023-1046</summary>
+  </entry>
+  <entry>
+    <title>The influence of linguistic features on L2 Chinese writing quality among students with various L1 backgrounds</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0007/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0007</id>
+    <updated>2026-06-16T15:32:43.047225+00:00</updated>
+    <summary>Authors: Xinye Zhang, Siyu Zhu, Yuan Yao, Shulin Yu, Wanru Pang, Xinhua Zhu
+DOI: https://doi.org/10.1515/applirev-2025-0007
+Pages: Page range: 1047-1081</summary>
+  </entry>
+  <entry>
+    <title>Styles and stereotypes: English and translingual practices in the neoliberal era</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0193/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0193</id>
+    <updated>2026-06-16T15:32:43.047235+00:00</updated>
+    <summary>Authors: Mei-Ya Liang, Chih-Cheng Wang, Shu-Ning Lee
+DOI: https://doi.org/10.1515/applirev-2024-0193
+Pages: Page range: 1083-1104</summary>
+  </entry>
+  <entry>
+    <title>Translanguaging, learner autonomy and out-of-class learning of Chinese: the case of Liebao</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0379/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0379</id>
+    <updated>2026-06-16T15:32:43.047245+00:00</updated>
+    <summary>Authors: Sen Chen, Roula Tsokalidou
+DOI: https://doi.org/10.1515/applirev-2024-0379
+Pages: Page range: 1105-1127</summary>
+  </entry>
+  <entry>
+    <title>Investigating the role of trans-semiotizing in developing a literature review: meaning entanglement across multiple timescales</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0333/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0333</id>
+    <updated>2026-06-16T15:32:43.047255+00:00</updated>
+    <summary>Authors: Jiajia Eve Liu, Miao Yang, Yuen Yi Lo, Angel M. Y. Lin
+DOI: https://doi.org/10.1515/applirev-2024-0333
+Pages: Page range: 1129-1159</summary>
+  </entry>
+  <entry>
+    <title>Translanguaging in research interviews: social practice, discursive transpositioning, and methodological challenges</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0102/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0102</id>
+    <updated>2026-06-16T15:32:43.047265+00:00</updated>
+    <summary>Authors: Trang Thi Thuy Nguyen, John Hajek
+DOI: https://doi.org/10.1515/applirev-2024-0102
+Pages: Page range: 1161-1187</summary>
+  </entry>
+  <entry>
+    <title>Delving into the role of teacher respect and support in predicting Chinese EFL learners’ willingness to attend classes: a sequential mixed-methods study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0204/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0204</id>
+    <updated>2026-06-16T15:32:43.047276+00:00</updated>
+    <summary>Authors: Shuxia Bai, Yunxian Guo
+DOI: https://doi.org/10.1515/applirev-2024-0204
+Pages: Page range: 1189-1217</summary>
+  </entry>
+  <entry>
+    <title>“Nosotros participamos de todos los trabajos de la iglesia”: Venezuelan young migrants’ linguistic investment and language socialisation within a religious community in Brazil</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2023-0190/html"/>
+    <id>https://doi.org/10.1515/applirev-2023-0190</id>
+    <updated>2026-06-16T15:32:43.047288+00:00</updated>
+    <summary>Authors: Daniel Guillermo Gordillo Sánchez, Sílvia Melo-Pfeifer
+DOI: https://doi.org/10.1515/applirev-2023-0190
+Pages: Page range: 1219-1238</summary>
+  </entry>
+  <entry>
+    <title>Confirming the efficacy of vocabulary-enhanced L2 listening with mobile applications: the extended technology acceptance model revisited</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0288/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0288</id>
+    <updated>2026-06-16T15:32:43.047298+00:00</updated>
+    <summary>Authors: Chia-an Lin, Hui-tzu Hsu, Chih-cheng Lin
+DOI: https://doi.org/10.1515/applirev-2024-0288
+Pages: Page range: 1239-1261</summary>
+  </entry>
+  <entry>
+    <title>Modelling workplace communicative competence: evidence from migrant workers in food services</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0281/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0281</id>
+    <updated>2026-06-16T15:32:43.047329+00:00</updated>
+    <summary>Authors: Jason Fan, Ute Knoch, Michael Davey, Rohan Chandran, Annemiek Huisman, Ivy Chen, Sally O’Hagan, Maria Treadaway
+DOI: https://doi.org/10.1515/applirev-2025-0281
+Pages: Page range: 1263-1287</summary>
+  </entry>
+  <entry>
+    <title>Revisiting aviation English as a lingua franca: insights from domain specialists</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0132/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0132</id>
+    <updated>2026-06-16T15:32:43.047343+00:00</updated>
+    <summary>Authors: Hyejeong Kim, Eric Friginal
+DOI: https://doi.org/10.1515/applirev-2025-0132
+Pages: Page range: 1289-1313</summary>
+  </entry>
+  <entry>
+    <title>Family language policy of bilingual couples using Esperanto as a Lingua Franca</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0201/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0201</id>
+    <updated>2026-06-16T15:32:43.047354+00:00</updated>
+    <summary>Authors: Agnieszka Stępkowska
+DOI: https://doi.org/10.1515/applirev-2025-0201
+Pages: Page range: 1315-1336</summary>
+  </entry>
+  <entry>
+    <title>Difficulty and complexity of pragmatic comprehension tasks: an eye-tracking pilot study of advanced Polish users of English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2023-0041/html"/>
+    <id>https://doi.org/10.1515/applirev-2023-0041</id>
+    <updated>2026-06-16T15:32:43.047367+00:00</updated>
+    <summary>Authors: Iwona Dronia, Agnieszka Ślęzak-Świat
+DOI: https://doi.org/10.1515/applirev-2023-0041
+Pages: Page range: 1337-1367</summary>
+  </entry>
+  <entry>
+    <title>A social justice research agenda for multilingual assessment in diverse educational contexts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0278/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0278</id>
+    <updated>2026-06-16T15:32:43.047378+00:00</updated>
+    <summary>Authors: Saskia Van Viegen, Sunny Man Chu Lau, Angel M.Y. Lin
+DOI: https://doi.org/10.1515/applirev-2025-0278
+Pages: Page range: 1369-1387</summary>
+  </entry>
+  <entry>
+    <title>Student engagement with written feedback in second language writing: a systematic methodological review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0264/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0264</id>
+    <updated>2026-06-16T15:32:43.047388+00:00</updated>
+    <summary>Authors: Jinghua Qian, Danli Li, Shaofeng Li
+DOI: https://doi.org/10.1515/applirev-2025-0264
+Pages: Page range: 1389-1416</summary>
+  </entry>
+  <entry>
+    <title>Framework for organizing error correction strategies in the L2 classroom</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2024-0273/html"/>
+    <id>https://doi.org/10.1515/applirev-2024-0273</id>
+    <updated>2026-06-16T15:32:43.047399+00:00</updated>
+    <summary>Authors: Ali Shehadeh
+DOI: https://doi.org/10.1515/applirev-2024-0273
+Pages: Page range: 1417-1438</summary>
+  </entry>
+  <entry>
+    <title>Acquiring the pragmatics of English intensifiers: L2 acquisition challenges and pedagogical implications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/applirev-2025-0279/html"/>
+    <id>https://doi.org/10.1515/applirev-2025-0279</id>
+    <updated>2026-06-16T15:32:43.047409+00:00</updated>
+    <summary>Authors: Weiqin Wang
+DOI: https://doi.org/10.1515/applirev-2025-0279
+Pages: Page range: 1439-1448</summary>
+  </entry>
+</feed>

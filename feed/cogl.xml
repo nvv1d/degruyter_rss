@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cognitive Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/cogl/37/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/cogl.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cogl/html" rel="related"/>
+  <updated>2026-06-16T15:32:58.536921+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/cogl.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Cognitive Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/cog-2026-frontmatter2</id>
+    <updated>2026-06-16T15:32:58.536952+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/cog-2026-frontmatter2
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Little agents of big language change</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2025-0112/html"/>
+    <id>https://doi.org/10.1515/cog-2025-0112</id>
+    <updated>2026-06-16T15:32:58.536965+00:00</updated>
+    <summary>Authors: Sergei Monakhov
+DOI: https://doi.org/10.1515/cog-2025-0112
+Pages: Page range: 167-199</summary>
+  </entry>
+  <entry>
+    <title>Detecting patterns of change in the development of the Mandarin dative alternation: from attraction to differentiation and the reversal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0126/html"/>
+    <id>https://doi.org/10.1515/cog-2024-0126</id>
+    <updated>2026-06-16T15:32:58.536976+00:00</updated>
+    <summary>Authors: Meili Liu, Yi Li
+DOI: https://doi.org/10.1515/cog-2024-0126
+Pages: Page range: 201-240</summary>
+  </entry>
+  <entry>
+    <title>A corpus-based study: how palm-up finds its way into Chinese Sign Language</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2023-0150/html"/>
+    <id>https://doi.org/10.1515/cog-2023-0150</id>
+    <updated>2026-06-16T15:32:58.536986+00:00</updated>
+    <summary>Authors: Yuting Zhang, Hao Lin
+DOI: https://doi.org/10.1515/cog-2023-0150
+Pages: Page range: 241-275</summary>
+  </entry>
+  <entry>
+    <title>The effects of corpus model predictors on L2 constructional use: the case ofletandpermit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2025-0009/html"/>
+    <id>https://doi.org/10.1515/cog-2025-0009</id>
+    <updated>2026-06-16T15:32:58.536997+00:00</updated>
+    <summary>Authors: Sarut Supasiraprapa, Sakol Suethanapornkul
+DOI: https://doi.org/10.1515/cog-2025-0009
+Pages: Page range: 277-312</summary>
+  </entry>
+  <entry>
+    <title>Shades of entrenchment and conventionalization: the rise ofmarronin French</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2025-0076/html"/>
+    <id>https://doi.org/10.1515/cog-2025-0076</id>
+    <updated>2026-06-16T15:32:58.537007+00:00</updated>
+    <summary>Authors: Philippe Gréa, Guillaume Desagulier, Quentin Feltgen, Florence Villoing, Sabine Lehmann
+DOI: https://doi.org/10.1515/cog-2025-0076
+Pages: Page range: 313-352</summary>
+  </entry>
+</feed>

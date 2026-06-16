@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für germanistische Linguistik...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zfgl/54/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zfgl.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfgl/html" rel="related"/>
+  <updated>2026-06-16T15:36:00.081370+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zfgl.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Zeitschrift für germanistische Linguistik... (De Gruyter)</subtitle>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-frontmatter1</id>
+    <updated>2026-06-16T15:36:00.081402+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zgl-2026-frontmatter1
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Personenreferenz und Perspektive: Versuch einer konzeptuellen Integration</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2001/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2001</id>
+    <updated>2026-06-16T15:36:00.081415+00:00</updated>
+    <summary>Authors: Nathalie Bauer, Jens Lanwer
+DOI: https://doi.org/10.1515/zgl-2026-2001
+Pages: Page range: 1-38</summary>
+  </entry>
+  <entry>
+    <title>Origo-Inversion: Therapeutische Animationen von Patientengedanken</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2002/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2002</id>
+    <updated>2026-06-16T15:36:00.081426+00:00</updated>
+    <summary>Authors: Anja Stukenbrock
+DOI: https://doi.org/10.1515/zgl-2026-2002
+Pages: Page range: 39-71</summary>
+  </entry>
+  <entry>
+    <title>Spielarten des Ich: Zur Perspektivierung von Positionsbekundungen in argumentativen Entscheidungsfindungen von Kindern</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2003/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2003</id>
+    <updated>2026-06-16T15:36:00.081437+00:00</updated>
+    <summary>Authors: Nora Schönfelder, Noelle Kinalzik, Vivien Heller
+DOI: https://doi.org/10.1515/zgl-2026-2003
+Pages: Page range: 72-95</summary>
+  </entry>
+  <entry>
+    <title>Rollenvariablen – mehr als erste und zweite Person? Zur Integration vonmanins Paradigma der Dialogrollen (mit explorativen Überlegungen zur seiner Polygrammatikalisierung)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2004/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2004</id>
+    <updated>2026-06-16T15:36:00.081449+00:00</updated>
+    <summary>Authors: Gabriele Diewald
+DOI: https://doi.org/10.1515/zgl-2026-2004
+Pages: Page range: 96-127</summary>
+  </entry>
+  <entry>
+    <title>Impersonale als interpersonale Pronomen: Zur Perspektivierungsleistung vonmanim Vergleich agensfokussierender und -defokussierender Referenzmittel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2005/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2005</id>
+    <updated>2026-06-16T15:36:00.081459+00:00</updated>
+    <summary>Authors: Antje Dammel, Laura Duve
+DOI: https://doi.org/10.1515/zgl-2026-2005
+Pages: Page range: 128-163</summary>
+  </entry>
+  <entry>
+    <title>Hyperbolische universal quantifizierende Personalpronomina in der sozialen Interaktion: argumentative und evaluative Verwendungen vonjederundalle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2006/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2006</id>
+    <updated>2026-06-16T15:36:00.081469+00:00</updated>
+    <summary>Authors: Alexandra Gubina, Arnulf Deppermann
+DOI: https://doi.org/10.1515/zgl-2026-2006
+Pages: Page range: 164-199</summary>
+  </entry>
+  <entry>
+    <title>Metapragmatik: Wenn Sprachgebrauch zum Thema wird – Bericht zur Tagung der Arbeitsgemeinschaft Linguistische Pragmatik (ALP e.V.) an der Johannes Gutenberg-Universität Mainz am 04.03.2025</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2007/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2007</id>
+    <updated>2026-06-16T15:36:00.081482+00:00</updated>
+    <summary>Authors: Anne Rosar
+DOI: https://doi.org/10.1515/zgl-2026-2007
+Pages: Page range: 200-209</summary>
+  </entry>
+  <entry>
+    <title>Swiss-AL: Plattform für Sprachdaten in den Angewandten Wissenschaften</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2026-2008/html"/>
+    <id>https://doi.org/10.1515/zgl-2026-2008</id>
+    <updated>2026-06-16T15:36:00.081491+00:00</updated>
+    <summary>Authors: Julia Krasselt, Philipp Dreesen, Peter Stücheli-Herlach, Dolores Lemmenmeier-Batinić, Sooyeon Geckeler, Klaus Rothenhäusler, Matthias Fluor
+DOI: https://doi.org/10.1515/zgl-2026-2008
+Pages: Page range: 210-229</summary>
+  </entry>
+</feed>

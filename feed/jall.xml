@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of African Languages and Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jall/47/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jall.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jall/html" rel="related"/>
+  <updated>2026-06-16T15:34:01.260590+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jall.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Journal of African Languages and Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jall-2026-frontmatter1</id>
+    <updated>2026-06-16T15:34:01.260621+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jall-2026-frontmatter1
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Morphology of intransitive verbs in the Agar dialect of Dinka</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2025-0041/html"/>
+    <id>https://doi.org/10.1515/jall-2025-0041</id>
+    <updated>2026-06-16T15:34:01.260634+00:00</updated>
+    <summary>Authors: Torben Andersen
+DOI: https://doi.org/10.1515/jall-2025-0041
+Pages: Page range: 1-61</summary>
+  </entry>
+  <entry>
+    <title>Between standardization and diversity: a critical study of the polynomic approach in planning Amazigh languages in Morocco</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2025-0010/html"/>
+    <id>https://doi.org/10.1515/jall-2025-0010</id>
+    <updated>2026-06-16T15:34:01.260645+00:00</updated>
+    <summary>Authors: Kefan Bao
+DOI: https://doi.org/10.1515/jall-2025-0010
+Pages: Page range: 63-87</summary>
+  </entry>
+  <entry>
+    <title>‘The leopard has given birth’: weather terms in Gisamjanga-Datooga</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-0027/html"/>
+    <id>https://doi.org/10.1515/jall-2024-0027</id>
+    <updated>2026-06-16T15:34:01.260661+00:00</updated>
+    <summary>Authors: Amani Lusekelo, Roland Kießling, Stefan Bruckhaus
+DOI: https://doi.org/10.1515/jall-2024-0027
+Pages: Page range: 89-134</summary>
+  </entry>
+  <entry>
+    <title>The heart and positive emotions: a view from Amharic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-0026/html"/>
+    <id>https://doi.org/10.1515/jall-2024-0026</id>
+    <updated>2026-06-16T15:34:01.260672+00:00</updated>
+    <summary>Authors: Sérgio N. Menete, Guiying Jiang, Betelhem Tirusew Bayu
+DOI: https://doi.org/10.1515/jall-2024-0026
+Pages: Page range: 135-169</summary>
+  </entry>
+  <entry>
+    <title>Natural language ontology: diachronic restructuring of nominal classification in Dagaare</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-0028/html"/>
+    <id>https://doi.org/10.1515/jall-2024-0028</id>
+    <updated>2026-06-16T15:34:01.260684+00:00</updated>
+    <summary>Authors: Isaac N. Mwinlaaru
+DOI: https://doi.org/10.1515/jall-2024-0028
+Pages: Page range: 171-215</summary>
+  </entry>
+</feed>

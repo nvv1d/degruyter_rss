@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Literary Semantics - An International Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jlse/55/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jlse.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jlse/html" rel="related"/>
+  <updated>2026-06-16T15:34:23.484598+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jlse.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Journal of Literary Semantics - An International Review (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jls-2026-frontmatter1</id>
+    <updated>2026-06-16T15:34:23.484630+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jls-2026-frontmatter1
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Challenging novels: developing a checklist of stylistic markers of difficulty in prose fiction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2026-2005/html"/>
+    <id>https://doi.org/10.1515/jls-2026-2005</id>
+    <updated>2026-06-16T15:34:23.484643+00:00</updated>
+    <summary>Authors: Peter Harvey
+DOI: https://doi.org/10.1515/jls-2026-2005
+Pages: Page range: 1-22</summary>
+  </entry>
+  <entry>
+    <title>Projection as a determinant of pronominal reference: a study of zero and personal pronouns in Haruki Murakami’s1Q84</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2026-2006/html"/>
+    <id>https://doi.org/10.1515/jls-2026-2006</id>
+    <updated>2026-06-16T15:34:23.484656+00:00</updated>
+    <summary>Authors: Yasunori Sumidai
+DOI: https://doi.org/10.1515/jls-2026-2006
+Pages: Page range: 23-41</summary>
+  </entry>
+  <entry>
+    <title>To de-empathise or not, that is the question: understanding de-empathy in Chinese television literature</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2026-2004/html"/>
+    <id>https://doi.org/10.1515/jls-2026-2004</id>
+    <updated>2026-06-16T15:34:23.484667+00:00</updated>
+    <summary>Authors: Kun Yang, Yansheng Mao
+DOI: https://doi.org/10.1515/jls-2026-2004
+Pages: Page range: 43-61</summary>
+  </entry>
+  <entry>
+    <title>Graphic criticism. Semantics, neurology and cultural transmission – a study of 100 classic Anglophone novels</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2026-2002/html"/>
+    <id>https://doi.org/10.1515/jls-2026-2002</id>
+    <updated>2026-06-16T15:34:23.484677+00:00</updated>
+    <summary>Authors: Karina van Dalen-Oskam
+DOI: https://doi.org/10.1515/jls-2026-2002
+Pages: Page range: 63-65</summary>
+  </entry>
+  <entry>
+    <title>Neurocomputational poetics: how the brain processes verbal art</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2026-2003/html"/>
+    <id>https://doi.org/10.1515/jls-2026-2003</id>
+    <updated>2026-06-16T15:34:23.484687+00:00</updated>
+    <summary>Authors: Peter Stockwell
+DOI: https://doi.org/10.1515/jls-2026-2003
+Pages: Page range: 67-69</summary>
+  </entry>
+  <entry>
+    <title>Narrative and its nonevents. The unwritten plots that shaped Victorian Realism</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2026-2001/html"/>
+    <id>https://doi.org/10.1515/jls-2026-2001</id>
+    <updated>2026-06-16T15:34:23.484697+00:00</updated>
+    <summary>Authors: Marina Lambrou
+DOI: https://doi.org/10.1515/jls-2026-2001
+Pages: Page range: 71-73</summary>
+  </entry>
+</feed>

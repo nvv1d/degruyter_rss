@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Theoretical Linguistics - An Open Peer Review Journal</title>
+  <link href="https://www.degruyterbrill.com/journal/key/thli/51/3-4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/thli.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/thli/html" rel="related"/>
+  <updated>2026-06-16T15:35:46.501693+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/thli.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Theoretical Linguistics - An Open Peer Review Journal (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-frontmatter3-4/html"/>
+    <id>https://doi.org/10.1515/tl-2025-frontmatter3-4</id>
+    <updated>2026-06-16T15:35:46.501725+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/tl-2025-frontmatter3-4
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>The grammar of self-talk. What different modes of talking reveal about language</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2024/html"/>
+    <id>https://doi.org/10.1515/tl-2024-2024</id>
+    <updated>2026-06-16T15:35:46.501739+00:00</updated>
+    <summary>Authors: Martina Wiltschko
+DOI: https://doi.org/10.1515/tl-2024-2024
+Pages: Page range: 167-229</summary>
+  </entry>
+  <entry>
+    <title>Is this the grammar that people use when they talk to themselves?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-2009/html"/>
+    <id>https://doi.org/10.1515/tl-2025-2009</id>
+    <updated>2026-06-16T15:35:46.501751+00:00</updated>
+    <summary>Authors: Thomas M. Brinthaupt
+DOI: https://doi.org/10.1515/tl-2025-2009
+Pages: Page range: 231-237</summary>
+  </entry>
+  <entry>
+    <title>On the grammar and pragmatics of self-talk</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-2010/html"/>
+    <id>https://doi.org/10.1515/tl-2025-2010</id>
+    <updated>2026-06-16T15:35:46.501761+00:00</updated>
+    <summary>Authors: Bart Geurts
+DOI: https://doi.org/10.1515/tl-2025-2010
+Pages: Page range: 239-244</summary>
+  </entry>
+  <entry>
+    <title>Mapping the pragmatic field: in how many ways?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-2011/html"/>
+    <id>https://doi.org/10.1515/tl-2025-2011</id>
+    <updated>2026-06-16T15:35:46.501771+00:00</updated>
+    <summary>Authors: Virginia Hill
+DOI: https://doi.org/10.1515/tl-2025-2011
+Pages: Page range: 245-252</summary>
+  </entry>
+  <entry>
+    <title>Expressing my feelings, not yours</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-2012/html"/>
+    <id>https://doi.org/10.1515/tl-2025-2012</id>
+    <updated>2026-06-16T15:35:46.501781+00:00</updated>
+    <summary>Authors: Anders Holmberg
+DOI: https://doi.org/10.1515/tl-2025-2012
+Pages: Page range: 253-258</summary>
+  </entry>
+  <entry>
+    <title>Facets of self-talk andde sethought</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-2013/html"/>
+    <id>https://doi.org/10.1515/tl-2025-2013</id>
+    <updated>2026-06-16T15:35:46.501791+00:00</updated>
+    <summary>Authors: Kasia M. Jaszczolt
+DOI: https://doi.org/10.1515/tl-2025-2013
+Pages: Page range: 259-282</summary>
+  </entry>
+  <entry>
+    <title>Inner speech and self-talk. A comparison</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-2014/html"/>
+    <id>https://doi.org/10.1515/tl-2025-2014</id>
+    <updated>2026-06-16T15:35:46.501801+00:00</updated>
+    <summary>Authors: Nikola Anna Kompa
+DOI: https://doi.org/10.1515/tl-2025-2014
+Pages: Page range: 283-290</summary>
+  </entry>
+  <entry>
+    <title>Self-talk and syntactic structure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2025-2015/html"/>
+    <id>https://doi.org/10.1515/tl-2025-2015</id>
+    <updated>2026-06-16T15:35:46.501811+00:00</updated>
+    <summary>Authors: Manfred Krifka
+DOI: https://doi.org/10.1515/tl-2025-2015
+Pages: Page range: 291-307</summary>
+  </entry>
+</feed>

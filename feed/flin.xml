@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Folia Linguistica - Acta Societatis Linguisticae Europaeae</title>
+  <link href="https://www.degruyterbrill.com/journal/key/flin/60/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/flin.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/flin/html" rel="related"/>
+  <updated>2026-06-16T15:33:21.585823+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/flin.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Folia Linguistica - Acta Societatis Linguisticae Europaeae (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/flin-2026-frontmatter1</id>
+    <updated>2026-06-16T15:33:21.585865+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/flin-2026-frontmatter1
+Pages: Page range: i-vii</summary>
+  </entry>
+  <entry>
+    <title>Local grammar and speech act analysis: a case study of compliments</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2003/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2003</id>
+    <updated>2026-06-16T15:33:21.585879+00:00</updated>
+    <summary>Authors: Mengyuan Tang
+DOI: https://doi.org/10.1515/flin-2025-2003
+Pages: Page range: 1-26</summary>
+  </entry>
+  <entry>
+    <title>When possessor and argument indexes coincide. A cross-linguistic survey</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0013/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0013</id>
+    <updated>2026-06-16T15:33:21.585890+00:00</updated>
+    <summary>Authors: Alessandra Barotto, Andrea Sansò
+DOI: https://doi.org/10.1515/flin-2024-0013
+Pages: Page range: 27-86</summary>
+  </entry>
+  <entry>
+    <title>Can syntax swallow semantics? Or might it not be the other way around?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0037/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0037</id>
+    <updated>2026-06-16T15:33:21.585902+00:00</updated>
+    <summary>Authors: Patrick Duffley
+DOI: https://doi.org/10.1515/flin-2024-0037
+Pages: Page range: 87-107</summary>
+  </entry>
+  <entry>
+    <title>A reverse way: agreement marker motivates the subject in Persian frame impersonal constructions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2005/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2005</id>
+    <updated>2026-06-16T15:33:21.585913+00:00</updated>
+    <summary>Authors: Sahar Bahrami-Khorshid
+DOI: https://doi.org/10.1515/flin-2025-2005
+Pages: Page range: 109-142</summary>
+  </entry>
+  <entry>
+    <title>Sak-relatives in Reunion Creole: examining the distinction between light-headed and free relatives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2007/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2007</id>
+    <updated>2026-06-16T15:33:21.585923+00:00</updated>
+    <summary>Authors: Alina McLellan
+DOI: https://doi.org/10.1515/flin-2025-2007
+Pages: Page range: 143-178</summary>
+  </entry>
+  <entry>
+    <title>The metamorphosis ofʤaajin Rural Jordanian Arabic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2013/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2013</id>
+    <updated>2026-06-16T15:33:21.585934+00:00</updated>
+    <summary>Authors: Basem Ibrahim Malawi Al-Raba’a, Mohammad Alhailawani
+DOI: https://doi.org/10.1515/flin-2025-2013
+Pages: Page range: 179-199</summary>
+  </entry>
+  <entry>
+    <title>D-Linked wh-phrase in Arabic: contrast, cliticization and topic values</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2010/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2010</id>
+    <updated>2026-06-16T15:33:21.585945+00:00</updated>
+    <summary>Authors: Murdhy Alshamari, Naif Alshammari
+DOI: https://doi.org/10.1515/flin-2025-2010
+Pages: Page range: 201-230</summary>
+  </entry>
+  <entry>
+    <title>Changes in linguistic etiquette of modern Japanese: borrowing and transformation of traditional forms of expression</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0030/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0030</id>
+    <updated>2026-06-16T15:33:21.585955+00:00</updated>
+    <summary>Authors: Jingli Li
+DOI: https://doi.org/10.1515/flin-2024-0030
+Pages: Page range: 231-264</summary>
+  </entry>
+  <entry>
+    <title>The weight of VOT and f0 in English stop differentiation: 2L1 bilinguals versus monolinguals</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2017/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2017</id>
+    <updated>2026-06-16T15:33:21.585965+00:00</updated>
+    <summary>Authors: Sha Liu, Kaye Takeda
+DOI: https://doi.org/10.1515/flin-2025-2017
+Pages: Page range: 265-285</summary>
+  </entry>
+  <entry>
+    <title>Beyond “to be”: multiple copula verbs in Munya</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0032/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0032</id>
+    <updated>2026-06-16T15:33:21.585975+00:00</updated>
+    <summary>Authors: Junwei Bai
+DOI: https://doi.org/10.1515/flin-2024-0032
+Pages: Page range: 287-315</summary>
+  </entry>
+  <entry>
+    <title>Agreement in Najdi Arabic existential sentences</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0008/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0008</id>
+    <updated>2026-06-16T15:33:21.585986+00:00</updated>
+    <summary>Authors: Bader Yousef Alharbi
+DOI: https://doi.org/10.1515/flin-2024-0008
+Pages: Page range: 317-339</summary>
+  </entry>
+  <entry>
+    <title>On classifying Yorùbá noun phrases</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2012/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2012</id>
+    <updated>2026-06-16T15:33:21.585996+00:00</updated>
+    <summary>Authors: Mayowa Akinlotan
+DOI: https://doi.org/10.1515/flin-2025-2012
+Pages: Page range: 341-367</summary>
+  </entry>
+  <entry>
+    <title>The non-grammaticality of phonetics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2009/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2009</id>
+    <updated>2026-06-16T15:33:21.586006+00:00</updated>
+    <summary>Authors: John M. Anderson
+DOI: https://doi.org/10.1515/flin-2025-2009
+Pages: Page range: 369-389</summary>
+  </entry>
+  <entry>
+    <title>Dialect vowel maintenance in a diglossic context: a study of linguistic heterogeneity in Gavaṛ, Armenia</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2019/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2019</id>
+    <updated>2026-06-16T15:33:21.586017+00:00</updated>
+    <summary>Authors: Emma Portugal
+DOI: https://doi.org/10.1515/flin-2025-2019
+Pages: Page range: 391-432</summary>
+  </entry>
+  <entry>
+    <title>‘They cost me less pains than tragedy does’: on the configuration of the quantifierslessandfewerin English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0017/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0017</id>
+    <updated>2026-06-16T15:33:21.586027+00:00</updated>
+    <summary>Authors: Javier Calle-Martín, Marta Pacheco-Franco
+DOI: https://doi.org/10.1515/flin-2024-0017
+Pages: Page range: 433-452</summary>
+  </entry>
+  <entry>
+    <title>Experimental evidence suggests that null complement anaphora in Russian is not reducible to clausal ellipsis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0070/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0070</id>
+    <updated>2026-06-16T15:33:21.586037+00:00</updated>
+    <summary>Authors: Mikhail Knyazev
+DOI: https://doi.org/10.1515/flin-2024-0070
+Pages: Page range: 453-496</summary>
+  </entry>
+  <entry>
+    <title>What linguists think everyone should know about language – on extracting salience from open-ended responses</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2020/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2020</id>
+    <updated>2026-06-16T15:33:21.586048+00:00</updated>
+    <summary>Authors: Tomas Lehecka, Jan-Ola Östman
+DOI: https://doi.org/10.1515/flin-2025-2020
+Pages: Page range: 497-530</summary>
+  </entry>
+  <entry>
+    <title>On the directionality from temporal to conditional</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2021/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2021</id>
+    <updated>2026-06-16T15:33:21.586058+00:00</updated>
+    <summary>Authors: Yueh Hsin Kuo
+DOI: https://doi.org/10.1515/flin-2025-2021
+Pages: Page range: 531-560</summary>
+  </entry>
+  <entry>
+    <title>How to express extreme quantity through Italian adverbial partially filled constructions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-0042/html"/>
+    <id>https://doi.org/10.1515/flin-2025-0042</id>
+    <updated>2026-06-16T15:33:21.586068+00:00</updated>
+    <summary>Authors: Martina Verdelli
+DOI: https://doi.org/10.1515/flin-2025-0042
+Pages: Page range: 561-587</summary>
+  </entry>
+  <entry>
+    <title>Neological-ancenominalizations of psych predicates</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0002/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0002</id>
+    <updated>2026-06-16T15:33:21.586078+00:00</updated>
+    <summary>Authors: Philippe Gréa, Marie-Laurence Knittel, Rafael Marín, Florence Villoing
+DOI: https://doi.org/10.1515/flin-2024-0002
+Pages: Page range: 589-613</summary>
+  </entry>
+  <entry>
+    <title>Lexical contact in Africa: Italian loanwords in the Mà’dí language of South Sudan and Uganda</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-0056/html"/>
+    <id>https://doi.org/10.1515/flin-2025-0056</id>
+    <updated>2026-06-16T15:33:21.586088+00:00</updated>
+    <summary>Authors: John Hajek, Valentina De Iacovo
+DOI: https://doi.org/10.1515/flin-2025-0056
+Pages: Page range: 615-641</summary>
+  </entry>
+  <entry>
+    <title>Intra-language differences of motion event encoding – a case of advent paths in Mandarin Chinese</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0061/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0061</id>
+    <updated>2026-06-16T15:33:21.586099+00:00</updated>
+    <summary>Authors: Sai Ma, Ye Jin, Michael Barlow
+DOI: https://doi.org/10.1515/flin-2024-0061
+Pages: Page range: 643-672</summary>
+  </entry>
+  <entry>
+    <title>VP copying interacting with verum focus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-0052/html"/>
+    <id>https://doi.org/10.1515/flin-2024-0052</id>
+    <updated>2026-06-16T15:33:21.586108+00:00</updated>
+    <summary>Authors: Ningxian Li
+DOI: https://doi.org/10.1515/flin-2024-0052
+Pages: Page range: 673-714</summary>
+  </entry>
+  <entry>
+    <title>From interactional to informative discourse: a 90-year evolution of newspaper headlines (1930–2019)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-0083/html"/>
+    <id>https://doi.org/10.1515/flin-2025-0083</id>
+    <updated>2026-06-16T15:33:21.586118+00:00</updated>
+    <summary>Authors: Ruhan Güçlü
+DOI: https://doi.org/10.1515/flin-2025-0083
+Pages: Page range: 715-739</summary>
+  </entry>
+  <entry>
+    <title>The grammaticalization path of the Kaakye relative clause marker</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-0044/html"/>
+    <id>https://doi.org/10.1515/flin-2025-0044</id>
+    <updated>2026-06-16T15:33:21.586128+00:00</updated>
+    <summary>Authors: Levina Nyameye Abunya
+DOI: https://doi.org/10.1515/flin-2025-0044
+Pages: Page range: 741-764</summary>
+  </entry>
+</feed>

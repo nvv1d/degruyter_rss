@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Japanese Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jjl/42/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jjl.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jjl/html" rel="related"/>
+  <updated>2026-06-16T15:34:16.961827+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jjl.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Journal of Japanese Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-frontmatter1</id>
+    <updated>2026-06-16T15:34:16.961857+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jjl-2026-frontmatter1
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2001/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2001</id>
+    <updated>2026-06-16T15:34:16.961870+00:00</updated>
+    <summary>Authors: Masahiko Minami
+DOI: https://doi.org/10.1515/jjl-2026-2001
+Pages: Page range: 1-2</summary>
+  </entry>
+  <entry>
+    <title>Guest editor’s notes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2002/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2002</id>
+    <updated>2026-06-16T15:34:16.961881+00:00</updated>
+    <summary>Authors: Mineharu Nakayama
+DOI: https://doi.org/10.1515/jjl-2026-2002
+Pages: Page range: 3-6</summary>
+  </entry>
+  <entry>
+    <title>Tonal language experience facilitates pitch perception in L2/3 Japanese</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2003/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2003</id>
+    <updated>2026-06-16T15:34:16.961892+00:00</updated>
+    <summary>Authors: Seth Goss, Seth Wiener
+DOI: https://doi.org/10.1515/jjl-2026-2003
+Pages: Page range: 7-26</summary>
+  </entry>
+  <entry>
+    <title>Cross-linguistic phonetic interference: The production and perception of L3 Japanese word-initial stops by Mandarin trilinguals</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2004/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2004</id>
+    <updated>2026-06-16T15:34:16.961903+00:00</updated>
+    <summary>Authors: Min Zeng
+DOI: https://doi.org/10.1515/jjl-2026-2004
+Pages: Page range: 27-56</summary>
+  </entry>
+  <entry>
+    <title>Working memory and the speech production of English-speaking learners of Japanese</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2005/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2005</id>
+    <updated>2026-06-16T15:34:16.961913+00:00</updated>
+    <summary>Authors: Yuki Hattori
+DOI: https://doi.org/10.1515/jjl-2026-2005
+Pages: Page range: 57-74</summary>
+  </entry>
+  <entry>
+    <title>L2 acquisition of discourse constraints on the use of pronouns by L1 English speakers of L2 Japanese</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2006/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2006</id>
+    <updated>2026-06-16T15:34:16.961922+00:00</updated>
+    <summary>Authors: Tokiko Okuma
+DOI: https://doi.org/10.1515/jjl-2026-2006
+Pages: Page range: 75-105</summary>
+  </entry>
+  <entry>
+    <title>Interpretation of null arguments in L3 acquisition of Japanese</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2007/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2007</id>
+    <updated>2026-06-16T15:34:16.961933+00:00</updated>
+    <summary>Authors: Kazumi Yamada, Mika Kizu, Den Ka, Mari Umeda, Roumyana Slabakova
+DOI: https://doi.org/10.1515/jjl-2026-2007
+Pages: Page range: 107-134</summary>
+  </entry>
+  <entry>
+    <title>Issues in Japanese psycholinguistics from comparative perspectives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2026-2008/html"/>
+    <id>https://doi.org/10.1515/jjl-2026-2008</id>
+    <updated>2026-06-16T15:34:16.961942+00:00</updated>
+    <summary>Authors: Mineharu Nakayama
+DOI: https://doi.org/10.1515/jjl-2026-2008
+Pages: Page range: 135-141</summary>
+  </entry>
+</feed>

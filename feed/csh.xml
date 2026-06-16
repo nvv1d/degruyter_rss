@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Corpus-based Studies across Humanities</title>
+  <link href="https://www.degruyterbrill.com/journal/key/csh/3/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/csh.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/csh/html" rel="related"/>
+  <updated>2026-06-16T15:33:04.520630+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/csh.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Corpus-based Studies across Humanities (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/csh-2025-frontmatter2</id>
+    <updated>2026-06-16T15:33:04.520666+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/csh-2025-frontmatter2
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>A Corpus-Based Analysis of “Ageing Population” Discourse in Hong Kong Legislative Council Hansards</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0016/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0016</id>
+    <updated>2026-06-16T15:33:04.520682+00:00</updated>
+    <summary>Authors: Emmanuel Mensah Bonsu
+DOI: https://doi.org/10.1515/csh-2025-0016
+Pages: Page range: 225-252</summary>
+  </entry>
+  <entry>
+    <title>A Multimodal Study of Doctors’ Responses in Free Online Medical Consultations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0021/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0021</id>
+    <updated>2026-06-16T15:33:04.520696+00:00</updated>
+    <summary>Authors: Dongyi Zhu, Zechen Song
+DOI: https://doi.org/10.1515/csh-2025-0021
+Pages: Page range: 253-281</summary>
+  </entry>
+  <entry>
+    <title>Detection and Analysis of Depression-Related Language in an Online Community: Machine Learning, Topic Modeling, and Corpus-Linguistic Approaches</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0005/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0005</id>
+    <updated>2026-06-16T15:33:04.520707+00:00</updated>
+    <summary>Authors: Youngmeen Kim, Ute Römer-Barron
+DOI: https://doi.org/10.1515/csh-2025-0005
+Pages: Page range: 283-312</summary>
+  </entry>
+  <entry>
+    <title>Multimodal Corpus-Based Studies of Language Development: A Plea forLifespan Linguistics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0019/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0019</id>
+    <updated>2026-06-16T15:33:04.520720+00:00</updated>
+    <summary>Authors: Nan Zhang, Lihe Huang, Deyu Zhou
+DOI: https://doi.org/10.1515/csh-2025-0019
+Pages: Page range: 313-341</summary>
+  </entry>
+  <entry>
+    <title>Borrowed Akan Discourse-Pragmatic Markers in Ghanaian English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0015/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0015</id>
+    <updated>2026-06-16T15:33:04.520731+00:00</updated>
+    <summary>Authors: Jemima Asabea Anderson, Clement K. I. Appah, Rachel G. A. Thompson
+DOI: https://doi.org/10.1515/csh-2025-0015
+Pages: Page range: 343-368</summary>
+  </entry>
+  <entry>
+    <title>A Corpus-Assisted Critical Discourse Analysis of Social Actors and Actions in Newspaper Reportage on Domestic Violence in Nigeria</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0013/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0013</id>
+    <updated>2026-06-16T15:33:04.520742+00:00</updated>
+    <summary>Authors: Tolulope Akinseye
+DOI: https://doi.org/10.1515/csh-2025-0013
+Pages: Page range: 369-392</summary>
+  </entry>
+  <entry>
+    <title>Chinese Films Abroad: Distribution and Translation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0024/html"/>
+    <id>https://doi.org/10.1515/csh-2024-0024</id>
+    <updated>2026-06-16T15:33:04.520753+00:00</updated>
+    <summary>Authors: Longwei Zheng
+DOI: https://doi.org/10.1515/csh-2024-0024
+Pages: Page range: 393-395</summary>
+  </entry>
+  <entry>
+    <title>Corpora in Interpreting Studies: East Asian Perspectives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0003/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0003</id>
+    <updated>2026-06-16T15:33:04.520763+00:00</updated>
+    <summary>Authors: Yao Yao, Dechao Li
+DOI: https://doi.org/10.1515/csh-2025-0003
+Pages: Page range: 397-403</summary>
+  </entry>
+  <entry>
+    <title>Doing Corpus Linguistics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0032/html"/>
+    <id>https://doi.org/10.1515/csh-2024-0032</id>
+    <updated>2026-06-16T15:33:04.520774+00:00</updated>
+    <summary>Authors: Zihan Xia, Gaoqiang Lu
+DOI: https://doi.org/10.1515/csh-2024-0032
+Pages: Page range: 405-408</summary>
+  </entry>
+  <entry>
+    <title>The Law and Critical Discourse Studies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2025-0024/html"/>
+    <id>https://doi.org/10.1515/csh-2025-0024</id>
+    <updated>2026-06-16T15:33:04.520785+00:00</updated>
+    <summary>Authors: Syedah Nobia Zehra
+DOI: https://doi.org/10.1515/csh-2025-0024
+Pages: Page range: 409-413</summary>
+  </entry>
+</feed>

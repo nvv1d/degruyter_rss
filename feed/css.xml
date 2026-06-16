@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chinese Semiotic Studies</title>
+  <link href="https://www.degruyterbrill.com/journal/key/css/22/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/css.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/css/html" rel="related"/>
+  <updated>2026-06-16T15:33:07.471827+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/css.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Chinese Semiotic Studies (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/css-2026-frontmatter2</id>
+    <updated>2026-06-16T15:33:07.471857+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/css-2026-frontmatter2
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>A semiotics of freedom: “fabulous” freedom and the agential self in narration as dialogic abduction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2026-2003/html"/>
+    <id>https://doi.org/10.1515/css-2026-2003</id>
+    <updated>2026-06-16T15:33:07.471871+00:00</updated>
+    <summary>Authors: Yunhee Lee
+DOI: https://doi.org/10.1515/css-2026-2003
+Pages: Page range: 215-231</summary>
+  </entry>
+  <entry>
+    <title>The semiotics of flourishing: unearthing a Daoist phenomenology of dynamic attunement</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-0032/html"/>
+    <id>https://doi.org/10.1515/css-2025-0032</id>
+    <updated>2026-06-16T15:33:07.471887+00:00</updated>
+    <summary>Authors: Thomas Michael
+DOI: https://doi.org/10.1515/css-2025-0032
+Pages: Page range: 233-255</summary>
+  </entry>
+  <entry>
+    <title>Apophasis, cataphasis, and the distinctions between unsignifiables</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2026-2002/html"/>
+    <id>https://doi.org/10.1515/css-2026-2002</id>
+    <updated>2026-06-16T15:33:07.471903+00:00</updated>
+    <summary>Authors: Daniel Fried
+DOI: https://doi.org/10.1515/css-2026-2002
+Pages: Page range: 257-272</summary>
+  </entry>
+  <entry>
+    <title>Upliving: lessons from Chinese semiotics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2026-2001/html"/>
+    <id>https://doi.org/10.1515/css-2026-2001</id>
+    <updated>2026-06-16T15:33:07.471919+00:00</updated>
+    <summary>Authors: Massimo Leone
+DOI: https://doi.org/10.1515/css-2026-2001
+Pages: Page range: 273-287</summary>
+  </entry>
+  <entry>
+    <title>Toward a trans* theorization of Chinesedanmei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2026-2004/html"/>
+    <id>https://doi.org/10.1515/css-2026-2004</id>
+    <updated>2026-06-16T15:33:07.471937+00:00</updated>
+    <summary>Authors: Ling Yang
+DOI: https://doi.org/10.1515/css-2026-2004
+Pages: Page range: 289-311</summary>
+  </entry>
+  <entry>
+    <title>Surveillance is only a symptom: artificial intelligence and the systematic enforcement of profile-based identity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-0033/html"/>
+    <id>https://doi.org/10.1515/css-2025-0033</id>
+    <updated>2026-06-16T15:33:07.471946+00:00</updated>
+    <summary>Authors: Paul J. D’Ambrosio
+DOI: https://doi.org/10.1515/css-2025-0033
+Pages: Page range: 313-331</summary>
+  </entry>
+  <entry>
+    <title>Kitsch, fandom, and the rise and fall of authenticity: an existential exploration</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2026-2005/html"/>
+    <id>https://doi.org/10.1515/css-2026-2005</id>
+    <updated>2026-06-16T15:33:07.471958+00:00</updated>
+    <summary>Authors: Hans-Georg Moeller
+DOI: https://doi.org/10.1515/css-2026-2005
+Pages: Page range: 333-352</summary>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Language and Semiotic Studies</title>
+  <link href="https://www.degruyterbrill.com/journal/key/lass/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lass.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/lass/html" rel="related"/>
+  <updated>2026-06-16T15:34:35.806122+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lass.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Language and Semiotic Studies (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/lass-2026-frontmatter1</id>
+    <updated>2026-06-16T15:34:35.806161+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/lass-2026-frontmatter1
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Blank-signs and their in-field domains in literary texts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0022/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0022</id>
+    <updated>2026-06-16T15:34:35.806184+00:00</updated>
+    <summary>Authors: Zhi Yi, Yongzhong Li
+DOI: https://doi.org/10.1515/lass-2025-0022
+Pages: Page range: 1-19</summary>
+  </entry>
+  <entry>
+    <title>Digital humor analysis of Bo Burnham’s Netflix comedy specialInside:new sincerity, postirony, and metamodernism at play</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0031/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0031</id>
+    <updated>2026-06-16T15:34:35.806197+00:00</updated>
+    <summary>Authors: Nashwa Elyamany, Noorhan Abbas
+DOI: https://doi.org/10.1515/lass-2025-0031
+Pages: Page range: 20-66</summary>
+  </entry>
+  <entry>
+    <title>Memes as ensemble of illocutionary acts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0003/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0003</id>
+    <updated>2026-06-16T15:34:35.806208+00:00</updated>
+    <summary>Authors: Mitul Joseph Koickakudy
+DOI: https://doi.org/10.1515/lass-2025-0003
+Pages: Page range: 67-90</summary>
+  </entry>
+  <entry>
+    <title>Cultural conceptualizations of neologisms and coinages in Nigerian multicultural discussion onNairaland Forum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0006/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0006</id>
+    <updated>2026-06-16T15:34:35.806218+00:00</updated>
+    <summary>Authors: Rotimi Taiwo, Eunice Omolara Olarewaju
+DOI: https://doi.org/10.1515/lass-2025-0006
+Pages: Page range: 91-110</summary>
+  </entry>
+  <entry>
+    <title>Shut up! you are not God: religious identity in commercial tricycle texts in Nigeria</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2024-0063/html"/>
+    <id>https://doi.org/10.1515/lass-2024-0063</id>
+    <updated>2026-06-16T15:34:35.806229+00:00</updated>
+    <summary>Authors: Eyo Mensah, Kevin Egbo
+DOI: https://doi.org/10.1515/lass-2024-0063
+Pages: Page range: 111-132</summary>
+  </entry>
+  <entry>
+    <title>Constructing national identity through symbolic representations in Olympic microblogs: a pathway analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0060/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0060</id>
+    <updated>2026-06-16T15:34:35.806239+00:00</updated>
+    <summary>Authors: Xiaoyang Wei
+DOI: https://doi.org/10.1515/lass-2025-0060
+Pages: Page range: 133-158</summary>
+  </entry>
+  <entry>
+    <title>Emoji and social media paralanguage, by Michele Zappavigna and Lorenzo Logi, Cambridge, Cambridge University Press, 2024, xiv+251 pp., $ 34.99 (paperback), ISBN: 978-1-009-17980-5</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0018/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0018</id>
+    <updated>2026-06-16T15:34:35.806250+00:00</updated>
+    <summary>Authors: Yuxin Ren
+DOI: https://doi.org/10.1515/lass-2025-0018
+Pages: Page range: 159-165</summary>
+  </entry>
+</feed>

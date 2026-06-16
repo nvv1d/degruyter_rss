@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dialectologia et Geolinguistica...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/dig/33/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/dig.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dig/html" rel="related"/>
+  <updated>2026-06-16T15:33:10.489756+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/dig.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Dialectologia et Geolinguistica... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-frontmatter1</id>
+    <updated>2026-06-16T15:33:10.489788+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dialect-2025-frontmatter1
+Pages: Page range: i-v</summary>
+  </entry>
+  <entry>
+    <title>The Genesis of Colonial American English Phonology. Dialect Mixture or Koineization?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0001/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0001</id>
+    <updated>2026-06-16T15:33:10.489801+00:00</updated>
+    <summary>Authors: Gary Manchec German
+DOI: https://doi.org/10.1515/dialect-2025-0001
+Pages: Page range: 1-42</summary>
+  </entry>
+  <entry>
+    <title>Spatial Data Infrastructure for the Lithuanian Language: Application of GIS Tools and Geospatial Analysis Methods in Language Perception Studies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0002/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0002</id>
+    <updated>2026-06-16T15:33:10.489812+00:00</updated>
+    <summary>Authors: Agnė Čepaitienė, Aidas Gudaitis, Danguolė Mikulėnienė
+DOI: https://doi.org/10.1515/dialect-2025-0002
+Pages: Page range: 43-59</summary>
+  </entry>
+  <entry>
+    <title>The Evolution and Functions of Evidentials in dialects of Turkish</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0003/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0003</id>
+    <updated>2026-06-16T15:33:10.489824+00:00</updated>
+    <summary>Authors: Melike Üzüm
+DOI: https://doi.org/10.1515/dialect-2025-0003
+Pages: Page range: 61-90</summary>
+  </entry>
+  <entry>
+    <title>Latgalic: Dialect or Language ?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0004/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0004</id>
+    <updated>2026-06-16T15:33:10.489835+00:00</updated>
+    <summary>Authors: Anna Stafecka
+DOI: https://doi.org/10.1515/dialect-2025-0004
+Pages: Page range: 91-102</summary>
+  </entry>
+  <entry>
+    <title>On the Name ‘Fleance’ in Shakespeare’s Macbeth</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0005/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0005</id>
+    <updated>2026-06-16T15:33:10.489847+00:00</updated>
+    <summary>Authors: Watson Seosamh
+DOI: https://doi.org/10.1515/dialect-2025-0005
+Pages: Page range: 103-111</summary>
+  </entry>
+  <entry>
+    <title>A dialectometric approach to Modern Breton dialect data: an opportunity to shed light on its origins and historical evolution</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0006/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0006</id>
+    <updated>2026-06-16T15:33:10.489857+00:00</updated>
+    <summary>Authors: Tanguy Solliec
+DOI: https://doi.org/10.1515/dialect-2025-0006
+Pages: Page range: 113-147</summary>
+  </entry>
+  <entry>
+    <title>Besprechungen – Comptes rendus – Reseñas – Reviews</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0007/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0007</id>
+    <updated>2026-06-16T15:33:10.489867+00:00</updated>
+    <summary>Authors: Proinsias Ó Drisceoil, Stefan Zimmer, Hans Goebl
+DOI: https://doi.org/10.1515/dialect-2025-0007
+Pages: Page range: 149-166</summary>
+  </entry>
+  <entry>
+    <title>Astrid van Nahl – An Appreciation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2025-0008/html"/>
+    <id>https://doi.org/10.1515/dialect-2025-0008</id>
+    <updated>2026-06-16T15:33:10.489877+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dialect-2025-0008
+Pages: Page range: 167-171</summary>
+  </entry>
+</feed>

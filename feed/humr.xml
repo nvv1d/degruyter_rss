@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HUMOR - International Journal of Humor Research</title>
+  <link href="https://www.degruyterbrill.com/journal/key/humr/39/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/humr.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/humr/html" rel="related"/>
+  <updated>2026-06-16T15:33:34.320292+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/humr.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from HUMOR - International Journal of Humor Research (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humor-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/humor-2026-frontmatter2</id>
+    <updated>2026-06-16T15:33:34.320365+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/humor-2026-frontmatter2
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Introduction to the special issue: humor, trauma and healing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humor-2026-0016/html"/>
+    <id>https://doi.org/10.1515/humor-2026-0016</id>
+    <updated>2026-06-16T15:33:34.320378+00:00</updated>
+    <summary>Authors: Margherita Dore
+DOI: https://doi.org/10.1515/humor-2026-0016
+Pages: Page range: 179-185</summary>
+  </entry>
+  <entry>
+    <title>Out-law Stand-up:Testimonial Humorin contemporary women’s stand-up comedy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humor-2024-0104/html"/>
+    <id>https://doi.org/10.1515/humor-2024-0104</id>
+    <updated>2026-06-16T15:33:34.320391+00:00</updated>
+    <summary>Authors: Muge Yuce
+DOI: https://doi.org/10.1515/humor-2024-0104
+Pages: Page range: 187-211</summary>
+  </entry>
+  <entry>
+    <title>Humor and Dalit trauma: life narratives from Hindi literature and stand-up comedy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humor-2025-0091/html"/>
+    <id>https://doi.org/10.1515/humor-2025-0091</id>
+    <updated>2026-06-16T15:33:34.320402+00:00</updated>
+    <summary>Authors: Fabio Mangraviti
+DOI: https://doi.org/10.1515/humor-2025-0091
+Pages: Page range: 213-236</summary>
+  </entry>
+  <entry>
+    <title>Parody and disengagement from stigma: mental illness inCrazy Ex-Girlfriend</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humor-2024-0110/html"/>
+    <id>https://doi.org/10.1515/humor-2024-0110</id>
+    <updated>2026-06-16T15:33:34.320412+00:00</updated>
+    <summary>Authors: Giovanni Raffa
+DOI: https://doi.org/10.1515/humor-2024-0110
+Pages: Page range: 237-253</summary>
+  </entry>
+  <entry>
+    <title>Trauma, postfeminist humor and healing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humor-2025-0069/html"/>
+    <id>https://doi.org/10.1515/humor-2025-0069</id>
+    <updated>2026-06-16T15:33:34.320422+00:00</updated>
+    <summary>Authors: Margherita Dore
+DOI: https://doi.org/10.1515/humor-2025-0069
+Pages: Page range: 255-270</summary>
+  </entry>
+  <entry>
+    <title>The psychological role of “Auschwitz jokes”: humor as a coping strategy for the negative psychological consequences of traumatic historical exposure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humor-2025-0029/html"/>
+    <id>https://doi.org/10.1515/humor-2025-0029</id>
+    <updated>2026-06-16T15:33:34.320437+00:00</updated>
+    <summary>Authors: Karolina Marcinkowska, Dominik Puchała, Mikołaj Winiewski, Michał Bilewicz
+DOI: https://doi.org/10.1515/humor-2025-0029
+Pages: Page range: 271-288</summary>
+  </entry>
+</feed>

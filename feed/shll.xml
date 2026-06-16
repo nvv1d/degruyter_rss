@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Studies in Hispanic and Lusophone Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/shll/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/shll.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/shll/html" rel="related"/>
+  <updated>2026-06-16T15:35:30.263922+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/shll.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Studies in Hispanic and Lusophone Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/shll-2026-frontmatter1</id>
+    <updated>2026-06-16T15:35:30.263961+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/shll-2026-frontmatter1
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Linguistic identity in the Portuguese language program at the University of São Tomé and Príncipe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2026-2001/html"/>
+    <id>https://doi.org/10.1515/shll-2026-2001</id>
+    <updated>2026-06-16T15:35:30.263975+00:00</updated>
+    <summary>Authors: Ana Lívia Agostinho, Ariele Helena Holz Nunes, Moara Zambonim
+DOI: https://doi.org/10.1515/shll-2026-2001
+Pages: Page range: 1-51</summary>
+  </entry>
+  <entry>
+    <title>Accusative versus dative agreement in Spanish: the salience of the initiator as a factor in morphological variation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2026-2002/html"/>
+    <id>https://doi.org/10.1515/shll-2026-2002</id>
+    <updated>2026-06-16T15:35:30.263988+00:00</updated>
+    <summary>Authors: Miguel A. Aijón Oliva
+DOI: https://doi.org/10.1515/shll-2026-2002
+Pages: Page range: 53-80</summary>
+  </entry>
+  <entry>
+    <title>L1 Turkish learners of Spanish and the interpretation of verbal moods: a close replication of Kanwit and Geeslin (2014)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2026-2003/html"/>
+    <id>https://doi.org/10.1515/shll-2026-2003</id>
+    <updated>2026-06-16T15:35:30.264000+00:00</updated>
+    <summary>Authors: Aarnes Gudmestad, Şebnem Yalçın, Amanda Edmonds
+DOI: https://doi.org/10.1515/shll-2026-2003
+Pages: Page range: 81-118</summary>
+  </entry>
+  <entry>
+    <title>Subject expression and position with the verb formdize/dice‘says’ in Spanish: a diachronic study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2026-2004/html"/>
+    <id>https://doi.org/10.1515/shll-2026-2004</id>
+    <updated>2026-06-16T15:35:30.264012+00:00</updated>
+    <summary>Authors: Peter Herbeck, Pekka Posio
+DOI: https://doi.org/10.1515/shll-2026-2004
+Pages: Page range: 119-145</summary>
+  </entry>
+  <entry>
+    <title>¿Andé o anduve? Regularization of preteritandarin Spain</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2026-2005/html"/>
+    <id>https://doi.org/10.1515/shll-2026-2005</id>
+    <updated>2026-06-16T15:35:30.264022+00:00</updated>
+    <summary>Authors: Andrea Hernández Hurtado, Matthew Kanwit
+DOI: https://doi.org/10.1515/shll-2026-2005
+Pages: Page range: 147-178</summary>
+  </entry>
+  <entry>
+    <title>Reflexivity in Portuguese Formulaic Language. Variation and Stability in Response to Linguistic Experience</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2026-2006/html"/>
+    <id>https://doi.org/10.1515/shll-2026-2006</id>
+    <updated>2026-06-16T15:35:30.264033+00:00</updated>
+    <summary>Authors: Konrad Szcześniak, Myron Tsikandilakis, Marcia dos Santos Machado Vieira, Romina Leonor Toranzos, Pâmela Fagundes Travassos, Ivona Dömischová
+DOI: https://doi.org/10.1515/shll-2026-2006
+Pages: Page range: 179-211</summary>
+  </entry>
+</feed>

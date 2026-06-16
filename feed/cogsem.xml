@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cognitive Semiotics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/cogsem/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/cogsem.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cogsem/html" rel="related"/>
+  <updated>2026-06-16T15:33:01.267269+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/cogsem.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Cognitive Semiotics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/cogsem-2026-frontmatter1</id>
+    <updated>2026-06-16T15:33:01.267300+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/cogsem-2026-frontmatter1
+Pages: Page range: i-ii</summary>
+  </entry>
+  <entry>
+    <title>Individuation of idiomatic sense in inner speech: integrating the Egger–Vygotsky hypothesis with embodied semantics and the default mode network</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2026-3002/html"/>
+    <id>https://doi.org/10.1515/cogsem-2026-3002</id>
+    <updated>2026-06-16T15:33:01.267361+00:00</updated>
+    <summary>Authors: Francesco Verde
+DOI: https://doi.org/10.1515/cogsem-2026-3002
+Pages: Page range: 1-27</summary>
+  </entry>
+  <entry>
+    <title>Metaphor is conflational, not conceptual: rectifying the central error of conceptual metaphor theory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2026-3001/html"/>
+    <id>https://doi.org/10.1515/cogsem-2026-3001</id>
+    <updated>2026-06-16T15:33:01.267382+00:00</updated>
+    <summary>Authors: Tim Adamson
+DOI: https://doi.org/10.1515/cogsem-2026-3001
+Pages: Page range: 29-53</summary>
+  </entry>
+  <entry>
+    <title>A fool for rhythm: the iconicity of parallelism</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2026-3003/html"/>
+    <id>https://doi.org/10.1515/cogsem-2026-3003</id>
+    <updated>2026-06-16T15:33:01.267394+00:00</updated>
+    <summary>Authors: Randy Allen Harris
+DOI: https://doi.org/10.1515/cogsem-2026-3003
+Pages: Page range: 55-82</summary>
+  </entry>
+</feed>

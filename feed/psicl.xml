@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Poznan Studies in Contemporary Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/psicl/62/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/psicl.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/psicl/html" rel="related"/>
+  <updated>2026-06-16T15:35:20.360894+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/psicl.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Poznan Studies in Contemporary Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/psicl-2026-frontmatter2</id>
+    <updated>2026-06-16T15:35:20.360934+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/psicl-2026-frontmatter2
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Challenges for Natural Language Processing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2026-0062/html"/>
+    <id>https://doi.org/10.1515/psicl-2026-0062</id>
+    <updated>2026-06-16T15:35:20.360948+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/psicl-2026-0062
+Pages: Page range: 179-181</summary>
+  </entry>
+  <entry>
+    <title>Scaling on-device spoken language understanding to new languages with large language models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2025-0053/html"/>
+    <id>https://doi.org/10.1515/psicl-2025-0053</id>
+    <updated>2026-06-16T15:35:20.360959+00:00</updated>
+    <summary>Authors: Jakub Hoscilowicz, Pawel Pawlowski, Marcin Skorupa, Marcin Sowanski, Artur Janicki
+DOI: https://doi.org/10.1515/psicl-2025-0053
+Pages: Page range: 183-204</summary>
+  </entry>
+  <entry>
+    <title>Spoken language corpora augmentation with domain-specific voice-cloned speech</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2025-0052/html"/>
+    <id>https://doi.org/10.1515/psicl-2025-0052</id>
+    <updated>2026-06-16T15:35:20.360971+00:00</updated>
+    <summary>Authors: Mateusz Czyżnikiewicz, Łukasz Bondaruk, Jakub Kubiak, Adam Wiącek, Łukasz Degórski, Marek Kubis, Paweł Skórzewski
+DOI: https://doi.org/10.1515/psicl-2025-0052
+Pages: Page range: 205-222</summary>
+  </entry>
+  <entry>
+    <title>Feature comparison between human-written and LLM-generated documents – a case study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2025-0063/html"/>
+    <id>https://doi.org/10.1515/psicl-2025-0063</id>
+    <updated>2026-06-16T15:35:20.360985+00:00</updated>
+    <summary>Authors: Miłosz Kutyła, Paweł Gryka, Marek Kozłowski, Kacper Gradoń, Artur Janicki
+DOI: https://doi.org/10.1515/psicl-2025-0063
+Pages: Page range: 223-247</summary>
+  </entry>
+  <entry>
+    <title>CNN-based named entity linking: Serbian use case</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2025-0064/html"/>
+    <id>https://doi.org/10.1515/psicl-2025-0064</id>
+    <updated>2026-06-16T15:35:20.360996+00:00</updated>
+    <summary>Authors: Milica Ikonić Nešić, Saša Petalinkar, Olivera Kitanović, Ranka Stanković, Miloš Utvić
+DOI: https://doi.org/10.1515/psicl-2025-0064
+Pages: Page range: 249-280</summary>
+  </entry>
+  <entry>
+    <title>Towards building a database of Croatian prepositions – theoretical and practical prerequisites</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2025-0082/html"/>
+    <id>https://doi.org/10.1515/psicl-2025-0082</id>
+    <updated>2026-06-16T15:35:20.361007+00:00</updated>
+    <summary>Authors: Ivana Matas Ivanković, Daniela Katunar
+DOI: https://doi.org/10.1515/psicl-2025-0082
+Pages: Page range: 281-303</summary>
+  </entry>
+</feed>

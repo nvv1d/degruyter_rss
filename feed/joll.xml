@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Latin Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/joll/24/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/joll.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/joll/html" rel="related"/>
+  <updated>2026-06-16T15:34:26.093237+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/joll.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Journal of Latin Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/joll-2025-frontmatter2</id>
+    <updated>2026-06-16T15:34:26.093269+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/joll-2025-frontmatter2
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Source preverbs and motion verbs in Latin. A quantitative approach toab-andex-</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2025-2009/html"/>
+    <id>https://doi.org/10.1515/joll-2025-2009</id>
+    <updated>2026-06-16T15:34:26.093282+00:00</updated>
+    <summary>Authors: Andrea Farina
+DOI: https://doi.org/10.1515/joll-2025-2009
+Pages: Page range: 113-150</summary>
+  </entry>
+  <entry>
+    <title>Collocations as motivators of new verb meanings: the case ofponereandagere</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2025-2008/html"/>
+    <id>https://doi.org/10.1515/joll-2025-2008</id>
+    <updated>2026-06-16T15:34:26.093293+00:00</updated>
+    <summary>Authors: Mª Isabel Jiménez Martínez, Iván López Martín
+DOI: https://doi.org/10.1515/joll-2025-2008
+Pages: Page range: 151-173</summary>
+  </entry>
+  <entry>
+    <title>Rethinking subjecthood: non-canonical subjects in impersonal predicates in early Latin</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2025-2007/html"/>
+    <id>https://doi.org/10.1515/joll-2025-2007</id>
+    <updated>2026-06-16T15:34:26.093335+00:00</updated>
+    <summary>Authors: Francisca Toro Varela
+DOI: https://doi.org/10.1515/joll-2025-2007
+Pages: Page range: 175-209</summary>
+  </entry>
+  <entry>
+    <title>Durocortorum Vulgare:linguistic change and cultural integration in the non-standard Latin inscriptions of Rheims</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2025-2006/html"/>
+    <id>https://doi.org/10.1515/joll-2025-2006</id>
+    <updated>2026-06-16T15:34:26.093347+00:00</updated>
+    <summary>Authors: Lothar Willms
+DOI: https://doi.org/10.1515/joll-2025-2006
+Pages: Page range: 211-235</summary>
+  </entry>
+</feed>

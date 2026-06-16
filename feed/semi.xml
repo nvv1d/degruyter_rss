@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Semiotica...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/semi/2026/270/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/semi.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/semi/html" rel="related"/>
+  <updated>2026-06-16T15:35:26.877288+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/semi.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Semiotica... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-frontmatter270/html"/>
+    <id>https://doi.org/10.1515/sem-2026-frontmatter270</id>
+    <updated>2026-06-16T15:35:26.877358+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sem-2026-frontmatter270
+Pages: Page range: i-vii</summary>
+  </entry>
+  <entry>
+    <title>Décrire la resémiotisation d’un phénomène: un modèle fondé sur des traits partagés entre les classes des signes peirciennes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0120/html"/>
+    <id>https://doi.org/10.1515/sem-2025-0120</id>
+    <updated>2026-06-16T15:35:26.877373+00:00</updated>
+    <summary>Authors: Mattéo Raimbault
+DOI: https://doi.org/10.1515/sem-2025-0120
+Pages: Page range: 1-19</summary>
+  </entry>
+  <entry>
+    <title>Travels in hyper-semiosis: navigating the digitization of meaning</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0071/html"/>
+    <id>https://doi.org/10.1515/sem-2025-0071</id>
+    <updated>2026-06-16T15:35:26.877385+00:00</updated>
+    <summary>Authors: Gregg S. Lloren
+DOI: https://doi.org/10.1515/sem-2025-0071
+Pages: Page range: 21-44</summary>
+  </entry>
+  <entry>
+    <title>La « langue dessinée » : maximiser le potentiel des images dans l’acquisition du sens des mots</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0059/html"/>
+    <id>https://doi.org/10.1515/sem-2023-0059</id>
+    <updated>2026-06-16T15:35:26.877396+00:00</updated>
+    <summary>Authors: Monica Barbir
+DOI: https://doi.org/10.1515/sem-2023-0059
+Pages: Page range: 45-85</summary>
+  </entry>
+  <entry>
+    <title>The state beneath the skin: tattoos as uncensored testimony in Russian prisons</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0162/html"/>
+    <id>https://doi.org/10.1515/sem-2025-0162</id>
+    <updated>2026-06-16T15:35:26.877406+00:00</updated>
+    <summary>Authors: Natalie Putz
+DOI: https://doi.org/10.1515/sem-2025-0162
+Pages: Page range: 87-109</summary>
+  </entry>
+  <entry>
+    <title>The laughing body: when to laugh is to do</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0053/html"/>
+    <id>https://doi.org/10.1515/sem-2023-0053</id>
+    <updated>2026-06-16T15:35:26.877416+00:00</updated>
+    <summary>Authors: Saleta De Salvador Agra
+DOI: https://doi.org/10.1515/sem-2023-0053
+Pages: Page range: 111-132</summary>
+  </entry>
+  <entry>
+    <title>Framing affordance transformation in multi-semiotic rhetorical design: a systemic-ordered typological analysis of posters in the Chinese eco-cultural context</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0194/html"/>
+    <id>https://doi.org/10.1515/sem-2024-0194</id>
+    <updated>2026-06-16T15:35:26.877426+00:00</updated>
+    <summary>Authors: Yanfang Han
+DOI: https://doi.org/10.1515/sem-2024-0194
+Pages: Page range: 133-160</summary>
+  </entry>
+  <entry>
+    <title>Nuances de marque</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0116/html"/>
+    <id>https://doi.org/10.1515/sem-2025-0116</id>
+    <updated>2026-06-16T15:35:26.877437+00:00</updated>
+    <summary>Authors: Alain Perusset
+DOI: https://doi.org/10.1515/sem-2025-0116
+Pages: Page range: 161-191</summary>
+  </entry>
+  <entry>
+    <title>At the table of wonder: the semiotics of ghoul and food in Palestinian folktales</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0162/html"/>
+    <id>https://doi.org/10.1515/sem-2024-0162</id>
+    <updated>2026-06-16T15:35:26.877449+00:00</updated>
+    <summary>Authors: Kawthar Jabir-Kassoum
+DOI: https://doi.org/10.1515/sem-2024-0162
+Pages: Page range: 193-214</summary>
+  </entry>
+</feed>

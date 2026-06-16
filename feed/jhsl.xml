@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Historical Sociolinguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jhsl/11/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jhsl.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jhsl/html" rel="related"/>
+  <updated>2026-06-16T15:34:13.518251+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jhsl.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Journal of Historical Sociolinguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-frontmatter2</id>
+    <updated>2026-06-16T15:34:13.518296+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jhsl-2025-frontmatter2
+Pages: Page range: i-ii</summary>
+  </entry>
+  <entry>
+    <title>Variation and change in pronominal address in 19th and early 20th-century German private letters</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0036/html"/>
+    <id>https://doi.org/10.1515/jhsl-2023-0036</id>
+    <updated>2026-06-16T15:34:13.518349+00:00</updated>
+    <summary>Authors: Markus Schiegg, Stephan Elspaß
+DOI: https://doi.org/10.1515/jhsl-2023-0036
+Pages: Page range: 331-362</summary>
+  </entry>
+  <entry>
+    <title>Orality and overtness: effects on Spanish subject use</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0017/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0017</id>
+    <updated>2026-06-16T15:34:13.518374+00:00</updated>
+    <summary>Authors: Gemma McCarley
+DOI: https://doi.org/10.1515/jhsl-2024-0017
+Pages: Page range: 363-395</summary>
+  </entry>
+  <entry>
+    <title>Mixed: Turkish–Armenian language contact and its invisibilization</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0043/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0043</id>
+    <updated>2026-06-16T15:34:13.518395+00:00</updated>
+    <summary>Authors: Jennifer Manoukian
+DOI: https://doi.org/10.1515/jhsl-2024-0043
+Pages: Page range: 397-427</summary>
+  </entry>
+  <entry>
+    <title>“Ik heef niets gezeg”: the past tense in an Anglo-Boer War concentration camp diary</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0062/html"/>
+    <id>https://doi.org/10.1515/jhsl-2023-0062</id>
+    <updated>2026-06-16T15:34:13.518406+00:00</updated>
+    <summary>Authors: Johanita Kirsten
+DOI: https://doi.org/10.1515/jhsl-2023-0062
+Pages: Page range: 429-449</summary>
+  </entry>
+  <entry>
+    <title>(De)constructing “verbatimness”: a study of speech reporting strategies in the late modern Flemish courtroom</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0025/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0025</id>
+    <updated>2026-06-16T15:34:13.518416+00:00</updated>
+    <summary>Authors: Magda Serwadczak
+DOI: https://doi.org/10.1515/jhsl-2024-0025
+Pages: Page range: 451-480</summary>
+  </entry>
+  <entry>
+    <title>Spanish socio-historical linguistics: isolation and contact</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2022-0002/html"/>
+    <id>https://doi.org/10.1515/jhsl-2022-0002</id>
+    <updated>2026-06-16T15:34:13.518427+00:00</updated>
+    <summary>Authors: Jason Doroga
+DOI: https://doi.org/10.1515/jhsl-2022-0002
+Pages: Page range: 481-486</summary>
+  </entry>
+  <entry>
+    <title>Hillary Taylor: Language and Social Relations in Early Modern England</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0061/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0061</id>
+    <updated>2026-06-16T15:34:13.518436+00:00</updated>
+    <summary>Authors: Tino Oudesluijs
+DOI: https://doi.org/10.1515/jhsl-2024-0061
+Pages: Page range: 487-490</summary>
+  </entry>
+  <entry>
+    <title>Investigating West Germanic Languages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0037/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0037</id>
+    <updated>2026-06-16T15:34:13.518460+00:00</updated>
+    <summary>Authors: Gijsbert Rutten
+DOI: https://doi.org/10.1515/jhsl-2024-0037
+Pages: Page range: 491-494</summary>
+  </entry>
+  <entry>
+    <title>The Victorians and English dialect</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0057/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0057</id>
+    <updated>2026-06-16T15:34:13.518482+00:00</updated>
+    <summary>Authors: Paul Cooper
+DOI: https://doi.org/10.1515/jhsl-2024-0057
+Pages: Page range: 495-499</summary>
+  </entry>
+</feed>

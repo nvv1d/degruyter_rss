@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STUF - Language Typology and Universals...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/stuf/79/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/stuf.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/stuf/html" rel="related"/>
+  <updated>2026-06-16T15:35:39.591762+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/stuf.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from STUF - Language Typology and Universals... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-frontmatter1</id>
+    <updated>2026-06-16T15:35:39.591807+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/stuf-2026-frontmatter1
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Is the contrasting correlation between the consonantality of conative animal calls and the vocalicity of interjections accidental or motivated? The case of Gorwaa</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2002/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-2002</id>
+    <updated>2026-06-16T15:35:39.591821+00:00</updated>
+    <summary>Authors: Alexander Andrason, Andrew Harvey
+DOI: https://doi.org/10.1515/stuf-2026-2002
+Pages: Page range: 1-39</summary>
+  </entry>
+  <entry>
+    <title>A variety-driven approach to Goal-Source (a)symmetries</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2001/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-2001</id>
+    <updated>2026-06-16T15:35:39.591833+00:00</updated>
+    <summary>Authors: Maja Robbers
+DOI: https://doi.org/10.1515/stuf-2026-2001
+Pages: Page range: 41-81</summary>
+  </entry>
+  <entry>
+    <title>Concessive conditionals and language contact: the case of Cappadocian Greek</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2003/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-2003</id>
+    <updated>2026-06-16T15:35:39.591844+00:00</updated>
+    <summary>Authors: Tom Bossuyt, Eline Daveloose
+DOI: https://doi.org/10.1515/stuf-2026-2003
+Pages: Page range: 83-125</summary>
+  </entry>
+  <entry>
+    <title>Lithuanian and the syntactic structure of pseudo-clefts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2004/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-2004</id>
+    <updated>2026-06-16T15:35:39.591855+00:00</updated>
+    <summary>Authors: Axel Holvoet
+DOI: https://doi.org/10.1515/stuf-2026-2004
+Pages: Page range: 127-146</summary>
+  </entry>
+</feed>

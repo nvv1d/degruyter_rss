@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of South Asian Languages and Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jsall/13/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jsall.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jsall/html" rel="related"/>
+  <updated>2026-06-16T15:34:29.074119+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jsall.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Journal of South Asian Languages and Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jsall-2026-frontmatter1</id>
+    <updated>2026-06-16T15:34:29.074150+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jsall-2026-frontmatter1
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>The New Indo-Aryanb-future and the early Middle Indo-Aryan of Aśokan inscriptions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2025-0009/html"/>
+    <id>https://doi.org/10.1515/jsall-2025-0009</id>
+    <updated>2026-06-16T15:34:29.074163+00:00</updated>
+    <summary>Authors: Eugen Hill
+DOI: https://doi.org/10.1515/jsall-2025-0009
+Pages: Page range: 1-21</summary>
+  </entry>
+  <entry>
+    <title>Reconstructing the relationship between Hindi-Urdu and Dakani: a diachronic dialectological approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2025-0006/html"/>
+    <id>https://doi.org/10.1515/jsall-2025-0006</id>
+    <updated>2026-06-16T15:34:29.074179+00:00</updated>
+    <summary>Authors: Joshua H. Pien
+DOI: https://doi.org/10.1515/jsall-2025-0006
+Pages: Page range: 23-64</summary>
+  </entry>
+  <entry>
+    <title>The sound system of Jādobātī Brajbhāshā</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2025-0013/html"/>
+    <id>https://doi.org/10.1515/jsall-2025-0013</id>
+    <updated>2026-06-16T15:34:29.074195+00:00</updated>
+    <summary>Authors: Pramod Rathor, Sansuma Brahma
+DOI: https://doi.org/10.1515/jsall-2025-0013
+Pages: Page range: 65-97</summary>
+  </entry>
+  <entry>
+    <title>Sound correspondences among Zeme, Liangmai, and Rongmei: a comparative analysis of cognate sets and alternating reflex</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2025-0015/html"/>
+    <id>https://doi.org/10.1515/jsall-2025-0015</id>
+    <updated>2026-06-16T15:34:29.074210+00:00</updated>
+    <summary>Authors: ID Raguibou
+DOI: https://doi.org/10.1515/jsall-2025-0015
+Pages: Page range: 99-140</summary>
+  </entry>
+</feed>

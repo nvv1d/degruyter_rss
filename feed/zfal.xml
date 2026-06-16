@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Angewandte Linguistik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zfal/2026/84/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zfal.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfal/html" rel="related"/>
+  <updated>2026-06-16T15:35:56.615249+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zfal.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Zeitschrift für Angewandte Linguistik (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-frontmatter1</id>
+    <updated>2026-06-16T15:35:56.615293+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfal-2026-frontmatter1
+Pages: Page range: I-IV</summary>
+  </entry>
+  <entry>
+    <title>Zeichenensembles und Assemblages im Kommunikationsraum Schule: „Verhaltensampeln“ und ihre Effekte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2001/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2001</id>
+    <updated>2026-06-16T15:35:56.615335+00:00</updated>
+    <summary>Authors: Jannis Androutsopoulos
+DOI: https://doi.org/10.1515/zfal-2026-2001
+Pages: Page range: 1-31</summary>
+  </entry>
+  <entry>
+    <title>Umstrukturierung von Relativsätzen in pränominale Erweiterungen – ein Vergleich zwischen den Klassenstufen 3, 4, 6 und 9</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2002/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2002</id>
+    <updated>2026-06-16T15:35:56.615348+00:00</updated>
+    <summary>Authors: Katharina Kellermann, Sebastian Bücking, Lukas Lazzara
+DOI: https://doi.org/10.1515/zfal-2026-2002
+Pages: Page range: 32-64</summary>
+  </entry>
+  <entry>
+    <title>Die Verwendung genderinklusiver Sprache auf Städte-Webseiten in Deutschland, Österreich, der Schweiz und Südtirol. Empirische Analysen für die Jahre 2022–2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2003/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2003</id>
+    <updated>2026-06-16T15:35:56.615361+00:00</updated>
+    <summary>Authors: Samira Ochs, Melissa Manara, Carolin Müller-Spitzer
+DOI: https://doi.org/10.1515/zfal-2026-2003
+Pages: Page range: 65-90</summary>
+  </entry>
+  <entry>
+    <title>Metapragmatische Stereotype de-/nasaler Aussprache – Von näselnden Adeligen, Franzosen und ‚Schwulen‘</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2004/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2004</id>
+    <updated>2026-06-16T15:35:56.615372+00:00</updated>
+    <summary>Authors: Lars Sörries-Vorberger
+DOI: https://doi.org/10.1515/zfal-2026-2004
+Pages: Page range: 91-129</summary>
+  </entry>
+  <entry>
+    <title>Was kann Mehrsprachigkeit leisten?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2005/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2005</id>
+    <updated>2026-06-16T15:35:56.615383+00:00</updated>
+    <summary>Authors: Birgit Spechtenhauser
+DOI: https://doi.org/10.1515/zfal-2026-2005
+Pages: Page range: 130-161</summary>
+  </entry>
+  <entry>
+    <title>Berg, Kristian. 2023.Wort – Satz – Sprache. Eine Hinführung zur Sprachwissenschaft.Tübingen: Narr Francke Attempto Verlag. 194 S. 24,99 €, ISBN 978-3-823-38441-0.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2006/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2006</id>
+    <updated>2026-06-16T15:35:56.615394+00:00</updated>
+    <summary>Authors: Nina Jeanette Hofferberth
+DOI: https://doi.org/10.1515/zfal-2026-2006
+Pages: Page range: 162-169</summary>
+  </entry>
+  <entry>
+    <title>Blahak, Boris (Hrsg.). 2023.Regensburger Sprachlandschaften. Linguistic Landscaping und DaF-Unterricht jenseits der Megacity.Berlin: Logos. 240 S., 43,00 €, ISBN 978-3-8325-5639-6.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2007/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2007</id>
+    <updated>2026-06-16T15:35:56.615406+00:00</updated>
+    <summary>Authors: Mark Döring, Iryna Zachow
+DOI: https://doi.org/10.1515/zfal-2026-2007
+Pages: Page range: 170-177</summary>
+  </entry>
+  <entry>
+    <title>Kabatnik, Susanne, Lars Bülow, Marie-Luis Merten &amp; Robert Mroczynski (Hrsg.). 2024.Pragmatik multimodal. Tübingen: Narr Francke Attempto Verlag. 420 S., 88,00 €, ISBN: 978-3-8233-8582-0.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2008/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2008</id>
+    <updated>2026-06-16T15:35:56.615417+00:00</updated>
+    <summary>Authors: Kira Molina
+DOI: https://doi.org/10.1515/zfal-2026-2008
+Pages: Page range: 178-184</summary>
+  </entry>
+  <entry>
+    <title>McElvenny, James. 2025.Entstehung und Entwicklung der modernen Linguistik. Von den Anfängen bis zum Zweiten Weltkrieg. Berlin/Boston: Walter de Gruyter. 255 S., 34,95 €, ISBN 978–3111618357.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2009/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2009</id>
+    <updated>2026-06-16T15:35:56.615433+00:00</updated>
+    <summary>Authors: Friedrich Markewitz
+DOI: https://doi.org/10.1515/zfal-2026-2009
+Pages: Page range: 185-191</summary>
+  </entry>
+  <entry>
+    <title>Weißer, Martin. 2022.Python-Programmierung für Germanist:innen. Ein Lehr- und Arbeitsbuch. Tübingen: Narr. 224 S., 28,90 €, ISBN: 978-3-8233-8456-4.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2010/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2010</id>
+    <updated>2026-06-16T15:35:56.615445+00:00</updated>
+    <summary>Authors: Marcella Palladino
+DOI: https://doi.org/10.1515/zfal-2026-2010
+Pages: Page range: 192-196</summary>
+  </entry>
+  <entry>
+    <title>Angebote zur Rezension</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2026-2011/html"/>
+    <id>https://doi.org/10.1515/zfal-2026-2011</id>
+    <updated>2026-06-16T15:35:56.615455+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfal-2026-2011
+Pages: Page range: 197-201</summary>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Glottotheory...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/glot/16/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/glot.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/glot/html" rel="related"/>
+  <updated>2026-06-16T15:33:31.097234+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/glot.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Glottotheory... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/glot-2025-frontmatter2</id>
+    <updated>2026-06-16T15:33:31.097274+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/glot-2025-frontmatter2
+Pages: Page range: i-ii</summary>
+  </entry>
+  <entry>
+    <title>AI-generated, L2 learner, and native German writing: a comparative analysis of linguistic complexity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-2011/html"/>
+    <id>https://doi.org/10.1515/glot-2025-2011</id>
+    <updated>2026-06-16T15:33:31.097288+00:00</updated>
+    <summary>Authors: Shengzhou Sun, Yuan Li
+DOI: https://doi.org/10.1515/glot-2025-2011
+Pages: Page range: 127-148</summary>
+  </entry>
+  <entry>
+    <title>More similar than needed: Czech exam texts from the perspective of quantitative linguistics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-2014/html"/>
+    <id>https://doi.org/10.1515/glot-2025-2014</id>
+    <updated>2026-06-16T15:33:31.097300+00:00</updated>
+    <summary>Authors: Michal Místecký, Lucie Radková, Žaneta Stiborská, Darina Hrubá
+DOI: https://doi.org/10.1515/glot-2025-2014
+Pages: Page range: 149-163</summary>
+  </entry>
+  <entry>
+    <title>A study of metadiscourse markers in formal writings</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-2008/html"/>
+    <id>https://doi.org/10.1515/glot-2025-2008</id>
+    <updated>2026-06-16T15:33:31.097339+00:00</updated>
+    <summary>Authors: Devendra Kumar, Bhagwati Prasad Pande
+DOI: https://doi.org/10.1515/glot-2025-2008
+Pages: Page range: 165-187</summary>
+  </entry>
+  <entry>
+    <title>Sprachliche Resonanzen des Krieges: Transferneologismen im Deutschen, Ukrainischen und Russischen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-2010/html"/>
+    <id>https://doi.org/10.1515/glot-2025-2010</id>
+    <updated>2026-06-16T15:33:31.097352+00:00</updated>
+    <summary>Authors: Csaba Földes
+DOI: https://doi.org/10.1515/glot-2025-2010
+Pages: Page range: 189-216</summary>
+  </entry>
+  <entry>
+    <title>Das deutsch-ukrainische Online-Fachwörterbücherportal: Entwicklung und Datenmodellierung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-2013/html"/>
+    <id>https://doi.org/10.1515/glot-2025-2013</id>
+    <updated>2026-06-16T15:33:31.097363+00:00</updated>
+    <summary>Authors: Svitlana Kiyko, Thorsten Roelcke
+DOI: https://doi.org/10.1515/glot-2025-2013
+Pages: Page range: 217-230</summary>
+  </entry>
+  <entry>
+    <title>Andreea S. Calude:The Linguistics of Social Media: An Introduction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-2009/html"/>
+    <id>https://doi.org/10.1515/glot-2025-2009</id>
+    <updated>2026-06-16T15:33:31.097374+00:00</updated>
+    <summary>Authors: Parsa Bamshadi, Amir Ghorbanpour
+DOI: https://doi.org/10.1515/glot-2025-2009
+Pages: Page range: 231-235</summary>
+  </entry>
+  <entry>
+    <title>von Csaba Földes:Auslandsdeutsche Pressesprache in Europa, Asien und Nordamerika</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2025-2012/html"/>
+    <id>https://doi.org/10.1515/glot-2025-2012</id>
+    <updated>2026-06-16T15:33:31.097384+00:00</updated>
+    <summary>Authors: Doris Sava
+DOI: https://doi.org/10.1515/glot-2025-2012
+Pages: Page range: 237-240</summary>
+  </entry>
+</feed>

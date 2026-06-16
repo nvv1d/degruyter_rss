@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Probus - International Journal of Romance Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/prbs/37/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/prbs.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/prbs/html" rel="related"/>
+  <updated>2026-06-16T15:35:17.320100+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/prbs.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Probus - International Journal of Romance Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/probus-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/probus-2025-frontmatter2</id>
+    <updated>2026-06-16T15:35:17.320144+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/probus-2025-frontmatter2
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>A syntactic account of auxiliary selection in French</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/probus-2024-0005/html"/>
+    <id>https://doi.org/10.1515/probus-2024-0005</id>
+    <updated>2026-06-16T15:35:17.320159+00:00</updated>
+    <summary>Authors: Marc Olivier
+DOI: https://doi.org/10.1515/probus-2024-0005
+Pages: Page range: 163-197</summary>
+  </entry>
+  <entry>
+    <title>Investigating locality constraints onwh-in situ in French: an experiment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/probus-2025-0002/html"/>
+    <id>https://doi.org/10.1515/probus-2025-0002</id>
+    <updated>2026-06-16T15:35:17.320172+00:00</updated>
+    <summary>Authors: Ruoxuan Li, Doriane Gras, Caterina Donati
+DOI: https://doi.org/10.1515/probus-2025-0002
+Pages: Page range: 199-232</summary>
+  </entry>
+  <entry>
+    <title>Focalization in situ and the absence of covert focus movement in Brazilian Portuguese</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/probus-2025-0004/html"/>
+    <id>https://doi.org/10.1515/probus-2025-0004</id>
+    <updated>2026-06-16T15:35:17.320184+00:00</updated>
+    <summary>Authors: Renato Lacerda
+DOI: https://doi.org/10.1515/probus-2025-0004
+Pages: Page range: 233-261</summary>
+  </entry>
+  <entry>
+    <title>French clausal ellipsis: types and derivations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/probus-2025-0001/html"/>
+    <id>https://doi.org/10.1515/probus-2025-0001</id>
+    <updated>2026-06-16T15:35:17.320195+00:00</updated>
+    <summary>Authors: J.-Marc Authier
+DOI: https://doi.org/10.1515/probus-2025-0001
+Pages: Page range: 263-312</summary>
+  </entry>
+  <entry>
+    <title>Radical tmesis is Internal Merge</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/probus-2025-0007/html"/>
+    <id>https://doi.org/10.1515/probus-2025-0007</id>
+    <updated>2026-06-16T15:35:17.320206+00:00</updated>
+    <summary>Authors: Erik Zyman
+DOI: https://doi.org/10.1515/probus-2025-0007
+Pages: Page range: 313-353</summary>
+  </entry>
+</feed>

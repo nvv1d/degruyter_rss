@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lexicographica...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/lexi/41/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lexi.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/lexi/html" rel="related"/>
+  <updated>2026-06-16T15:34:42.138072+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lexi.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Lexicographica... (De Gruyter)</subtitle>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/lex-2025-frontmatter1</id>
+    <updated>2026-06-16T15:34:42.138105+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/lex-2025-frontmatter1
+Pages: Page range: I-VIII</summary>
+  </entry>
+  <entry>
+    <title>Beleg und Beispiel im Wörterbuch</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0001/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0001</id>
+    <updated>2026-06-16T15:34:42.138119+00:00</updated>
+    <summary>Authors: Volker Harm, Undine Kramer
+DOI: https://doi.org/10.1515/lex-2025-0001
+Pages: Page range: 3-12</summary>
+  </entry>
+  <entry>
+    <title>Vollstes Verständnis? Lateinisch-volkssprachige Glossen als Belegzitate imAlthochdeutschen Wörterbuch*</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0002/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0002</id>
+    <updated>2026-06-16T15:34:42.138131+00:00</updated>
+    <summary>Authors: Almut Mikeleitis-Winter
+DOI: https://doi.org/10.1515/lex-2025-0002
+Pages: Page range: 13-43</summary>
+  </entry>
+  <entry>
+    <title>Zum Zusammenspiel von Beleginterpretation und Bedeutungshypothese(n) imFrühneuhochdeutschen Wörterbuch(FWB) – Beobachtungen anhand des Artikelsschwarz</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0003/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0003</id>
+    <updated>2026-06-16T15:34:42.138143+00:00</updated>
+    <summary>Authors: Andrea Moshövel
+DOI: https://doi.org/10.1515/lex-2025-0003
+Pages: Page range: 45-64</summary>
+  </entry>
+  <entry>
+    <title>Die Qual der Wahl – unterliegt strengen Regeln: Zu Belegauswahl und Belegaufnahme beimDeutschen Rechtswörterbuch</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0004/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0004</id>
+    <updated>2026-06-16T15:34:42.138156+00:00</updated>
+    <summary>Authors: Andreas Deutsch
+DOI: https://doi.org/10.1515/lex-2025-0004
+Pages: Page range: 65-86</summary>
+  </entry>
+  <entry>
+    <title>Vom Quellentext über das Belegarchiv ins Autorenwörterbuch: der lexikografische Weg der Goethe-Belege</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0005/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0005</id>
+    <updated>2026-06-16T15:34:42.138166+00:00</updated>
+    <summary>Authors: Renata Kwaśniak
+DOI: https://doi.org/10.1515/lex-2025-0005
+Pages: Page range: 87-106</summary>
+  </entry>
+  <entry>
+    <title>Aufgaben literarischer Korpora und literarischer Belege für die Lexikographie. Grundlagen und Beispiele zum neueren Deutsch</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0006/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0006</id>
+    <updated>2026-06-16T15:34:42.138178+00:00</updated>
+    <summary>Authors: Thomas Gloning
+DOI: https://doi.org/10.1515/lex-2025-0006
+Pages: Page range: 107-130</summary>
+  </entry>
+  <entry>
+    <title>„Choleraausbruch zwang zur Rückkehr“ – die Auswahl von Beispielen für dasPandemictionary-Projekt als lexikografisches Linked Open Data-Netzwerk</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0007/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0007</id>
+    <updated>2026-06-16T15:34:42.138190+00:00</updated>
+    <summary>Authors: Susanne Kabatnik, Anne Klee
+DOI: https://doi.org/10.1515/lex-2025-0007
+Pages: Page range: 131-148</summary>
+  </entry>
+  <entry>
+    <title>Ein regelbasierter Ansatz für eine Type-Token-Zuordnung in historischen Wörterbuchbelegen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0008/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0008</id>
+    <updated>2026-06-16T15:34:42.138200+00:00</updated>
+    <summary>Authors: Nico Dorn
+DOI: https://doi.org/10.1515/lex-2025-0008
+Pages: Page range: 149-169</summary>
+  </entry>
+  <entry>
+    <title>„Ich habe 5 geeignete Belege zum Lemma ‚Cholera‘ aus der historischen Korpusdatei ausgewählt.“ – Experimentelle Untersuchung zur KI-gestützten Belegextraktion für die digitale Lexikografie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0009/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0009</id>
+    <updated>2026-06-16T15:34:42.138212+00:00</updated>
+    <summary>Authors: Susanne Kabatnik, Rukiye Smilla Burkart
+DOI: https://doi.org/10.1515/lex-2025-0009
+Pages: Page range: 171-199</summary>
+  </entry>
+  <entry>
+    <title>Elwyn’sGlossary of Supposed Americanisms(1859): its lexicographical practice reconsidered</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0010/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0010</id>
+    <updated>2026-06-16T15:34:42.138246+00:00</updated>
+    <summary>Authors: Kusujiro Miyoshi
+DOI: https://doi.org/10.1515/lex-2025-0010
+Pages: Page range: 203-221</summary>
+  </entry>
+  <entry>
+    <title>Das „Uigurische Wörterbuch“ (UW): Alttürkische Lexik an der Seidenstraße</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0011/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0011</id>
+    <updated>2026-06-16T15:34:42.138256+00:00</updated>
+    <summary>Authors: Jens Peter Laut, Jens Wilkens, Hans Nugteren, Zekine Özertural, Klaus Röhrborn, Gökhan Şilfeler
+DOI: https://doi.org/10.1515/lex-2025-0011
+Pages: Page range: 223-297</summary>
+  </entry>
+  <entry>
+    <title>Defining relationships in the constructional network: A Semantic Web ontology for Construction Grammar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0012/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0012</id>
+    <updated>2026-06-16T15:34:42.138267+00:00</updated>
+    <summary>Authors: Elodie Winckel
+DOI: https://doi.org/10.1515/lex-2025-0012
+Pages: Page range: 299-317</summary>
+  </entry>
+  <entry>
+    <title>Mittelhochdeutsches Wörterbuch, vol. 1:a–êvrouwe, 2224 Spalten (2006–2013), edd. Kurt Gärtner/Klaus Grubmüller/Karl Stackmann, vol. 2:êvüegerin–iruele, 1988 Spalten (2013–2021), vol. 3/1:irzen–kochlêhen, Spalten 1–414 (2021), vol. 3/2:kochman–lancbeiten, Spalten 415–850 (2023), vol. 3/3:lancbeitic–lônen, Spalten 851–1250 (2024), edd. Kurt Gärtner/Klaus Grubmüller/Jens Haustein. Stuttgart: Hirzel, 2006–2024.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0013/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0013</id>
+    <updated>2026-06-16T15:34:42.138536+00:00</updated>
+    <summary>Authors: Wolfgang Schweickard
+DOI: https://doi.org/10.1515/lex-2025-0013
+Pages: Page range: 321-331</summary>
+  </entry>
+  <entry>
+    <title>Interdisziplinäre Lexikografie – Lexikografie in und für die Gesellschaft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0014/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0014</id>
+    <updated>2026-06-16T15:34:42.138549+00:00</updated>
+    <summary>Authors: Varvara Baranovskaia, Emmanuelle Meten Baban, Kean Chen, Elizabeth Nakiwu, Paul Rohwedder
+DOI: https://doi.org/10.1515/lex-2025-0014
+Pages: Page range: 335-343</summary>
+  </entry>
+  <entry>
+    <title>European Master in Lexicography: The power of linguistic and cultural diversity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2025-0015/html"/>
+    <id>https://doi.org/10.1515/lex-2025-0015</id>
+    <updated>2026-06-16T15:34:42.138560+00:00</updated>
+    <summary>Authors: Idalete Dias, Tinatin Margalitadze
+DOI: https://doi.org/10.1515/lex-2025-0015
+Pages: Page range: 347-357</summary>
+  </entry>
+</feed>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Linguistic Typology</title>
+  <link href="https://www.degruyterbrill.com/journal/key/lity/30/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lity.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/lity/html" rel="related"/>
+  <updated>2026-06-16T15:34:49.144195+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lity.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Linguistic Typology (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/lingty-2026-frontmatter1</id>
+    <updated>2026-06-16T15:34:49.144226+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/lingty-2026-frontmatter1
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>A typology of positional differential argument marking</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2024-0021/html"/>
+    <id>https://doi.org/10.1515/lingty-2024-0021</id>
+    <updated>2026-06-16T15:34:49.144239+00:00</updated>
+    <summary>Authors: Ilja A. Seržant, Sergey Say, Andreas Hölzl, Aigul Zakirova, Xinyi Gao, Andreas Pregla
+DOI: https://doi.org/10.1515/lingty-2024-0021
+Pages: Page range: 1-31</summary>
+  </entry>
+  <entry>
+    <title>The evolution of gender and number agreement in the noun phrase</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2024-0072/html"/>
+    <id>https://doi.org/10.1515/lingty-2024-0072</id>
+    <updated>2026-06-16T15:34:49.144252+00:00</updated>
+    <summary>Authors: Olena Shcherbakova, Marc Allassonnière-Tang, Francesca Di Garbo
+DOI: https://doi.org/10.1515/lingty-2024-0072
+Pages: Page range: 33-52</summary>
+  </entry>
+  <entry>
+    <title>Direct speech, silent pauses, speech verbs, and basic word order: a comparative corpus study of 12 languages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2024-0032/html"/>
+    <id>https://doi.org/10.1515/lingty-2024-0032</id>
+    <updated>2026-06-16T15:34:49.144265+00:00</updated>
+    <summary>Authors: Jocelyn Aznar, Frank Seifart
+DOI: https://doi.org/10.1515/lingty-2024-0032
+Pages: Page range: 53-89</summary>
+  </entry>
+  <entry>
+    <title>Iconic features in nominal reduplication</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2024-0042/html"/>
+    <id>https://doi.org/10.1515/lingty-2024-0042</id>
+    <updated>2026-06-16T15:34:49.144277+00:00</updated>
+    <summary>Authors: Camil Staps
+DOI: https://doi.org/10.1515/lingty-2024-0042
+Pages: Page range: 91-128</summary>
+  </entry>
+  <entry>
+    <title>John Haiman</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2025-0111/html"/>
+    <id>https://doi.org/10.1515/lingty-2025-0111</id>
+    <updated>2026-06-16T15:34:49.144290+00:00</updated>
+    <summary>Authors: Stephanie Farmer
+DOI: https://doi.org/10.1515/lingty-2025-0111
+Pages: Page range: 129-133</summary>
+  </entry>
+  <entry>
+    <title>An obituary of Ian Maddieson</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2026-0007/html"/>
+    <id>https://doi.org/10.1515/lingty-2026-0007</id>
+    <updated>2026-06-16T15:34:49.144334+00:00</updated>
+    <summary>Authors: Heriberto Avelino
+DOI: https://doi.org/10.1515/lingty-2026-0007
+Pages: Page range: 135-139</summary>
+  </entry>
+  <entry>
+    <title>Typology re-done: Greenberg Nos. 37, 45, 34</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2025-0092/html"/>
+    <id>https://doi.org/10.1515/lingty-2025-0092</id>
+    <updated>2026-06-16T15:34:49.144355+00:00</updated>
+    <summary>Authors: Frans Plank
+DOI: https://doi.org/10.1515/lingty-2025-0092
+Pages: Page range: 141-149</summary>
+  </entry>
+  <entry>
+    <title>Progress or regress in typology: a rebuttal of Plank (2026)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2026-0016/html"/>
+    <id>https://doi.org/10.1515/lingty-2026-0016</id>
+    <updated>2026-06-16T15:34:49.144371+00:00</updated>
+    <summary>Authors: Thomas Berg
+DOI: https://doi.org/10.1515/lingty-2026-0016
+Pages: Page range: 151-154</summary>
+  </entry>
+  <entry>
+    <title>Number in the world’s languages. A comparative handbook</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2025-0060/html"/>
+    <id>https://doi.org/10.1515/lingty-2025-0060</id>
+    <updated>2026-06-16T15:34:49.144383+00:00</updated>
+    <summary>Authors: Jessica K. Ivani
+DOI: https://doi.org/10.1515/lingty-2025-0060
+Pages: Page range: 155-166</summary>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>International Journal of Legal Discourse</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ijld/11/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/ijld.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijld/html" rel="related"/>
+  <updated>2026-06-16T15:33:44.997643+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/ijld.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from International Journal of Legal Discourse (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-frontmatter1</id>
+    <updated>2026-06-16T15:33:44.997675+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ijld-2026-frontmatter1
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>Time on trial: narrative time and discourse strategies in criminal courtroom closing statements</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-3001/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-3001</id>
+    <updated>2026-06-16T15:33:44.997688+00:00</updated>
+    <summary>Authors: Sarah E. Duffy, Kirsty E. Blewitt
+DOI: https://doi.org/10.1515/ijld-2026-3001
+Pages: Page range: 1-34</summary>
+  </entry>
+  <entry>
+    <title>A discourse-historical analysis of China’s discursive construction of cybersecurity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-3002/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-3002</id>
+    <updated>2026-06-16T15:33:44.997700+00:00</updated>
+    <summary>Authors: Jian Li, Jiayuan Li, Yiang Yuan
+DOI: https://doi.org/10.1515/ijld-2026-3002
+Pages: Page range: 35-66</summary>
+  </entry>
+  <entry>
+    <title>A corpus-assisted discourse analysis of descriptive confusion frames and identity positioning in leave to appeal decisions of the HKSAR</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-3003/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-3003</id>
+    <updated>2026-06-16T15:33:44.997711+00:00</updated>
+    <summary>Authors: Haojie Deng, Jamie McKeown
+DOI: https://doi.org/10.1515/ijld-2026-3003
+Pages: Page range: 67-91</summary>
+  </entry>
+  <entry>
+    <title>Framing security through law: BERTopic modeling of Chinese national security legislation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-3004/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-3004</id>
+    <updated>2026-06-16T15:33:44.997721+00:00</updated>
+    <summary>Authors: Xiuli Liu
+DOI: https://doi.org/10.1515/ijld-2026-3004
+Pages: Page range: 93-117</summary>
+  </entry>
+  <entry>
+    <title>Large language models in high-stakes Arabic-to-English legal translation: a contextual terminology study of ChatGPT 5.2 and DeepSeek</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-3005/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-3005</id>
+    <updated>2026-06-16T15:33:44.997733+00:00</updated>
+    <summary>Authors: Naeem Salameh, Ekrema Shehab, Ahmad Qabaha, Anwar Janem
+DOI: https://doi.org/10.1515/ijld-2026-3005
+Pages: Page range: 119-152</summary>
+  </entry>
+  <entry>
+    <title>The effects of directionality on lexical complexity in Chinese legal translation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-3006/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-3006</id>
+    <updated>2026-06-16T15:33:44.997743+00:00</updated>
+    <summary>Authors: Yuxiu Sun
+DOI: https://doi.org/10.1515/ijld-2026-3006
+Pages: Page range: 153-177</summary>
+  </entry>
+  <entry>
+    <title>A multidimensional analysis of the formation and governance of extremist crimes in China</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijld-2026-3007/html"/>
+    <id>https://doi.org/10.1515/ijld-2026-3007</id>
+    <updated>2026-06-16T15:33:44.997754+00:00</updated>
+    <summary>Authors: Xin Fu, Yiyao Zhang
+DOI: https://doi.org/10.1515/ijld-2026-3007
+Pages: Page range: 179-210</summary>
+  </entry>
+</feed>

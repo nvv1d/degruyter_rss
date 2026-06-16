@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chinese as a Second Language Research</title>
+  <link href="https://www.degruyterbrill.com/journal/key/caslar/15/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/caslar.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/caslar/html" rel="related"/>
+  <updated>2026-06-16T15:32:45.990774+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/caslar.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Chinese as a Second Language Research (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-frontmatter1</id>
+    <updated>2026-06-16T15:32:45.990812+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/caslar-2026-frontmatter1
+Pages: Page range: i-iv</summary>
+  </entry>
+  <entry>
+    <title>Introduction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2001/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-2001</id>
+    <updated>2026-06-16T15:32:45.990825+00:00</updated>
+    <summary>Authors: Caitríona Osborne, Qi Zhang
+DOI: https://doi.org/10.1515/caslar-2026-2001
+Pages: Page range: 1-9</summary>
+  </entry>
+  <entry>
+    <title>Readiness for digital transformation in Chinese as a foreign language education: a semi-systematic review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2002/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-2002</id>
+    <updated>2026-06-16T15:32:45.990837+00:00</updated>
+    <summary>Authors: Qi Zhang, Caitríona Osborne
+DOI: https://doi.org/10.1515/caslar-2026-2002
+Pages: Page range: 11-43</summary>
+  </entry>
+  <entry>
+    <title>ChatGPT Voice Mode in CFL beginner classrooms: insights from learner interactions and experiences in the Austrian upper secondary school context</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2003/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-2003</id>
+    <updated>2026-06-16T15:32:45.990848+00:00</updated>
+    <summary>Authors: Julia Renner, Stefanie Yu, Andreas Guder
+DOI: https://doi.org/10.1515/caslar-2026-2003
+Pages: Page range: 45-68</summary>
+  </entry>
+  <entry>
+    <title>A bite of China’s language: a case study of data-driven learning of food-related metaphors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2004/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-2004</id>
+    <updated>2026-06-16T15:32:45.990859+00:00</updated>
+    <summary>Authors: Yi Xu
+DOI: https://doi.org/10.1515/caslar-2026-2004
+Pages: Page range: 69-98</summary>
+  </entry>
+  <entry>
+    <title>多模视听语料库在对外汉语教学中的应用探索: 以 “为什么” 和 “怎么” 的语用教学为例</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2005/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-2005</id>
+    <updated>2026-06-16T15:32:45.990871+00:00</updated>
+    <summary>Authors: Lingzhi Nie, Sara Rovira-Esteva
+DOI: https://doi.org/10.1515/caslar-2026-2005
+Pages: Page range: 99-129</summary>
+  </entry>
+  <entry>
+    <title>AI 生成主题化歌曲对高级中文学习者的习得影响研究 – 基于 “环境 – 情感 – 认知 – 动机” 级联模型</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2006/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-2006</id>
+    <updated>2026-06-16T15:32:45.990881+00:00</updated>
+    <summary>Authors: Fang Su
+DOI: https://doi.org/10.1515/caslar-2026-2006
+Pages: Page range: 131-156</summary>
+  </entry>
+  <entry>
+    <title>中文线上口语教学转型的可行性研究 – 以法国某大学中文系为例</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2007/html"/>
+    <id>https://doi.org/10.1515/caslar-2026-2007</id>
+    <updated>2026-06-16T15:32:45.990892+00:00</updated>
+    <summary>Authors: Wenlong Wang, Chong Qi
+DOI: https://doi.org/10.1515/caslar-2026-2007
+Pages: Page range: 157-174</summary>
+  </entry>
+</feed>

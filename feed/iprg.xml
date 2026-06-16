@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Intercultural Pragmatics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/iprg/23/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/iprg.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/iprg/html" rel="related"/>
+  <updated>2026-06-16T15:33:54.981539+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/iprg.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Intercultural Pragmatics (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ip-2026-frontmatter1</id>
+    <updated>2026-06-16T15:33:54.981574+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ip-2026-frontmatter1
+Pages: Page range: i-v</summary>
+  </entry>
+  <entry>
+    <title>Common ground and the presuppositions of questions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-8005/html"/>
+    <id>https://doi.org/10.1515/ip-2025-8005</id>
+    <updated>2026-06-16T15:33:54.981588+00:00</updated>
+    <summary>Authors: Fabrizio Macagno
+DOI: https://doi.org/10.1515/ip-2025-8005
+Pages: Page range: 27-51</summary>
+  </entry>
+  <entry>
+    <title>Ostensible ritual aggression in ChineseXiangqigames</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-8002/html"/>
+    <id>https://doi.org/10.1515/ip-2025-8002</id>
+    <updated>2026-06-16T15:33:54.981601+00:00</updated>
+    <summary>Authors: Wenrui Shi, Dániel Z. Kádár
+DOI: https://doi.org/10.1515/ip-2025-8002
+Pages: Page range: 27-64</summary>
+  </entry>
+  <entry>
+    <title>The influence of guilt and shame on L1 and L2 apology speech acts in academic contexts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-8006/html"/>
+    <id>https://doi.org/10.1515/ip-2025-8006</id>
+    <updated>2026-06-16T15:33:54.981613+00:00</updated>
+    <summary>Authors: Lucía Martín Pérez, Irini Mavrou
+DOI: https://doi.org/10.1515/ip-2025-8006
+Pages: Page range: 65-92</summary>
+  </entry>
+  <entry>
+    <title>Identifying two interactional functions ofen fait(‘in fact, actually’) in L2 French: a mixed-methods approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-0047/html"/>
+    <id>https://doi.org/10.1515/ip-2026-0047</id>
+    <updated>2026-06-16T15:33:54.981626+00:00</updated>
+    <summary>Authors: Melissa Juillet, Fanny Forsberg Lundell, Klara Skogmyr Marian, Simona Pekarek Doehler
+DOI: https://doi.org/10.1515/ip-2026-0047
+Pages: Page range: 93-122</summary>
+  </entry>
+</feed>

@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Rezensionen zur germanistischen Sprachwis...</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zrs/17/1-2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zrs.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zrs/html" rel="related"/>
+  <updated>2026-06-16T15:36:07.126257+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/zrs.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Zeitschrift für Rezensionen zur germanistischen Sprachwis... (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-frontmatter1-2/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-frontmatter1-2</id>
+    <updated>2026-06-16T15:36:07.126299+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zrs-2025-frontmatter1-2
+Pages: Page range: I-VIII</summary>
+  </entry>
+  <entry>
+    <title>Vorwort</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2040/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2040</id>
+    <updated>2026-06-16T15:36:07.126358+00:00</updated>
+    <summary>Authors: Lasch Alexander
+DOI: https://doi.org/10.1515/zrs-2025-2040
+Pages: Page range: 1-1</summary>
+  </entry>
+  <entry>
+    <title>Anja Stehfest. 2024.Die Briefe Christiana von Goethes. Studien zur Sprach- und Kulturgeschichte um 1800(Studia Linguistica Germanica 142). Berlin, Boston: De Gruyter. 536 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2007/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2007</id>
+    <updated>2026-06-16T15:36:07.126384+00:00</updated>
+    <summary>Authors: Markus Schiegg
+DOI: https://doi.org/10.1515/zrs-2025-2007
+Pages: Page range: 2-6</summary>
+  </entry>
+  <entry>
+    <title>Beate Baumann. 2024.Sprache, Kultur, polyphone Narration: Entwicklungen im postmigrantischen Deutschland(Sprache lehren – Sprache lernen 14). Berlin: Frank &amp; Timme. 242 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2035/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2035</id>
+    <updated>2026-06-16T15:36:07.126399+00:00</updated>
+    <summary>Authors: Gerd Antos
+DOI: https://doi.org/10.1515/zrs-2025-2035
+Pages: Page range: 7-12</summary>
+  </entry>
+  <entry>
+    <title>Bettina Lindner-Bornemann &amp; Sebastian Kürschner (Hg.). 2024.Die Sprache wissenschaftlicher Objekte. Interdisziplinäre Perspektiven auf die materielle Kultur in den Wissenschaften(Lingua Academica. Beiträge zur Erforschung historischer Gelehrten- und Wissenschaftssprachen 8). Berlin, Boston: De Gruyter. 238 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2020/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2020</id>
+    <updated>2026-06-16T15:36:07.126410+00:00</updated>
+    <summary>Authors: Magnus P. Ängsal
+DOI: https://doi.org/10.1515/zrs-2025-2020
+Pages: Page range: 13-17</summary>
+  </entry>
+  <entry>
+    <title>Diana Nacarlı. 2024.Leichte Sprache und Schule. Zum Einfluss der morphologischen und lexikalisch-semantischen Regeln der Leichten Sprache auf das mentale Lexikon und auf Wortschatzkompetenz(Philologische Studien und Quellen). Berlin: Erich Schmidt. 214 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2016/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2016</id>
+    <updated>2026-06-16T15:36:07.126423+00:00</updated>
+    <summary>Authors: Björn Rothstein
+DOI: https://doi.org/10.1515/zrs-2025-2016
+Pages: Page range: 18-22</summary>
+  </entry>
+  <entry>
+    <title>Florian Busch &amp; Christian Efing. 2024. Sprachliche Variation(Linguistik und Schule. Von der Sprachtheorie zur Unterrichtspraxis. LinguS 12). Tübingen: Narr Francke Attempto. 170 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2028/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2028</id>
+    <updated>2026-06-16T15:36:07.126434+00:00</updated>
+    <summary>Authors: Hanna Fischer
+DOI: https://doi.org/10.1515/zrs-2025-2028
+Pages: Page range: 23-27</summary>
+  </entry>
+  <entry>
+    <title>Isabelle Thormann. 2024.Tatort Syntax. Authentizitätsfeststellung in der forensischen Linguistik(Narr Studienbücher). Berlin, Boston: De Gruyter. 544 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2025/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2025</id>
+    <updated>2026-06-16T15:36:07.126445+00:00</updated>
+    <summary>Authors: Steffen Hessler
+DOI: https://doi.org/10.1515/zrs-2025-2025
+Pages: Page range: 28-33</summary>
+  </entry>
+  <entry>
+    <title>Kersten Sven Roth &amp; Steffen Pappert (Hg.). 2024.Ost-West-Konflikte. Interdisziplinäre Perspektiven auf den Diskurs über Deutschland und die Welt(Sprache – Politik – Gesellschaft 33). Hamburg: Buske. 294 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2033/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2033</id>
+    <updated>2026-06-16T15:36:07.126456+00:00</updated>
+    <summary>Authors: Ulla Fix
+DOI: https://doi.org/10.1515/zrs-2025-2033
+Pages: Page range: 34-41</summary>
+  </entry>
+  <entry>
+    <title>Maria Fritzsche. 2024.Sprachlich konstruierter Extremismus.Mehrdimensionale Textanalyse von Propagandamagazinen des sogenannten Islamischen Staates(Linguistik – Impulse &amp; Tendenzen 113). Berlin, Boston: De Gruyter. 395 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2017/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2017</id>
+    <updated>2026-06-16T15:36:07.126468+00:00</updated>
+    <summary>Authors: Stefan Scholl
+DOI: https://doi.org/10.1515/zrs-2025-2017
+Pages: Page range: 42-47</summary>
+  </entry>
+  <entry>
+    <title>Nathalie Bauer, Susanne Günthner &amp; Juliane Schopf (Hg.). 2024.Die kommunikative Konstruktion von Normalitäten in der Medizin. Gesprächsanalytische Perspektiven(Linguistik – Impulse &amp; Tendenzen 108). Berlin, Boston: De Gruyter. 282 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2031/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2031</id>
+    <updated>2026-06-16T15:36:07.126478+00:00</updated>
+    <summary>Authors: Veronika Sahlbach
+DOI: https://doi.org/10.1515/zrs-2025-2031
+Pages: Page range: 48-54</summary>
+  </entry>
+  <entry>
+    <title>Nikolas Koch &amp; Claudia Maria Riehl.2024.Migrationslinguistik. Eine Einführung(Narr Studienbücher). Tübingen: Narr Francke Attempto. 324 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2014/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2014</id>
+    <updated>2026-06-16T15:36:07.126489+00:00</updated>
+    <summary>Authors: Beate Baumann
+DOI: https://doi.org/10.1515/zrs-2025-2014
+Pages: Page range: 55-60</summary>
+  </entry>
+  <entry>
+    <title>Rolf Bergmann. 2024.Namen(Kurze Einführung in die germanistische Linguistik 32). Heidelberg: Winter. 100 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2029/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2029</id>
+    <updated>2026-06-16T15:36:07.126500+00:00</updated>
+    <summary>Authors: Bin Zhang
+DOI: https://doi.org/10.1515/zrs-2025-2029
+Pages: Page range: 61-64</summary>
+  </entry>
+  <entry>
+    <title>Simon Meier-Vieracker. 2024.Sprache ist, was du draus machst! Wie wir Deutsch immer wieder neu erfinden.München: Droemer. 256 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2008/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2008</id>
+    <updated>2026-06-16T15:36:07.126510+00:00</updated>
+    <summary>Authors: Ulrich Schmitz
+DOI: https://doi.org/10.1515/zrs-2025-2008
+Pages: Page range: 65-67</summary>
+  </entry>
+  <entry>
+    <title>Simon Meier-Vieracker, Heidrun Kämper &amp; Ingo H. Warnke (Hg.). 2024.Invective Discourse(Diskursmuster / Discourse Patterns 34). Berlin, Boston: De Gruyter. 232 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2018/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2018</id>
+    <updated>2026-06-16T15:36:07.126520+00:00</updated>
+    <summary>Authors: Georg Weidacher
+DOI: https://doi.org/10.1515/zrs-2025-2018
+Pages: Page range: 68-73</summary>
+  </entry>
+  <entry>
+    <title>Theresa Verena Maas. 2024.Ostdeutsch reloaded. Ostmitteldeutsche Dialekte in den sozialen Medien(Sprachwissenschaft 66). Berlin: Frank &amp; Timme. 176 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2023/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2023</id>
+    <updated>2026-06-16T15:36:07.126531+00:00</updated>
+    <summary>Authors: Verena Sauer
+DOI: https://doi.org/10.1515/zrs-2025-2023
+Pages: Page range: 74-79</summary>
+  </entry>
+  <entry>
+    <title>Ursula Bredel. 2024.Das Schriftsystem des Deutschen. Graphetik – Graphematik – Orthographie – Erwerb(Grundlagen der Germanistik 67). Berlin: Erich Schmidt. 361 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2009/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2009</id>
+    <updated>2026-06-16T15:36:07.126541+00:00</updated>
+    <summary>Authors: Jonas Romstadt
+DOI: https://doi.org/10.1515/zrs-2025-2009
+Pages: Page range: 80-84</summary>
+  </entry>
+  <entry>
+    <title>Verena Sauer. 2024.Hochdeutsch. Eine framesemantische Analyse historischer Spracheinstellungen zum Deutschen vom 16. bis 18. Jahrhundert(Studia Linguistica Germanica 145). Berlin, Boston: De Gruyter. 272 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2039/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2039</id>
+    <updated>2026-06-16T15:36:07.126551+00:00</updated>
+    <summary>Authors: Alexander Willich
+DOI: https://doi.org/10.1515/zrs-2025-2039
+Pages: Page range: 85-89</summary>
+  </entry>
+  <entry>
+    <title>Wolfgang Imo &amp; Jörg Wesche (Hg.). 2024.Sprechen und Gespräch in historischer Perspektive. Sprach- und literaturwissenschaftliche Zugänge(LiLi: Studien zur Sprach- und Literaturwissenschaft 7). Berlin: J. B. Metzler. 234 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2021/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2021</id>
+    <updated>2026-06-16T15:36:07.126561+00:00</updated>
+    <summary>Authors: Britt-Marie Schuster
+DOI: https://doi.org/10.1515/zrs-2025-2021
+Pages: Page range: 90-94</summary>
+  </entry>
+  <entry>
+    <title>Angela Schrott, Johanna Wolf &amp; Christine Pflüger (Hg.). 2023.Textkomplexität und Textverstehen. Studien zur Verständlichkeit von Texten(Linguistik – Impulse &amp; Tendenzen 106). Berlin, Boston: De Gruyter. 364 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2026/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2026</id>
+    <updated>2026-06-16T15:36:07.126572+00:00</updated>
+    <summary>Authors: Bettina M. Bock
+DOI: https://doi.org/10.1515/zrs-2025-2026
+Pages: Page range: 95-100</summary>
+  </entry>
+  <entry>
+    <title>Anthony R. Rowley. 2023. 2., durchgesehene Auflage.Boarisch. Boirisch. Bairisch. Eine Sprachgeschichte. Regensburg: Friedrich Pustet. 269 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2019/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2019</id>
+    <updated>2026-06-16T15:36:07.126582+00:00</updated>
+    <summary>Authors: Ann-Marie Moser
+DOI: https://doi.org/10.1515/zrs-2025-2019
+Pages: Page range: 101-106</summary>
+  </entry>
+  <entry>
+    <title>Eckhard Meineke. 2023.Studien zum genderneutralen Maskulinum.Heidelberg: Winter. 358 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2001/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2001</id>
+    <updated>2026-06-16T15:36:07.126592+00:00</updated>
+    <summary>Authors: Martin Neef
+DOI: https://doi.org/10.1515/zrs-2025-2001
+Pages: Page range: 107-111</summary>
+  </entry>
+  <entry>
+    <title>Elke Hentschel. 2023.Deutsch typologisch. Eine Einführung. Stuttgart: J. B. Metzler. 255 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2030/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2030</id>
+    <updated>2026-06-16T15:36:07.126602+00:00</updated>
+    <summary>Authors: Bin Zhang
+DOI: https://doi.org/10.1515/zrs-2025-2030
+Pages: Page range: 112-116</summary>
+  </entry>
+  <entry>
+    <title>Ermenegildo Bidese. 2023.Sprachkontakt generativ. Eine Untersuchung kontaktbedingten syntaktischen Wandels im Zimbrischen(Linguistische Arbeiten 582). Berlin, Boston: De Gruyter. 234 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2013/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2013</id>
+    <updated>2026-06-16T15:36:07.126613+00:00</updated>
+    <summary>Authors: Nicholas Catasso
+DOI: https://doi.org/10.1515/zrs-2025-2013
+Pages: Page range: 117-121</summary>
+  </entry>
+  <entry>
+    <title>Grit Nickel. 2023.Nominale Flexionsmorphologie in den ostoberdeutschen Dialekten(Open Germanic Linguistics 6). Berlin: Language Science Press. 380 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2005/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2005</id>
+    <updated>2026-06-16T15:36:07.126623+00:00</updated>
+    <summary>Authors: Sophie Ellsäßer
+DOI: https://doi.org/10.1515/zrs-2025-2005
+Pages: Page range: 122-128</summary>
+  </entry>
+  <entry>
+    <title>Marie-Luis Merten, Susanne Kabatnik, Kristin Kuck, Lars Bülow &amp; Robert Mroczynski (Hg.). 2023.Sprachliche Grenzziehungspraktiken. Analysefelder und Perspektiven(Studien zur Pragmatik 5). Tübingen: Narr Francke Attempo. 373 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2038/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2038</id>
+    <updated>2026-06-16T15:36:07.126634+00:00</updated>
+    <summary>Authors: Melani Schröter
+DOI: https://doi.org/10.1515/zrs-2025-2038
+Pages: Page range: 129-132</summary>
+  </entry>
+  <entry>
+    <title>Mark Dang-Anh (Hg.).2023.Politisches Positionieren. Sprachliche und soziale Praktiken(Akademiekonferenzen 33). Heidelberg: Winter. 309 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2011/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2011</id>
+    <updated>2026-06-16T15:36:07.126645+00:00</updated>
+    <summary>Authors: Ina Völker
+DOI: https://doi.org/10.1515/zrs-2025-2011
+Pages: Page range: 133-138</summary>
+  </entry>
+  <entry>
+    <title>Matthias Meiler &amp; Martin Siefkes (Hg.). 2023.Linguistische Methodenreflexion im Aufbruch. Beiträge zur aktuellen Diskussion im Schnittpunkt von Ethnographie und Digital Humanities, Multimodalität und Mixed Methods(Linguistik – Impulse &amp; Tendenzen 107). Berlin, Boston: De Gruyter. 351 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2037/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2037</id>
+    <updated>2026-06-16T15:36:07.126656+00:00</updated>
+    <summary>Authors: Jonas Trochemowitz
+DOI: https://doi.org/10.1515/zrs-2025-2037
+Pages: Page range: 139-144</summary>
+  </entry>
+  <entry>
+    <title>Michael Beißwenger et al. (Hg.). 2023.Korpusgestützte Sprachanalyse. Grundlagen, Anwendungen und Analysen(Studien zur deutschen Sprache 88). Tübingen: Narr Francke Attempto. 438 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2034/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2034</id>
+    <updated>2026-06-16T15:36:07.126666+00:00</updated>
+    <summary>Authors: Barbara Aehnlich
+DOI: https://doi.org/10.1515/zrs-2025-2034
+Pages: Page range: 145-155</summary>
+  </entry>
+  <entry>
+    <title>Nadine Bieker &amp; Kirsten Schindler.2023.Deutschdidaktik und Geschlecht(Aktuelle Perspektiven der Deutschdidaktik 1, utb). Bielefeld: wbv. 136 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2027/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2027</id>
+    <updated>2026-06-16T15:36:07.126676+00:00</updated>
+    <summary>Authors: Gisela Beste, Sabine Krome
+DOI: https://doi.org/10.1515/zrs-2025-2027
+Pages: Page range: 156-161</summary>
+  </entry>
+  <entry>
+    <title>Nina-Maria Klug &amp; Sina Lautenschläger (Hg.). 2023.True Love. Sprache(n) der Liebe in Text und Gespräch(Europäische Studien zur Textlinguistik 23). Tübingen: Narr Francke Attempto. 322 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2032/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2032</id>
+    <updated>2026-06-16T15:36:07.126686+00:00</updated>
+    <summary>Authors: Karina Frick
+DOI: https://doi.org/10.1515/zrs-2025-2032
+Pages: Page range: 162-167</summary>
+  </entry>
+  <entry>
+    <title>Ramón Boldt. 2023.Aspekte der vergleichenden Phraseologie. Untersucht und dargestellt am Beispiel der ältesten germanischen Rechtstexte(Münchener Studien zur Sprachwissen-schaft 34). Dettelbach: J. H. Röll. 343 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2015/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2015</id>
+    <updated>2026-06-16T15:36:07.126697+00:00</updated>
+    <summary>Authors: Michael Schulte
+DOI: https://doi.org/10.1515/zrs-2025-2015
+Pages: Page range: 168-173</summary>
+  </entry>
+  <entry>
+    <title>Samuel Felder. 2023.Individuelle sprachliche Variation in WhatsApp-Chats. Stil, Akkommodation und Real-Time-Change(Sprache – Medien – Innovationen 13). Berlin et al.: Peter Lang. 457 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2012/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2012</id>
+    <updated>2026-06-16T15:36:07.126708+00:00</updated>
+    <summary>Authors: Michael Szurawitzki
+DOI: https://doi.org/10.1515/zrs-2025-2012
+Pages: Page range: 174-177</summary>
+  </entry>
+  <entry>
+    <title>Sarah Kwekkeboom, Birgit Herbers &amp; Simone Schultz-Balluff (Hg.). 2023.Klaus-Peter Wegera: ‚Sprachwandeln‘. Kleinere Schriften zur deutschen Sprachgeschichte und Grammatikographie. Berlin: Erich Schmidt. 405 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2004/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2004</id>
+    <updated>2026-06-16T15:36:07.126719+00:00</updated>
+    <summary>Authors: Stefaniya Ptashnyk
+DOI: https://doi.org/10.1515/zrs-2025-2004
+Pages: Page range: 178-181</summary>
+  </entry>
+  <entry>
+    <title>Sören Stumpf. 2023.Wortbildung diamedial. Korpusstudien zum geschriebenen und gesprochenen Deutsch(Reihe Germanistische Linguistik 329). Berlin, Boston: De Gruyter. 459 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2010/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2010</id>
+    <updated>2026-06-16T15:36:07.126730+00:00</updated>
+    <summary>Authors: Valentina Crestani
+DOI: https://doi.org/10.1515/zrs-2025-2010
+Pages: Page range: 182-187</summary>
+  </entry>
+  <entry>
+    <title>Tamara Bodden. 2023.Kunst und Geld. Eine diskurslinguistische Untersuchung zur documenta 14(Sprache und Wissen 59). Berlin, Boston: De Gruyter. 394 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2036/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2036</id>
+    <updated>2026-06-16T15:36:07.126740+00:00</updated>
+    <summary>Authors: Marcus Müller
+DOI: https://doi.org/10.1515/zrs-2025-2036
+Pages: Page range: 188-192</summary>
+  </entry>
+  <entry>
+    <title>Theresa Schweden. 2023.Personenreferenz im Dialekt. Grammatik und Pragmatik inoffizieller Personennamen in Dialekten des Deutschen(Empirische Linguistik 18). Berlin, Boston: De Gruyter. 288 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2024/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2024</id>
+    <updated>2026-06-16T15:36:07.126750+00:00</updated>
+    <summary>Authors: Lars Sörries-Vorberger
+DOI: https://doi.org/10.1515/zrs-2025-2024
+Pages: Page range: 193-196</summary>
+  </entry>
+  <entry>
+    <title>Juliane Schröter (Hg.). 2022.Politisches Argumentieren in der Schweiz(Sprache – Politik – Gesellschaft 31). Hamburg: Buske. 228 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2022/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2022</id>
+    <updated>2026-06-16T15:36:07.126761+00:00</updated>
+    <summary>Authors: Josef Klein
+DOI: https://doi.org/10.1515/zrs-2025-2022
+Pages: Page range: 197-201</summary>
+  </entry>
+  <entry>
+    <title>Klaas-Hinrich Ehlers. 2022.Geschichte der mecklenburgischen Regionalsprache seit dem Zweiten Weltkrieg. Varietätenkontakt zwischen Alteingesessenen und immigrierten Vertriebenen.Teil 2: Sprachgebrauch und Sprachwahrnehmung(Regionalsprache und regionale Kultur. Mecklenburg-Vorpommern im ostniederdeutschen Kontext 5). Berlin et al.: Peter Lang. 685 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2006/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2006</id>
+    <updated>2026-06-16T15:36:07.126771+00:00</updated>
+    <summary>Authors: Toke Hoffmeister, Milena Gropp
+DOI: https://doi.org/10.1515/zrs-2025-2006
+Pages: Page range: 202-208</summary>
+  </entry>
+  <entry>
+    <title>Matthias Bau et al. (Hg.).2022.Vergessene Klassiker der Sprachwissenschaft?Zur Einführung und Erinnerung.Weilerswist: Velbrück. 312 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2003/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2003</id>
+    <updated>2026-06-16T15:36:07.126782+00:00</updated>
+    <summary>Authors: Friedrich Markewitz
+DOI: https://doi.org/10.1515/zrs-2025-2003
+Pages: Page range: 209-214</summary>
+  </entry>
+  <entry>
+    <title>Wolf Peter Klein. 2018.Sprachliche Zweifelsfälle im Deutschen. Theorie, Praxis, Geschichte(De Gruyter Studium). Berlin, Boston: De Gruyter. 359 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2025-2002/html"/>
+    <id>https://doi.org/10.1515/zrs-2025-2002</id>
+    <updated>2026-06-16T15:36:07.126793+00:00</updated>
+    <summary>Authors: Mathilde Hennig
+DOI: https://doi.org/10.1515/zrs-2025-2002
+Pages: Page range: 215-222</summary>
+  </entry>
+</feed>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/opli/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/opli.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/opli/html" rel="related"/>
+  <updated>2026-06-16T15:35:04.375158+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/opli.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Open Linguistics (De Gruyter)</subtitle>
+  <entry>
+    <title>Developing sociolinguistic evaluative competence: the case of French WH- interrogatives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0072/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0072</id>
+    <updated>2026-06-16T15:35:04.375195+00:00</updated>
+    <summary>Authors: Gabriel Thiberge, Heather Burnett, Barbara Hemforth
+DOI: https://doi.org/10.1515/opli-2025-0072</summary>
+  </entry>
+  <entry>
+    <title>Relationships between linguistic theory and L1 grammar education revisited: a Delphi study on the key metaconcepts in the syntax-semantics interface</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0076/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0076</id>
+    <updated>2026-06-16T15:35:04.375209+00:00</updated>
+    <summary>Authors: Jimmy van Rijt, Mari Nygård
+DOI: https://doi.org/10.1515/opli-2025-0076</summary>
+  </entry>
+  <entry>
+    <title>Sign languages of the Soviet Union: a comparison of Georgian, Russian, and Tajik Sign Languages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0077/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0077</id>
+    <updated>2026-06-16T15:35:04.375220+00:00</updated>
+    <summary>Authors: Justin M. Power, Vadim Kimmelman, Ekaterine Nanitashvili, Tamar Makharoblidze
+DOI: https://doi.org/10.1515/opli-2025-0077</summary>
+  </entry>
+  <entry>
+    <title>Large language models as first-pass filters for corpus annotation: semantic disambiguation of Galicianpobo</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0078/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0078</id>
+    <updated>2026-06-16T15:35:04.375231+00:00</updated>
+    <summary>Authors: Vítor Míguez-Rego
+DOI: https://doi.org/10.1515/opli-2025-0078</summary>
+  </entry>
+  <entry>
+    <title>A minimalist inquiry into null subjects in child early grammar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0079/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0079</id>
+    <updated>2026-06-16T15:35:04.375241+00:00</updated>
+    <summary>Authors: Abdulaziz Alnajmi
+DOI: https://doi.org/10.1515/opli-2025-0079</summary>
+  </entry>
+  <entry>
+    <title>Different languages, different landscapes? Exploring linguistic differences in landscape conceptualizations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0081/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0081</id>
+    <updated>2026-06-16T15:35:04.375251+00:00</updated>
+    <summary>Authors: Přemysl Mácha, Terhi Ainiala, Urszula Bijak, Alina Bughesiu, Ivana Crljenko, Oliviu Felecan, Matjaž Geršič, Veronika Gondeková, Michaela Koščová, Tiina Laansalu, Ján Mačutek, Sanda Rapa, Katalin Reszegi, Pavel Skorupa, Ene Vainik, Maya Vlahova-Angelova, Maria Vrachionidou, Halyna Zymovets
+DOI: https://doi.org/10.1515/opli-2025-0081</summary>
+  </entry>
+  <entry>
+    <title>Modeling cross-linguistic variation in phonological grain size via wordlikeness judgments</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0085/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0085</id>
+    <updated>2026-06-16T15:35:04.375264+00:00</updated>
+    <summary>Authors: Tsung-Ying Chen, James Myers
+DOI: https://doi.org/10.1515/opli-2025-0085</summary>
+  </entry>
+  <entry>
+    <title>Terminological problems in a Hungarian language consulting service</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0089/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0089</id>
+    <updated>2026-06-16T15:35:04.375274+00:00</updated>
+    <summary>Authors: Zsófia Ludányi
+DOI: https://doi.org/10.1515/opli-2025-0089</summary>
+  </entry>
+  <entry>
+    <title>On ad hoc concept construction and impoliteness mitigation: evidence from Jordanian Arabic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0092/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0092</id>
+    <updated>2026-06-16T15:35:04.375284+00:00</updated>
+    <summary>Authors: Lama Ahmed Khalifah, Marwan Jarrah, Abdel Rahman Mitib Altakhaineh
+DOI: https://doi.org/10.1515/opli-2025-0092</summary>
+  </entry>
+  <entry>
+    <title>Tactile interactions: insights from palm-up, finger pointing, and holds</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0080/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0080</id>
+    <updated>2026-06-16T15:35:04.375298+00:00</updated>
+    <summary>Authors: Sílvia Gabarró-López, Johanna Mesch
+DOI: https://doi.org/10.1515/opli-2025-0080</summary>
+  </entry>
+  <entry>
+    <title>Can gesture help? Investigating the potential for transfer in the L2M2 acquisition of a sign language</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0082/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0082</id>
+    <updated>2026-06-16T15:35:04.375338+00:00</updated>
+    <summary>Authors: Door Spruijt, Petra B. Schumacher, Pamela Perniss
+DOI: https://doi.org/10.1515/opli-2025-0082</summary>
+  </entry>
+  <entry>
+    <title>Recurrent head movements in DGS and spoken German</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opli-2025-0084/html"/>
+    <id>https://doi.org/10.1515/opli-2025-0084</id>
+    <updated>2026-06-16T15:35:04.375350+00:00</updated>
+    <summary>Authors: Anastasia Bauer, Silva H. Ladewig
+DOI: https://doi.org/10.1515/opli-2025-0084</summary>
+  </entry>
+</feed>

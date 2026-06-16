@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Corpus Linguistics and Linguistic Theory</title>
+  <link href="https://www.degruyterbrill.com/journal/key/cllt/22/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/cllt.xml" type="application/atom+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cllt/html" rel="related"/>
+  <updated>2026-06-16T15:32:55.041230+00:00</updated>
+  <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/cllt.xml</id>
+  <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
+  <subtitle>Latest articles from Corpus Linguistics and Linguistic Theory (De Gruyter)</subtitle>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/cllt-2026-frontmatter2</id>
+    <updated>2026-06-16T15:32:55.041272+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/cllt-2026-frontmatter2
+Pages: Page range: i-iii</summary>
+  </entry>
+  <entry>
+    <title>BERT-assisted behavioral profiling of polysemy: contrastive analysis of HONG in Chinese and RED in English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2024-0029/html"/>
+    <id>https://doi.org/10.1515/cllt-2024-0029</id>
+    <updated>2026-06-16T15:32:55.041287+00:00</updated>
+    <summary>Authors: Yiming Song, Deliang Wang
+DOI: https://doi.org/10.1515/cllt-2024-0029
+Pages: Page range: 255-291</summary>
+  </entry>
+  <entry>
+    <title>Refining the network for the Chinese analytic causative constructicon: insights from corpus analysis and psycholinguistic experimentation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2024-0071/html"/>
+    <id>https://doi.org/10.1515/cllt-2024-0071</id>
+    <updated>2026-06-16T15:32:55.041299+00:00</updated>
+    <summary>Authors: Xiaoyu Tian
+DOI: https://doi.org/10.1515/cllt-2024-0071
+Pages: Page range: 293-325</summary>
+  </entry>
+  <entry>
+    <title>Lexical factors in English definiteness marking: a corpus-based investigation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2024-0032/html"/>
+    <id>https://doi.org/10.1515/cllt-2024-0032</id>
+    <updated>2026-06-16T15:32:55.041342+00:00</updated>
+    <summary>Authors: Florent Perek, Lotte Sommerer
+DOI: https://doi.org/10.1515/cllt-2024-0032
+Pages: Page range: 327-361</summary>
+  </entry>
+  <entry>
+    <title>A multivariate corpus analysis of locative inversion in Mandarin Chinese</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2024-0060/html"/>
+    <id>https://doi.org/10.1515/cllt-2024-0060</id>
+    <updated>2026-06-16T15:32:55.041356+00:00</updated>
+    <summary>Authors: Yuting Li
+DOI: https://doi.org/10.1515/cllt-2024-0060
+Pages: Page range: 363-412</summary>
+  </entry>
+  <entry>
+    <title>Semantic and contextual constraints on the causative alternation in English: a multifactorial analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2024-0047/html"/>
+    <id>https://doi.org/10.1515/cllt-2024-0047</id>
+    <updated>2026-06-16T15:32:55.041366+00:00</updated>
+    <summary>Authors: Jiyoun Kim, Hanjung Lee, Ye-eun Cho
+DOI: https://doi.org/10.1515/cllt-2024-0047
+Pages: Page range: 413-460</summary>
+  </entry>
+  <entry>
+    <title>When one wrong rights another: speakers passivize to express the subject as the experiencer in psychological verb use</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2024-0091/html"/>
+    <id>https://doi.org/10.1515/cllt-2024-0091</id>
+    <updated>2026-06-16T15:32:55.041377+00:00</updated>
+    <summary>Authors: Noa Attali, Amnon Attali, Anne Therese Frederiksen
+DOI: https://doi.org/10.1515/cllt-2024-0091
+Pages: Page range: 461-477</summary>
+  </entry>
+  <entry>
+    <title>When shields and distances are key: a corpus-based study of Slovene bare pronouns in negated clauses</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2024-0100/html"/>
+    <id>https://doi.org/10.1515/cllt-2024-0100</id>
+    <updated>2026-06-16T15:32:55.041389+00:00</updated>
+    <summary>Authors: Kristina Gregorčič
+DOI: https://doi.org/10.1515/cllt-2024-0100
+Pages: Page range: 479-530</summary>
+  </entry>
+  <entry>
+    <title>On the learnability of aspectual usage</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0117/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0117</id>
+    <updated>2026-06-16T15:32:55.041400+00:00</updated>
+    <summary>Authors: Dagmar Divjak, Petar Milin, Maciej Borowski
+DOI: https://doi.org/10.1515/cllt-2023-0117
+Pages: Page range: 531-561</summary>
+  </entry>
+</feed>
