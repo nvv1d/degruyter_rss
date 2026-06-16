@@ -1,189 +1,303 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding: utf-8
+"""
+De Gruyter RSS Feed Generator
+Adapted from https://github.com/alexander-winkler/degruyter_rss
+Generates Atom feeds for selected Linguistics/Semiotics/ELT/Applied Linguistics journals
+and commits them to the repository so they are accessible via raw.githubusercontent.com.
+"""
 
-# Import modules
+import csv
+import os
+import time
+import uuid
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.parse import urlparse
+
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
-from datetime import datetime, timezone
-import uuid
-import csv
 from lxml import etree
-import pandas as pd
-import time
 
-#############
-# Functions ##
-#############
+# ---------------------------------------------------------------------------
+# Config
+# ---------------------------------------------------------------------------
+REPO_OWNER = os.environ.get("GITHUB_REPOSITORY_OWNER", "nvv1d")
+REPO_NAME_RAW = os.environ.get("GITHUB_REPOSITORY", "nvv1d/AcademicRSSFeed-TG")
+REPO_NAME = REPO_NAME_RAW.split("/")[-1] if "/" in REPO_NAME_RAW else REPO_NAME_RAW
+BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 
-def createTimestamp():
-    iso_now = datetime.now(timezone.utc).isoformat()
-    return iso_now
+FEED_DIR = Path(__file__).parent / "feed"
+JOURNALS_CSV = Path(__file__).parent / "journals.csv"
 
-def generateUUID():
-    generated_uuid = str(uuid.uuid4())
-    return generated_uuid
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (compatible; DeGruyterRSSBot/1.0; "
+        "+https://github.com/nvv1d/AcademicRSSFeed-TG)"
+    )
+}
 
-def getLatestIssue(key:str):
-    '''
-    Function takes the de gruyter journal key,
-    scrapes the journal website to get the URL of latest issue
-    '''
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
 
+def create_timestamp() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def generate_uuid() -> str:
+    return str(uuid.uuid4())
+
+
+def raw_feed_url(key: str) -> str:
+    """Return the externally reachable URL for a generated feed.
+
+    raw.githubusercontent.com returns 404 for private repositories unless the
+    request is authenticated, so set DEGRUYTER_FEED_BASE_URL to a public mirror
+    or Vercel/static URL when this repository is private.
+    """
+    public_base = os.environ.get("DEGRUYTER_FEED_BASE_URL", "").rstrip("/")
+    if public_base:
+        return f"{public_base}/{key}.xml"
+    return (
+        f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}"
+        f"/{BRANCH}/degruyter/feed/{key}.xml"
+    )
+
+
+def get_latest_issue(key: str):
+    """Return (journal_title, latest_issue_url) for a De Gruyter journal key."""
     url = f"https://www.degruyterbrill.com/journal/key/{key}/html"
-    # Download journal website
-    page = requests.get(url)
-    parsed_uri = urlparse(url)
-    soup = BeautifulSoup(page.content, features = 'html.parser')
-    
-    # Get latest issue
-    latestIssueLink = soup.find("a", id = "view-latest-issue")
-    latestIssue = latestIssueLink['href'] if latestIssueLink else None
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    parsed = urlparse(url)
+    soup = BeautifulSoup(resp.content, "html.parser")
 
-    # Journal Title
     title = soup.title.string if soup.title else "title not available"
 
-    return title,f"{parsed_uri.scheme}://{parsed_uri.hostname}{latestIssue}"
+    link_tag = soup.find("a", id="view-latest-issue")
+    if not link_tag or not link_tag.get("href"):
+        raise ValueError(f"Could not find latest-issue link for key={key}")
 
-def parseIssuePage(url):
-    page = requests.get(url)
-    parsed_uri = urlparse(url)
-    soup = BeautifulSoup(page.content, features = 'html.parser')
-    issueTitle = title = soup.title.string if soup.title else "issue title not available"
+    issue_url = f"{parsed.scheme}://{parsed.hostname}{link_tag['href']}"
+    return title, issue_url
 
-    itemList = soup.select('ul.issue-content-list li')
 
-    issueItems = []
+def parse_issue_page(url: str):
+    """Return (issue_title, list_of_article_dicts) from an issue page."""
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    parsed = urlparse(url)
+    soup = BeautifulSoup(resp.content, "html.parser")
 
-    for li in itemList:
-        a_tag = li.find('a', class_='text-dark', attrs={'data-doi': True, 'href': True})
-        title_span = li.find('span', class_='text-dark ahead-of-print-title')
-        details_div = li.find('div', class_='ahead-of-print-details')
+    issue_title = soup.title.string if soup.title else "issue title not available"
+    items = []
+
+    for li in soup.select("ul.issue-content-list li"):
+        a_tag = li.find("a", class_="text-dark", attrs={"data-doi": True, "href": True})
+        title_span = li.find("span", class_="text-dark ahead-of-print-title")
+        details_div = li.find("div", class_="ahead-of-print-details")
+
         if a_tag and details_div:
-            item = {
-                'doi': a_tag.get('data-doi'),
-                'href': f"{parsed_uri.scheme}://{parsed_uri.hostname}{a_tag.get('href')}",
-                'title': title_span.get_text(strip=True) if title_span else None,
-                'date': details_div.find('div', class_='date').get_text(strip=True) if details_div.find('div', class_='date') else None,
-                'authors': details_div.find('div', class_='authors').get_text(strip=True) if details_div.find('div', class_='authors') else None,
-                'page_range': details_div.find('span', class_='pageRange').get_text(strip=True) if details_div.find('span', class_='pageRange') else None
-            }
-            issueItems.append(item)
-    
-    return issueTitle, issueItems
+            items.append(
+                {
+                    "doi": a_tag.get("data-doi"),
+                    "href": f"{parsed.scheme}://{parsed.hostname}{a_tag.get('href')}",
+                    "title": title_span.get_text(strip=True) if title_span else None,
+                    "date": (
+                        details_div.find("div", class_="date").get_text(strip=True)
+                        if details_div.find("div", class_="date")
+                        else None
+                    ),
+                    "authors": (
+                        details_div.find("div", class_="authors").get_text(strip=True)
+                        if details_div.find("div", class_="authors")
+                        else None
+                    ),
+                    "page_range": (
+                        details_div.find("span", class_="pageRange").get_text(strip=True)
+                        if details_div.find("span", class_="pageRange")
+                        else None
+                    ),
+                }
+            )
 
-def IsLocalFeedOlder(key, mostRecentIssue):
-    '''
-    Checks if local via link is different from
-    most recent issue online. If true, download
-    new one 
-    '''
-    ns = { "atom" : 'http://www.w3.org/2005/Atom'}
-    tree = etree.parse(f"feed/{key}.xml")
-    lastUrlInFeed = tree.xpath('./atom:link[@rel = "via"]/@href', namespaces = ns)
-    if len(lastUrlInFeed) > 0:
-        if lastUrlInFeed[0].strip() == mostRecentIssue.strip():
-            return False
-        else:
-            return True
-    # If no valid link is found trigger download
-    else:
+    return issue_title, items
+
+
+def is_local_feed_older(key: str, latest_issue_url: str) -> bool:
+    """Return True if the local XML feed does not already point at latest_issue_url."""
+    feed_path = FEED_DIR / f"{key}.xml"
+    if not feed_path.exists():
         return True
-        
-    
-def generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems):
 
-    # Create rss feed
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    try:
+        tree = etree.parse(str(feed_path))
+        stored = tree.xpath('./atom:link[@rel="via"]/@href', namespaces=ns)
+        if stored and stored[0].strip() == latest_issue_url.strip():
+            return False
+    except Exception:
+        pass  # malformed XML → regenerate
+
+    return True
+
+
+def generate_feed(key: str, journal_title: str, journal_url: str, issue_items: list):
+    """Write an Atom XML feed to degruyter/feed/<key>.xml."""
+    FEED_DIR.mkdir(parents=True, exist_ok=True)
+
     nsmap = {None: "http://www.w3.org/2005/Atom"}
+    root = etree.Element("feed", nsmap=nsmap)
 
-    root = etree.Element("feed", nsmap = nsmap)
-    
-    # Channel info
-    CH_TIT = etree.SubElement(root, "title")
-    CH_TIT.text = journalTitle
-    
-    CH_link = etree.SubElement(root, "link", href = journalUrl, rel = "via")
-    CH_feedLink = etree.SubElement(root,
-    "link",
-    href = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml",
-    type = "application/rss+xml",
-    rel="self")
+    # Channel metadata
+    etree.SubElement(root, "title").text = journal_title
+    etree.SubElement(root, "link", href=journal_url, rel="via")
+    etree.SubElement(
+        root,
+        "link",
+        href=raw_feed_url(key),
+        type="application/atom+xml",
+        rel="self",
+    )
+    etree.SubElement(
+        root,
+        "link",
+        href=f"https://www.degruyterbrill.com/journal/key/{key}/html",
+        rel="related",
+    )
+    etree.SubElement(root, "updated").text = create_timestamp()
+    etree.SubElement(root, "id").text = raw_feed_url(key)
+    etree.SubElement(
+        root, "generator"
+    ).text = "https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py"
+    etree.SubElement(
+        root, "subtitle"
+    ).text = f"Latest articles from {journal_title} (De Gruyter)"
 
-    CH_viaLink = etree.SubElement(root,
-    "link",
-    href = f"https://www.degruyterbrill.com/journal/key/{key}/html",
-    rel="related")
-    
-    CH_timestamp = etree.SubElement(root, "updated")
-    CH_timestamp.text = createTimestamp()
+    # Entries
+    for item in issue_items:
+        entry = etree.SubElement(root, "entry")
+        etree.SubElement(entry, "title").text = item.get("title") or "(no title)"
+        etree.SubElement(entry, "link", href=item.get("href", ""))
+        doi = item.get("doi", "")
+        etree.SubElement(entry, "id").text = f"https://doi.org/{doi}"
+        etree.SubElement(entry, "updated").text = create_timestamp()
 
-    # CH_author = etree.SubElement(root, "author")
-    # CH_authName = etree.SubElement(CH_author, "name")
-    # CH_authName.text = "Alexander Winkler"
-    # CH_URI = etree.SubElement(CH_author, "uri")
-    # CH_URI.text = "https://orcid.org/0000-0002-9145-7238"
+        summary_parts = []
+        if item.get("authors"):
+            summary_parts.append(f"Authors: {item['authors']}")
+        if doi:
+            summary_parts.append(f"DOI: https://doi.org/{doi}")
+        if item.get("page_range"):
+            summary_parts.append(f"Pages: {item['page_range']}")
+        etree.SubElement(entry, "summary").text = "\n".join(summary_parts)
 
-    CH_id = etree.SubElement(root, "id")
-    CH_id.text = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml"
-    
-    CH_generator = etree.SubElement(root, "generator")
-    CH_generator.text = "https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py"
-    
-    CH_desc = etree.SubElement(root, "subtitle")
-    CH_desc.text = f"A RSS feed containing the latest articles published in {journalTitle}"
-
-
-    # Single items (articles)
-
-    for i in issueItems:
-        tmpItem = etree.SubElement(root, "entry")
-        tmpTitle = etree.SubElement(tmpItem, "title")
-        tmpTitle.text = i.get('title')
-        tmpLink = etree.SubElement(tmpItem, 'link', href = i.get('href'))
-        tmpID = etree.SubElement(tmpItem, 'id')
-        tmpID.text = "https://doi.org/" + i.get('doi')
-        tmpUpdate = etree.SubElement(tmpItem, 'updated')
-        tmpUpdate.text = createTimestamp()
-        tmpDescription = etree.SubElement(tmpItem, 'summary')
-        tmpDescription.text = "DOI: https://doi.org/" + i.get('doi')
-        if i.get('authors'):
-            tmpDescription.text = "Article by " + i.get('authors') + "\n" + tmpDescription.text
-  
     tree = etree.ElementTree(root)
-    tree.write(f'feed/{key}.xml', pretty_print=True, xml_declaration=True,   encoding="UTF-8", standalone = True)
-    print(f"{key} done!")
+    out_path = FEED_DIR / f"{key}.xml"
+    tree.write(
+        str(out_path),
+        pretty_print=True,
+        xml_declaration=True,
+        encoding="UTF-8",
+        standalone=True,
+    )
+    print(f"  ✓  {key}: feed written → {out_path}")
 
-def workflow(key):
-    journalTitle, journalUrl = getLatestIssue(key)
-    if IsLocalFeedOlder(key, journalUrl) == True:
-        issueTitle, issueItems = parseIssuePage(journalUrl)
-        generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems)
-    else:
-        print(f"{journalTitle} ({key}) is up to date!")
 
-def getKeyList(file):
-    df = pd.read_excel(fileurl, skiprows=3)
+def process_journal(key: str, title_hint: str = "") -> bool:
+    """
+    Full pipeline for one journal key.
+    Returns True if the feed was updated, False if already current.
+    """
+    try:
+        journal_title, latest_url = get_latest_issue(key)
+    except Exception as exc:
+        print(f"  ✗  {key}: could not fetch journal page — {exc}")
+        return False
 
-def processFile(file):
-    # read excel file into a dataframe, select columns that are needed
-    df = pd.read_excel(fileurl, skiprows=3)
-    filtered_df = df[["Journal Code Klopotek", "Journal Code Online", "Title", "Print-ISSN", "Online-ISSN", "Subject Area", "URL"]].copy()
+    if not is_local_feed_older(key, latest_url):
+        print(f"  –  {key} ({journal_title}): already up to date")
+        return False
 
-    # run function on keys
-    for index,row in filtered_df.iterrows():
+    try:
+        _, items = parse_issue_page(latest_url)
+    except Exception as exc:
+        print(f"  ✗  {key}: could not parse issue page — {exc}")
+        return False
+
+    generate_feed(key, journal_title, latest_url, items)
+    return True
+
+
+def load_journals(csv_path: Path) -> list[dict]:
+    """Load journals CSV and normalise column names to canonical keys."""
+    # The original De Gruyter feed_list.csv uses these headers:
+    #   Journal Code Klopotek, Journal Code Online, Title,
+    #   Print-ISSN, Online-ISSN, Subject Area, URL, rss_feed
+    with open(csv_path, newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+
+    normalised = []
+    for row in rows:
+        # Accept both the original header names and any pre-normalised ones
+        key = (
+            row.get("Journal Code Online")
+            or row.get("key")
+            or ""
+        ).strip()
+        title = (
+            row.get("Title")
+            or row.get("title")
+            or ""
+        ).strip()
+        subject = (
+            row.get("Subject Area")
+            or row.get("subject")
+            or ""
+        ).strip()
+        if key:
+            normalised.append({"key": key, "title": title, "subject": subject})
+
+    return normalised
+
+
+def main():
+    journals = load_journals(JOURNALS_CSV)
+    print(f"Processing {len(journals)} journals …\n")
+
+    updated = 0
+    failed = []
+
+    for journal in journals:
+        key = journal["key"]
+        title_hint = journal.get("title", "")
+        print(f"→ {key}  ({title_hint})")
         try:
-            workflow(row["Journal Code Online"])
-            filtered_df.loc[index, "rss_feed"] = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{row['Journal Code Online']}.xml"
-        except Exception as e:
-            print(e)
-        time.sleep(1)
+            changed = process_journal(key, title_hint)
+            if changed:
+                updated += 1
+        except Exception as exc:
+            print(f"  ✗  {key}: unexpected error — {exc}")
+            failed.append(key)
+        time.sleep(1.5)  # polite crawl delay
 
-    # Finally, write a csv list of feeds generated
+    print(f"\nDone. {updated} feed(s) updated, {len(failed)} failed.")
+    if failed:
+        print("Failed keys:", ", ".join(failed))
 
-    filtered_df.to_csv("feed_list.csv", index=None)
+    # Write a summary CSV of all feeds with their raw.githubusercontent URLs
+    summary_path = Path(__file__).parent / "feed_index.csv"
+    with open(summary_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["key", "title", "subject", "feed_url"])
+        for j in journals:
+            k = j["key"]
+            writer.writerow(
+                [k, j.get("title", ""), j.get("subject", ""), raw_feed_url(k)]
+            )
+    print(f"Feed index written → {summary_path}")
+
 
 if __name__ == "__main__":
-     
-    # The journal keys derive from the official price list De Gruyter has on its website (will probably change in the near future, so that's not a particularly good idea)
-    fileurl = r'https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DeGruyter_Journal_Price_List_2025__EUR__2024-11-10.xlsx'
-    processFile(fileurl)
+    main()
