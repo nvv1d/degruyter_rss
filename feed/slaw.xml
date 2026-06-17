@@ -1,109 +1,118 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Slawistik - Journal of Slavic Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/slaw/71/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/slaw/71/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/slaw.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/slaw/html" rel="related"/>
-  <updated>2026-06-16T15:35:33.410747+00:00</updated>
+  <updated>2026-06-17T10:55:33.793997+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/slaw.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Zeitschrift für Slawistik - Journal of Slavic Studies (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-frontmatter1</id>
-    <updated>2026-06-16T15:35:33.410780+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/slaw-2026-frontmatter1
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-frontmatter2</id>
+    <updated>2026-06-17T10:55:33.794068+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/slaw-2026-frontmatter2
 Pages: Page range: I-IV</summary>
   </entry>
   <entry>
-    <title>„Nemamo plan B ali rušamo plan A“. Zur Pragmatik der Studierendenproteste in Serbien (2024–2026)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2001/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2001</id>
-    <updated>2026-06-16T15:35:33.410793+00:00</updated>
-    <summary>Authors: Anna Jouravel
-DOI: https://doi.org/10.1515/slaw-2026-2001
-Pages: Page range: 1-43</summary>
+    <title>Die polnische Schule der semantischen Syntax im Kontext globaler Trends im Bereich der funktionalen Linguistik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3001/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3001</id>
+    <updated>2026-06-17T10:55:33.794083+00:00</updated>
+    <summary>Authors: Aleksander Kiklewicz
+DOI: https://doi.org/10.1515/slaw-2026-3001
+Pages: Page range: 231-258</summary>
   </entry>
   <entry>
-    <title>Russian Old Settlers’ dialects from a Creolist perspective</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2002/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2002</id>
-    <updated>2026-06-16T15:35:33.410805+00:00</updated>
-    <summary>Authors: Dieter Stern
-DOI: https://doi.org/10.1515/slaw-2026-2002
-Pages: Page range: 44-79</summary>
+    <title>Constructions Built of Constructions: Intensified Comparatives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3002/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3002</id>
+    <updated>2026-06-17T10:55:33.794095+00:00</updated>
+    <summary>Authors: Valentina Zhukova, Ekaterina Rakhilina, Yana Akhapkina
+DOI: https://doi.org/10.1515/slaw-2026-3002
+Pages: Page range: 259-284</summary>
   </entry>
   <entry>
-    <title>Non-prototypical Aspectual Clusters and Corpus Data: thegrozit’‘threaten’ cluster in Russian</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2003/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2003</id>
-    <updated>2026-06-16T15:35:33.410816+00:00</updated>
-    <summary>Authors: Anastasia Makarova, Tore Nesset
-DOI: https://doi.org/10.1515/slaw-2026-2003
-Pages: Page range: 80-110</summary>
+    <title>Features of Pragmatic Markers in Contemporary Russian Monologues: A Quantitative Analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3003/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3003</id>
+    <updated>2026-06-17T10:55:33.794107+00:00</updated>
+    <summary>Authors: Xiaoli Sun, Mariya Alexandrovna Kulkova
+DOI: https://doi.org/10.1515/slaw-2026-3003
+Pages: Page range: 285-300</summary>
   </entry>
   <entry>
-    <title>The development of word- and morpheme-initial /x/ in Lower Sorbian</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2004/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2004</id>
-    <updated>2026-06-16T15:35:33.410827+00:00</updated>
-    <summary>Authors: Lechosław Jocz
-DOI: https://doi.org/10.1515/slaw-2026-2004
-Pages: Page range: 111-131</summary>
+    <title>Albanian-Slavic Language Contact at the Dialectal Level in North Macedonia</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3004/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3004</id>
+    <updated>2026-06-17T10:55:33.794117+00:00</updated>
+    <summary>Authors: Lumnije Jusufi
+DOI: https://doi.org/10.1515/slaw-2026-3004
+Pages: Page range: 301-317</summary>
   </entry>
   <entry>
-    <title>Haplology and diplology of grammatical markers in Slavic and Baltic</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2005/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2005</id>
-    <updated>2026-06-16T15:35:33.410838+00:00</updated>
-    <summary>Authors: Axel Holvoet
-DOI: https://doi.org/10.1515/slaw-2026-2005
-Pages: Page range: 132-147</summary>
+    <title>The Old Czech Glosses in the Latin-GermanAvisGlossary</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3005/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3005</id>
+    <updated>2026-06-17T10:55:33.794127+00:00</updated>
+    <summary>Authors: Kateřina Voleková
+DOI: https://doi.org/10.1515/slaw-2026-3005
+Pages: Page range: 318-343</summary>
   </entry>
   <entry>
-    <title>Immaculate Conception(s): The Virgin, the Purity of the Political Body, and the Building of a New Orthodox Piety in Early Modern Ukraine</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2006/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2006</id>
-    <updated>2026-06-16T15:35:33.410848+00:00</updated>
-    <summary>Authors: Maria Grazia Bartolini
-DOI: https://doi.org/10.1515/slaw-2026-2006
-Pages: Page range: 148-191</summary>
+    <title>Ablaut and Common Slavic Verb</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3006/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3006</id>
+    <updated>2026-06-17T10:55:33.794138+00:00</updated>
+    <summary>Authors: Ondřej Šefčík
+DOI: https://doi.org/10.1515/slaw-2026-3006
+Pages: Page range: 344-373</summary>
   </entry>
   <entry>
-    <title>Der Rilke-Kult im Slowakischen Staat (1939–1945)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2007/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2007</id>
-    <updated>2026-06-16T15:35:33.410858+00:00</updated>
-    <summary>Authors: Miloslav Szabó
-DOI: https://doi.org/10.1515/slaw-2026-2007
-Pages: Page range: 192-221</summary>
+    <title>Stephen the Little – an Unknown and an Inspiration</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3007/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3007</id>
+    <updated>2026-06-17T10:55:33.794153+00:00</updated>
+    <summary>Authors: Olga Vojičić Komatina, Saša Simović
+DOI: https://doi.org/10.1515/slaw-2026-3007
+Pages: Page range: 374-403</summary>
   </entry>
   <entry>
-    <title>XXII Workshop “Intercultural Communication and Intercultural Learning”</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2008/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2008</id>
-    <updated>2026-06-16T15:35:33.410868+00:00</updated>
-    <summary>Authors: Elena Denisova-Schmidt
-DOI: https://doi.org/10.1515/slaw-2026-2008
-Pages: Page range: 222-223</summary>
+    <title>Nachruf auf Prof. Dr. Elisabeth von Erdmann (05.11.1956–30.01.2026)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3008/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3008</id>
+    <updated>2026-06-17T10:55:33.794167+00:00</updated>
+    <summary>Authors: Christian Zehnder
+DOI: https://doi.org/10.1515/slaw-2026-3008
+Pages: Page range: 404-408</summary>
   </entry>
   <entry>
-    <title>Sprachkontakt und Sprachwechsel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2009/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2009</id>
-    <updated>2026-06-16T15:35:33.410878+00:00</updated>
-    <summary>Authors: Holger Kuße
-DOI: https://doi.org/10.1515/slaw-2026-2009
-Pages: Page range: 224-226</summary>
+    <title>Genus, Gender und Modellierung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3009/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3009</id>
+    <updated>2026-06-17T10:55:33.794182+00:00</updated>
+    <summary>Authors: Ewelina Woźniak-Wrzesińska
+DOI: https://doi.org/10.1515/slaw-2026-3009
+Pages: Page range: 409-413</summary>
   </entry>
   <entry>
-    <title>Screening the Scars. The Cinematic (In)visibility of Social Trauma. Ed. Andreas Hamburger. Bicester/Oxfordshire: Karnac Books 2025, ISBN 978-1-80013-290–0, 270 S.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-2010/html"/>
-    <id>https://doi.org/10.1515/slaw-2026-2010</id>
-    <updated>2026-06-16T15:35:33.410889+00:00</updated>
-    <summary>Authors: Christian Voß
-DOI: https://doi.org/10.1515/slaw-2026-2010
-Pages: Page range: 227-229</summary>
+    <title>Das dreisprachige Lexikon von Epifanij Slavineckij</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3010/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3010</id>
+    <updated>2026-06-17T10:55:33.794196+00:00</updated>
+    <summary>Authors: Dmitrij Bulanin
+DOI: https://doi.org/10.1515/slaw-2026-3010
+Pages: Page range: 414-422</summary>
+  </entry>
+  <entry>
+    <title>Styl religijny</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2026-3011/html"/>
+    <id>https://doi.org/10.1515/slaw-2026-3011</id>
+    <updated>2026-06-17T10:55:33.794213+00:00</updated>
+    <summary>Authors: Zofia Bilut-Homplewicz
+DOI: https://doi.org/10.1515/slaw-2026-3011
+Pages: Page range: 423-427</summary>
   </entry>
 </feed>
