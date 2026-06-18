@@ -1,82 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Language and Semiotic Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/lass/12/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/lass/12/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lass.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/lass/html" rel="related"/>
-  <updated>2026-06-16T15:34:35.806122+00:00</updated>
+  <updated>2026-06-18T10:20:40.876462+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/lass.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Language and Semiotic Studies (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2026-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/lass-2026-frontmatter1</id>
-    <updated>2026-06-16T15:34:35.806161+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/lass-2026-frontmatter1
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/lass-2026-frontmatter2</id>
+    <updated>2026-06-18T10:20:40.876499+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/lass-2026-frontmatter2
 Pages: Page range: i-iii</summary>
   </entry>
   <entry>
-    <title>Blank-signs and their in-field domains in literary texts</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0022/html"/>
-    <id>https://doi.org/10.1515/lass-2025-0022</id>
-    <updated>2026-06-16T15:34:35.806184+00:00</updated>
-    <summary>Authors: Zhi Yi, Yongzhong Li
-DOI: https://doi.org/10.1515/lass-2025-0022
-Pages: Page range: 1-19</summary>
+    <title>The medium, the gate of perception and how we recognize signs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0070/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0070</id>
+    <updated>2026-06-18T10:20:40.876515+00:00</updated>
+    <summary>Authors: Tony Jappy
+DOI: https://doi.org/10.1515/lass-2025-0070
+Pages: Page range: 167-189</summary>
   </entry>
   <entry>
-    <title>Digital humor analysis of Bo Burnham’s Netflix comedy specialInside:new sincerity, postirony, and metamodernism at play</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0031/html"/>
-    <id>https://doi.org/10.1515/lass-2025-0031</id>
-    <updated>2026-06-16T15:34:35.806197+00:00</updated>
-    <summary>Authors: Nashwa Elyamany, Noorhan Abbas
-DOI: https://doi.org/10.1515/lass-2025-0031
-Pages: Page range: 20-66</summary>
+    <title>The principle of differentiation and the intersemiotic relations of Chinese characters</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0067/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0067</id>
+    <updated>2026-06-18T10:20:40.876528+00:00</updated>
+    <summary>Authors: Hua Meng
+DOI: https://doi.org/10.1515/lass-2025-0067
+Pages: Page range: 190-210</summary>
   </entry>
   <entry>
-    <title>Memes as ensemble of illocutionary acts</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0003/html"/>
-    <id>https://doi.org/10.1515/lass-2025-0003</id>
-    <updated>2026-06-16T15:34:35.806208+00:00</updated>
-    <summary>Authors: Mitul Joseph Koickakudy
-DOI: https://doi.org/10.1515/lass-2025-0003
-Pages: Page range: 67-90</summary>
+    <title>Unheard melodies and emotional peaks inLet It GoandShow Yourself: a multimodal sentiment analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0032/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0032</id>
+    <updated>2026-06-18T10:20:40.876539+00:00</updated>
+    <summary>Authors: Nashwa Elyamany, Yasser Omar Youssef, Manar Mohamed Hafez
+DOI: https://doi.org/10.1515/lass-2025-0032
+Pages: Page range: 211-239</summary>
   </entry>
   <entry>
-    <title>Cultural conceptualizations of neologisms and coinages in Nigerian multicultural discussion onNairaland Forum</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0006/html"/>
-    <id>https://doi.org/10.1515/lass-2025-0006</id>
-    <updated>2026-06-16T15:34:35.806218+00:00</updated>
-    <summary>Authors: Rotimi Taiwo, Eunice Omolara Olarewaju
-DOI: https://doi.org/10.1515/lass-2025-0006
-Pages: Page range: 91-110</summary>
+    <title>Credence, attribution, and creativity in the construction of literary meaning with generative artificial intelligence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2024-0072/html"/>
+    <id>https://doi.org/10.1515/lass-2024-0072</id>
+    <updated>2026-06-18T10:20:40.876550+00:00</updated>
+    <summary>Authors: Sergio Torres-Martínez
+DOI: https://doi.org/10.1515/lass-2024-0072
+Pages: Page range: 240-280</summary>
   </entry>
   <entry>
-    <title>Shut up! you are not God: religious identity in commercial tricycle texts in Nigeria</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2024-0063/html"/>
-    <id>https://doi.org/10.1515/lass-2024-0063</id>
-    <updated>2026-06-16T15:34:35.806229+00:00</updated>
-    <summary>Authors: Eyo Mensah, Kevin Egbo
-DOI: https://doi.org/10.1515/lass-2024-0063
-Pages: Page range: 111-132</summary>
+    <title>When the language of smoking says it all: a semiotic-psychoanalytic decoding of the American filmGolda</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0020/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0020</id>
+    <updated>2026-06-18T10:20:40.876561+00:00</updated>
+    <summary>Authors: May Samir El-Falaky, Heba Mohamed Abdelaziz, Alshaymaa Mohamed Ahmed, Yara Abdelsamie
+DOI: https://doi.org/10.1515/lass-2025-0020
+Pages: Page range: 281-311</summary>
   </entry>
   <entry>
-    <title>Constructing national identity through symbolic representations in Olympic microblogs: a pathway analysis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0060/html"/>
-    <id>https://doi.org/10.1515/lass-2025-0060</id>
-    <updated>2026-06-16T15:34:35.806239+00:00</updated>
-    <summary>Authors: Xiaoyang Wei
-DOI: https://doi.org/10.1515/lass-2025-0060
-Pages: Page range: 133-158</summary>
+    <title>Ideologies, qualia, and rhematization: unpacking the semiotic process of experiencing Beijinghutong’s “oldness” quality</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0038/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0038</id>
+    <updated>2026-06-18T10:20:40.876572+00:00</updated>
+    <summary>Authors: Peng Zhao, Wei Dai
+DOI: https://doi.org/10.1515/lass-2025-0038
+Pages: Page range: 312-333</summary>
   </entry>
   <entry>
-    <title>Emoji and social media paralanguage, by Michele Zappavigna and Lorenzo Logi, Cambridge, Cambridge University Press, 2024, xiv+251 pp., $ 34.99 (paperback), ISBN: 978-1-009-17980-5</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0018/html"/>
-    <id>https://doi.org/10.1515/lass-2025-0018</id>
-    <updated>2026-06-16T15:34:35.806250+00:00</updated>
-    <summary>Authors: Yuxin Ren
-DOI: https://doi.org/10.1515/lass-2025-0018
-Pages: Page range: 159-165</summary>
+    <title>History, sense and value of a word: ‘semioetica’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lass-2025-0012/html"/>
+    <id>https://doi.org/10.1515/lass-2025-0012</id>
+    <updated>2026-06-18T10:20:40.876583+00:00</updated>
+    <summary>Authors: Dario Dellino
+DOI: https://doi.org/10.1515/lass-2025-0012
+Pages: Page range: 334-352</summary>
   </entry>
 </feed>
