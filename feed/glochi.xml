@@ -1,118 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Global Chinese</title>
-  <link href="https://www.degruyterbrill.com/journal/key/glochi/11/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/glochi/12/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/glochi.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/glochi/html" rel="related"/>
-  <updated>2026-06-16T15:33:28.068047+00:00</updated>
+  <updated>2026-06-27T08:34:47.874934+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/glochi.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Global Chinese (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/glochi-2025-frontmatter2</id>
-    <updated>2026-06-16T15:33:28.068080+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/glochi-2025-frontmatter2
-Pages: Page range: i-iv</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/glochi-2026-frontmatter1</id>
+    <updated>2026-06-27T08:34:47.874965+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/glochi-2026-frontmatter1
+Pages: Page range: i-iii</summary>
   </entry>
   <entry>
-    <title>儿童中文课堂非预设事件的超语分析及其价值探讨</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0046/html"/>
-    <id>https://doi.org/10.1515/glochi-2024-0046</id>
-    <updated>2026-06-16T15:33:28.068094+00:00</updated>
-    <summary>Authors: Jianing Wang, Na Li
-DOI: https://doi.org/10.1515/glochi-2024-0046
-Pages: Page range: 165-177</summary>
+    <title>优选论的发展及其在汉语音系学研究中的应用</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2026-0002/html"/>
+    <id>https://doi.org/10.1515/glochi-2026-0002</id>
+    <updated>2026-06-27T08:34:47.874980+00:00</updated>
+    <summary>Authors: 张杰 Jie Zhang
+DOI: https://doi.org/10.1515/glochi-2026-0002
+Pages: Page range: 1-33</summary>
   </entry>
   <entry>
-    <title>粤港澳报刊语言对比研究</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0023/html"/>
-    <id>https://doi.org/10.1515/glochi-2024-0023</id>
-    <updated>2026-06-16T15:33:28.068107+00:00</updated>
-    <summary>Authors: Quan Li, Lei Xu
-DOI: https://doi.org/10.1515/glochi-2024-0023
-Pages: Page range: 179-195</summary>
+    <title>“你说 ‘大牌’，我猜你是新加坡人?” —— 大语言模型识别与生成汉语变体的能力评估</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0017/html"/>
+    <id>https://doi.org/10.1515/glochi-2025-0017</id>
+    <updated>2026-06-27T08:34:47.874994+00:00</updated>
+    <summary>Authors: Qiao Fang, Jingxia Lin
+DOI: https://doi.org/10.1515/glochi-2025-0017
+Pages: Page range: 35-61</summary>
   </entry>
   <entry>
-    <title>马来西亚华语单音文言词的语体分布研究</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0020/html"/>
-    <id>https://doi.org/10.1515/glochi-2025-0020</id>
-    <updated>2026-06-16T15:33:28.068118+00:00</updated>
-    <summary>Authors: Shengjie Wang, Xiaomei Wang
-DOI: https://doi.org/10.1515/glochi-2025-0020
-Pages: Page range: 197-212</summary>
+    <title>Exploring translator adaptation and selection in the translation of Museum texts: a case study of the Luoyang Museum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0023/html"/>
+    <id>https://doi.org/10.1515/glochi-2025-0023</id>
+    <updated>2026-06-27T08:34:47.875005+00:00</updated>
+    <summary>Authors: Weijia Liu, Yuan Zhou, Elmira Kylychbaeva, Nazira Shakeeva, Zhaoxi Li
+DOI: https://doi.org/10.1515/glochi-2025-0023
+Pages: Page range: 63-88</summary>
   </entry>
   <entry>
-    <title>马来西亚华文教育可持续发展情况的调查与研究</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0025/html"/>
-    <id>https://doi.org/10.1515/glochi-2024-0025</id>
-    <updated>2026-06-16T15:33:28.068129+00:00</updated>
-    <summary>Authors: Ruixin Wang
-DOI: https://doi.org/10.1515/glochi-2024-0025
-Pages: Page range: 213-232</summary>
+    <title>Literacy and rurality in China: a scoping review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0027/html"/>
+    <id>https://doi.org/10.1515/glochi-2025-0027</id>
+    <updated>2026-06-27T08:34:47.875017+00:00</updated>
+    <summary>Authors: Jing Wu, Ibrar Bhatt, Zhe Li
+DOI: https://doi.org/10.1515/glochi-2025-0027
+Pages: Page range: 89-109</summary>
   </entry>
   <entry>
-    <title>The use of artificial intelligence in Chinese language teaching</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0006/html"/>
-    <id>https://doi.org/10.1515/glochi-2025-0006</id>
-    <updated>2026-06-16T15:33:28.068145+00:00</updated>
-    <summary>Authors: Tolkyn Kalibekuly, Raushan Jeldybayeva, Aizhan Khungshan, Ainur Nurzhaubek, Madina Sabirova
-DOI: https://doi.org/10.1515/glochi-2025-0006
-Pages: Page range: 233-254</summary>
+    <title>The acquisition of Chineseshì…deproper clefts by L1 Italian learners: a corpus-based approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0005/html"/>
+    <id>https://doi.org/10.1515/glochi-2025-0005</id>
+    <updated>2026-06-27T08:34:47.875028+00:00</updated>
+    <summary>Authors: Alessia Iurato
+DOI: https://doi.org/10.1515/glochi-2025-0005
+Pages: Page range: 111-139</summary>
   </entry>
   <entry>
-    <title>A systematic review on willingness to communicate in L2 Chinese learning in the past decade (2013–2023)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0022/html"/>
-    <id>https://doi.org/10.1515/glochi-2024-0022</id>
-    <updated>2026-06-16T15:33:28.068157+00:00</updated>
-    <summary>Authors: Muzi Li, Fong Peng Chew, Teng Teng Yap
-DOI: https://doi.org/10.1515/glochi-2024-0022
-Pages: Page range: 255-270</summary>
+    <title>音法类型学</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2026-0004/html"/>
+    <id>https://doi.org/10.1515/glochi-2026-0004</id>
+    <updated>2026-06-27T08:34:47.875038+00:00</updated>
+    <summary>Authors: Yingyi Zhou, Yang Wei
+DOI: https://doi.org/10.1515/glochi-2026-0004
+Pages: Page range: 141-183</summary>
   </entry>
   <entry>
-    <title>Support strategies for student engagement in live online classes: exploring teacher-student and student–student interactions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0001/html"/>
-    <id>https://doi.org/10.1515/glochi-2024-0001</id>
-    <updated>2026-06-16T15:33:28.068168+00:00</updated>
-    <summary>Authors: Leimin Shi
-DOI: https://doi.org/10.1515/glochi-2024-0001
-Pages: Page range: 271-294</summary>
-  </entry>
-  <entry>
-    <title>Sinographies: semiotics of the Sinophone</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0003/html"/>
-    <id>https://doi.org/10.1515/glochi-2024-0003</id>
-    <updated>2026-06-16T15:33:28.068178+00:00</updated>
-    <summary>Authors: Tong King Lee
-DOI: https://doi.org/10.1515/glochi-2024-0003
-Pages: Page range: 295-323</summary>
-  </entry>
-  <entry>
-    <title>The “fifth tone” in Mandarin: a case study of Macau</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0004/html"/>
-    <id>https://doi.org/10.1515/glochi-2024-0004</id>
-    <updated>2026-06-16T15:33:28.068190+00:00</updated>
-    <summary>Authors: Ren Xin, Wang Huihui
-DOI: https://doi.org/10.1515/glochi-2024-0004
-Pages: Page range: 325-344</summary>
-  </entry>
-  <entry>
-    <title>Linguocognitive aspect of the frame “matchmaking” in Chinese and Kazakh cultures</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0010/html"/>
-    <id>https://doi.org/10.1515/glochi-2025-0010</id>
-    <updated>2026-06-16T15:33:28.068201+00:00</updated>
-    <summary>Authors: Ainur Nurzhaubek, Tolkyn Kalibekuly, Raushan Jeldybayeva, Zhazira Tursynali, Madina Sabirova
-DOI: https://doi.org/10.1515/glochi-2025-0010
-Pages: Page range: 345-367</summary>
-  </entry>
-  <entry>
-    <title>Associative and figurative field of the concept “family” in English, Spanish, Chinese, and Kyrgyz linguocultures: International-comparative analysis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0011/html"/>
-    <id>https://doi.org/10.1515/glochi-2025-0011</id>
-    <updated>2026-06-16T15:33:28.068250+00:00</updated>
-    <summary>Authors: Upel Kadyrkulova, Gulaim Abylasynova, Zukhra Abdumanapova, Meerim Kulchunova, Asel Tilekmatova
-DOI: https://doi.org/10.1515/glochi-2025-0011
-Pages: Page range: 369-391</summary>
+    <title>Fundamental structures of the Chinese language: topic-comment and other key structures</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0002/html"/>
+    <id>https://doi.org/10.1515/glochi-2025-0002</id>
+    <updated>2026-06-27T08:34:47.875047+00:00</updated>
+    <summary>Authors: Shushu Li, Mei Yu
+DOI: https://doi.org/10.1515/glochi-2025-0002
+Pages: Page range: 185-188</summary>
   </entry>
 </feed>
