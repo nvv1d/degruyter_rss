@@ -1,55 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Intercultural Pragmatics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/iprg/23/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/iprg/23/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/iprg.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/iprg/html" rel="related"/>
-  <updated>2026-06-16T15:33:54.981539+00:00</updated>
+  <updated>2026-07-03T09:16:40.012253+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/iprg.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Intercultural Pragmatics (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/ip-2026-frontmatter1</id>
-    <updated>2026-06-16T15:33:54.981574+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/ip-2026-frontmatter1
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/ip-2026-frontmatter2</id>
+    <updated>2026-07-03T09:16:40.012325+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ip-2026-frontmatter2
 Pages: Page range: i-v</summary>
   </entry>
   <entry>
-    <title>Common ground and the presuppositions of questions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-8005/html"/>
-    <id>https://doi.org/10.1515/ip-2025-8005</id>
-    <updated>2026-06-16T15:33:54.981588+00:00</updated>
-    <summary>Authors: Fabrizio Macagno
-DOI: https://doi.org/10.1515/ip-2025-8005
-Pages: Page range: 27-51</summary>
+    <title>A comparative analysis of the prosody ofyou knowin L2 and L1 English: functional and positional variations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-8004/html"/>
+    <id>https://doi.org/10.1515/ip-2025-8004</id>
+    <updated>2026-07-03T09:16:40.012342+00:00</updated>
+    <summary>Authors: Runyu Zhai, Min Li
+DOI: https://doi.org/10.1515/ip-2025-8004
+Pages: Page range: 123-161</summary>
   </entry>
   <entry>
-    <title>Ostensible ritual aggression in ChineseXiangqigames</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-8002/html"/>
-    <id>https://doi.org/10.1515/ip-2025-8002</id>
-    <updated>2026-06-16T15:33:54.981601+00:00</updated>
-    <summary>Authors: Wenrui Shi, Dániel Z. Kádár
-DOI: https://doi.org/10.1515/ip-2025-8002
-Pages: Page range: 27-64</summary>
+    <title>Cross-linguistic analysis of ‘point of no return’ idioms: a cognitive framework for evaluating pragmatic intersubstitutability</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-0010/html"/>
+    <id>https://doi.org/10.1515/ip-2026-0010</id>
+    <updated>2026-07-03T09:16:40.012356+00:00</updated>
+    <summary>Authors: M. Fatih Adıgüzel, M. Pınar Babanoğlu
+DOI: https://doi.org/10.1515/ip-2026-0010
+Pages: Page range: 163-195</summary>
   </entry>
   <entry>
-    <title>The influence of guilt and shame on L1 and L2 apology speech acts in academic contexts</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-8006/html"/>
-    <id>https://doi.org/10.1515/ip-2025-8006</id>
-    <updated>2026-06-16T15:33:54.981613+00:00</updated>
-    <summary>Authors: Lucía Martín Pérez, Irini Mavrou
-DOI: https://doi.org/10.1515/ip-2025-8006
-Pages: Page range: 65-92</summary>
+    <title>Notmates, notbastards: the ethnopragmatics ofcuntin Australian English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-0037/html"/>
+    <id>https://doi.org/10.1515/ip-2026-0037</id>
+    <updated>2026-07-03T09:16:40.012369+00:00</updated>
+    <summary>Authors: Henry Carls
+DOI: https://doi.org/10.1515/ip-2026-0037
+Pages: Page range: 197-221</summary>
   </entry>
   <entry>
-    <title>Identifying two interactional functions ofen fait(‘in fact, actually’) in L2 French: a mixed-methods approach</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-0047/html"/>
-    <id>https://doi.org/10.1515/ip-2026-0047</id>
-    <updated>2026-06-16T15:33:54.981626+00:00</updated>
-    <summary>Authors: Melissa Juillet, Fanny Forsberg Lundell, Klara Skogmyr Marian, Simona Pekarek Doehler
-DOI: https://doi.org/10.1515/ip-2026-0047
-Pages: Page range: 93-122</summary>
+    <title>Multilingual pragmatics: comparison of implicature comprehension between trilingual and bilingual speakers of English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-0014/html"/>
+    <id>https://doi.org/10.1515/ip-2026-0014</id>
+    <updated>2026-07-03T09:16:40.012379+00:00</updated>
+    <summary>Authors: Naoko Taguchi, Ting Wen, Peiyao Zhang
+DOI: https://doi.org/10.1515/ip-2026-0014
+Pages: Page range: 223-248</summary>
+  </entry>
+  <entry>
+    <title>Compliments as supportive moves in social media conflicts: intercultural patterns in L2 English production</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2026-0049/html"/>
+    <id>https://doi.org/10.1515/ip-2026-0049</id>
+    <updated>2026-07-03T09:16:40.012390+00:00</updated>
+    <summary>Authors: Silvia Bruti, Gloria Cappelli, Nicoletta Simi
+DOI: https://doi.org/10.1515/ip-2026-0049
+Pages: Page range: 249-276</summary>
   </entry>
 </feed>
