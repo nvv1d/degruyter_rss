@@ -1,540 +1,73 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Informationen Deutsch als Fremdsprache</title>
-  <link href="https://www.degruyterbrill.com/journal/key/infodaf/53/2-3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/infodaf/53/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/infodaf.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/infodaf/html" rel="related"/>
-  <updated>2026-06-16T15:33:51.927080+00:00</updated>
+  <updated>2026-07-08T08:26:14.280608+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/infodaf.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Informationen Deutsch als Fremdsprache (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-frontmatter2-3/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-frontmatter2-3</id>
-    <updated>2026-06-16T15:33:51.927113+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/infodaf-2026-frontmatter2-3
-Pages: Page range: I-IX</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/infodaf-2026-frontmatter4</id>
+    <updated>2026-07-08T08:26:14.280647+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/infodaf-2026-frontmatter4
+Pages: Page range: I-IV</summary>
   </entry>
   <entry>
-    <title>Vorbemerkung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0011/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0011</id>
-    <updated>2026-06-16T15:33:51.927127+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/infodaf-2026-0011
-Pages: Page range: 121-121</summary>
+    <title>„... dann müssen mer des auf die Ärmelpresse mache“. Arbeitsplatzbezogene Sprachbedarfsanalyse in einer Wäscherei – ein Zwischenbericht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0069/html"/>
+    <id>https://doi.org/10.1515/infodaf-2026-0069</id>
+    <updated>2026-07-08T08:26:14.280669+00:00</updated>
+    <summary>Authors: Gabriele Kniffka
+DOI: https://doi.org/10.1515/infodaf-2026-0069
+Pages: Page range: 361-380</summary>
   </entry>
   <entry>
-    <title>Texte und Textsorten interdisziplinär[Sammelrezension] Smailagić, Vedad (Hrsg.): Textsorten in Sprach-, Kultur- und Sozialgeschichte. Tübingen: Stauffenburg, 2024 (Stauffenburg Linguistik 129). – ISBN 978-3-95809-172-6. 199 Seiten, € 39,80. Stumpf, Sören; Stein, Stephan (Hrsg.): Konstruktionsgrammatik X. Textsorten und Textmuster als Konstruktionen? Tübingen: Stauffenburg, 2024 (Stauffenburg Linguistik 128). – ISBN 978-3-95809-171-9. 244 Seiten, € 39,80. Kremmel, Stefanie: Der Lebenslauf der Übersetzung. Die Transkulturalität des Kommunistischen Manifests. Berlin: Frank &amp; Timme, 2025 (Transkulturalität – Translation – Transfer 66). – ISBN 978-3-7329-1118-9. 465 Seiten, € 79,80.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0012/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0012</id>
-    <updated>2026-06-16T15:33:51.927432+00:00</updated>
-    <summary>Authors: Karsten Lorek
-DOI: https://doi.org/10.1515/infodaf-2026-0012
-Pages: Page range: 122-126</summary>
+    <title>Lehren im Team: Studierende als (zukünftige) Akteurinnen und Akteure in der akademischen Lehre</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0070/html"/>
+    <id>https://doi.org/10.1515/infodaf-2026-0070</id>
+    <updated>2026-07-08T08:26:14.280685+00:00</updated>
+    <summary>Authors: Lisa Höfler, Saskia Moritz, Michael Seyfarth
+DOI: https://doi.org/10.1515/infodaf-2026-0070
+Pages: Page range: 381-396</summary>
   </entry>
   <entry>
-    <title>Kreatives und spielerisches Arbeiten in Bildungskontexten[Sammelrezension] Sdroulia, Amalia: Sprachliche, politische und interkulturelle Bildung durch Theater. Ein didaktisches Praxisbeispiel über den Corona- und Wirtschaftscrash. München: iudicium, 2022. – ISBN 978-3-86205-640-8. 104 Seiten, € 19,80. Gregor, Alina Paula: Performance und Irritation. Bielefeld: transcript, 2024. – ISBN 978-3-8376-6853-7. 240 Seiten, € 49,00 [Open Access unterwww.transcript-verlag.de]. García García, Marta (Koord.): Gamification. Tübingen: Narr Francke Attempto, 2023 (Fremdsprachen Lehren und Lernen 52,2). – ISBN 978-3-381-10331-7. 145 Seiten, € 33,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0013/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0013</id>
-    <updated>2026-06-16T15:33:51.927456+00:00</updated>
-    <summary>Authors: Alexandra Ludewig
-DOI: https://doi.org/10.1515/infodaf-2026-0013
-Pages: Page range: 127-130</summary>
+    <title>Pseudoaushandlung in der Plenumsinteraktion: Eine Fallstudie zum Feed-Forward-Sprachhandeln angehender DaF-Lehrender</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0071/html"/>
+    <id>https://doi.org/10.1515/infodaf-2026-0071</id>
+    <updated>2026-07-08T08:26:14.280701+00:00</updated>
+    <summary>Authors: Guiming Tian
+DOI: https://doi.org/10.1515/infodaf-2026-0071
+Pages: Page range: 397-425</summary>
   </entry>
   <entry>
-    <title>Mehrsprachigkeit, Kinder und Jugendliche[Sammelrezension] Jantke, Denise: (Ruhende) Potenziale – Erleben und Nutzen von Mehrsprachigkeit aus Kindersicht. Hamburg: Dr. Kovač, 2025 (Blickpunkt Deutsch als Fremdsprache 8). – ISBN 978-3-339-14362-4. 144 Seiten, € 76,80. Eckardt, Inge Christina: Reflexionen zu Mehrsprachigkeit und Sprachidentität. Eine Rekonstruktion individueller Perspektiven mehrsprachiger Jugendlicher mit Migrationserfahrung. Berlin: De Gruyter, 2024 (DaZ Forschung 28). – ISBN 978-3-11-118545-3. 520 Seiten, € 109,95 [Open Access unterwww.degruyterbrill.com]. Lingk, Lena Alice: Mehrsprachigkeit und Sprachgebrauch. Deutsch als Zweit-sprache in der Unterstützten Kommunikation. Bielefeld: transcript, 2025. – ISBN 978-3-8376-7309-8. 266 Seiten, € 50,00 [Open Access unterwww.transcript-verlag.de].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0014/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0014</id>
-    <updated>2026-06-16T15:33:51.927470+00:00</updated>
-    <summary>Authors: Gunnar Klatt
-DOI: https://doi.org/10.1515/infodaf-2026-0014
-Pages: Page range: 131-136</summary>
+    <title>Authentische Filme und Serien im DaF/DaZ-Unterricht: Lösungsansätze für die wichtigsten Herausforderungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0072/html"/>
+    <id>https://doi.org/10.1515/infodaf-2026-0072</id>
+    <updated>2026-07-08T08:26:14.280717+00:00</updated>
+    <summary>Authors: Walter Renatus Schubach
+DOI: https://doi.org/10.1515/infodaf-2026-0072
+Pages: Page range: 426-447</summary>
   </entry>
   <entry>
-    <title>Gesprochenes Deutsch [Sammelrezension] Murelli, Adriano (Hrsg.): Gesprochenes Deutsch heute. Variation, Wandel, Sprachkontakt. Berlin: De Gruyter, 2025. – ISBN 978-3-11-153235-6. 235 Seiten, € 109,95 [Open Access unterwww.degruyterbrill.com]. Proske, Nadine; Weber, Thilo; Dannerer, Monika; Deppermann, Arnulf (Hrsg.): Gesprochenes Deutsch. Struktur, Variation, Interaktion. Berlin: De Gruyter, 2025 (Jahrbuch des Instituts für Deutsche Sprache 2024). – ISBN 978-3-11-162357-3. 452 Seiten, € 99,95.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0015/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0015</id>
-    <updated>2026-06-16T15:33:51.927482+00:00</updated>
-    <summary>Authors: Manuela von Papen
-DOI: https://doi.org/10.1515/infodaf-2026-0015
-Pages: Page range: 136-139</summary>
-  </entry>
-  <entry>
-    <title>Fachsprachliches Schreiben[Sammelrezension] Friedrich, Felix; Heidenreich, Sharon:Deutsch für Architekten und Bauingenieure. Ein Sprachlehrbuch zur Planung und Durchführung von Bauprojekten mit Vokabeln, Redewendungen und Übungen. 2. Auflage. Wiesbaden: Springer Fachmedien, 2025. – ISBN 978-3-658-46652-7. 205 Seiten, € 34,99. Kux, Christian: Schreiben im Ingenieurberuf. Eine qualitative Langzeitstudie. Lausanne: Peter Lang, 2023. – ISBN 978-3-631-89739-3. 328 Seiten, € 69,95. Vode, Dzifa; Kloha, Johannes; Mangione, Cosimo; Sowa, Frank (Hrsg.): Schreiben lernen und lehren im Studium der Sozialen Arbeit. Bielefeld: wbv Media, 2023 (Theorie und Praxis der Schreibwissenschaft). – ISBN 978-3-7639-7053-7. 204 Seiten, € 36,90.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0016/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0016</id>
-    <updated>2026-06-16T15:33:51.927493+00:00</updated>
-    <summary>Authors: Regina Graßmann
-DOI: https://doi.org/10.1515/infodaf-2026-0016
-Pages: Page range: 140-152</summary>
-  </entry>
-  <entry>
-    <title>Praxisnahe Leitfäden zum Erlernen von Fremdsprachen [Sammelrezension] Lewis, Benny: Fließend in drei Monaten. Wie Sie in kürzester Zeit jede Sprache erlernen. München: mvg, 2015. – ISBN 978-3-86882-562-6. 255 Seiten, € 15,99 [vergriffen]. Frank, Sven: Wie du in 3 Monaten eine neue Sprache lernst. Eine praxis-orientierte Anleitung zum Spracherwerb. Ahrensberg: tredition, 2023. – ISBN 978-3-384-01015-5. 100 Seiten, € 14,50.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0017/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0017</id>
-    <updated>2026-06-16T15:33:51.927506+00:00</updated>
-    <summary>Authors: Raphael Fendrich
-DOI: https://doi.org/10.1515/infodaf-2026-0017
-Pages: Page range: 153-158</summary>
-  </entry>
-  <entry>
-    <title>Kulturstudien und DaF/DaZ [Sammelrezension]  Wolbergs, Julia; Zabel, Rebecca; Altmayer, Claus (Hrsg.): Kulturstudien und Deutsch als Zweitsprache. Tübingen: Stauffenburg, 2024 (Deutsch als Fremd- und Zweitsprache. Schriften des Herder-Instituts 19). – ISBN 978-3-95809-038-5. 201 Seiten, € 49,80. Zabel, Rebecca: Kulturstudien im Fach Deutsch als Fremd- und Zweitsprache. Grundlagen, Forschungs- und Vermittlungspraxis. Berlin: Erich Schmidt, 2024 (Grundlagen Deutsch als Fremd- und Zweitsprache 6). – ISBN 978-3-503-23923-8. 336 Seiten, € 22,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0018/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0018</id>
-    <updated>2026-06-16T15:33:51.927518+00:00</updated>
-    <summary>Authors: Arno Gimber
-DOI: https://doi.org/10.1515/infodaf-2026-0018
-Pages: Page range: 158-163</summary>
-  </entry>
-  <entry>
-    <title>Deutsche Geschichte [Sammelrezension] Winkler, Heinrich August: Wie wir wurden, was wir sind. Eine kurze Geschichte der Deutschen. 4. durchgesehene Auflage. München: C. H. Beck, 2023. – ISBN 978-3-406-83108-9. 255 Seiten, € 16,00. Steinacher, Roland; Donecker, Stefan; Oelze, Patrick; Domzalski, Oliver Thomas; Mollenbauer, Daniel; Raßloff, Steffen; Gehler, Michael: Deutsche Geschichte. Die große Bildenzyklopädie. Aktualisierte und erweiterte Neuausgabe. Leipzig: DK, 2024. – ISBN 978-3-8310-4899-1. 407 Seiten, € 49,95.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0019/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0019</id>
-    <updated>2026-06-16T15:33:51.927530+00:00</updated>
-    <summary>Authors: Lesław Tobiasz
-DOI: https://doi.org/10.1515/infodaf-2026-0019
-Pages: Page range: 164-167</summary>
-  </entry>
-  <entry>
-    <title>Amorocho, Simone: Mündliche Prüfungen in der Pflegeausbildung. Eine gesprächsanalytische Studie zu sprachlichen und interaktionalen Anforderungen. Berlin: Erich Schmidt, 2024 (Studien Deutsch als Fremd- und Zweitsprache 19). – ISBN 978-3-503-21220-0. 596 Seiten, € 128,00 [Open Access unterwww.esv.info].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0020/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0020</id>
-    <updated>2026-06-16T15:33:51.927542+00:00</updated>
-    <summary>Authors: Karl-Walter Florin
-DOI: https://doi.org/10.1515/infodaf-2026-0020
-Pages: Page range: 168-175</summary>
-  </entry>
-  <entry>
-    <title>Badr, Muhammad Sulaiman: Übersetzen und Dolmetschen. Ein Handbuch aus der Praxis. Würzburg: Königshausen &amp; Neumann, 2025. – ISBN 978-3-8260-9118-6 (eBook). 444 Seiten, € 38,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0021/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0021</id>
-    <updated>2026-06-16T15:33:51.927554+00:00</updated>
-    <summary>Authors: Werner L. Heidermann
-DOI: https://doi.org/10.1515/infodaf-2026-0021
-Pages: Page range: 175-179</summary>
-  </entry>
-  <entry>
-    <title>Ballestracci, Sabrina; Introna, Silvia (Hrsg.): Spracherwerb in DaZ und DaF – Forschung, Didaktik, Praxis. Berlin: Frank &amp; Timme, 2024. – ISBN 978-3-7329-0933-9. 232 Seiten, € 39,80.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0022/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0022</id>
-    <updated>2026-06-16T15:33:51.927564+00:00</updated>
-    <summary>Authors: Yuwen Hua
-DOI: https://doi.org/10.1515/infodaf-2026-0022
-Pages: Page range: 180-182</summary>
-  </entry>
-  <entry>
-    <title>Bassnett, Susan; Johnston, David (Hrsg.): Debates in Translation Studies. London: Routledge, 2025. – ISBN 978-0-367-61234-4. 222 Seiten, € 46,10.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0023/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0023</id>
-    <updated>2026-06-16T15:33:51.927575+00:00</updated>
-    <summary>Authors: Alexandra Ludewig
-DOI: https://doi.org/10.1515/infodaf-2026-0023
-Pages: Page range: 183-186</summary>
-  </entry>
-  <entry>
-    <title>Baum, Luisa; Günay, Gülsüm (Hrsg.): Künstliche Intelligenz in DaF/DaZ. Berlin: Frank &amp; Timme, 2025 (DaF/DaZ in Forschung und Lehre 7). – ISBN 978-3-7329-8749-8. 256 Seiten, € 29,80 [Open Access unterwww.frank-timme.de].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0024/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0024</id>
-    <updated>2026-06-16T15:33:51.927586+00:00</updated>
-    <summary>Authors: Caroline Köhncke
-DOI: https://doi.org/10.1515/infodaf-2026-0024
-Pages: Page range: 186-189</summary>
-  </entry>
-  <entry>
-    <title>Becker-Mrotzek, Michael; Gogolin, Ingrid; Roth, Hans-Joachim; Stanat, Petra (Hrsg.): Grundlagen der sprachlichen Bildung. Münster: Waxmann, 2023 (Sprachliche Bildung 10). – ISBN 978-3-8309-4775-2. 304 Seiten, € 36,90 [Open Access unterwww.waxmann.com].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0025/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0025</id>
-    <updated>2026-06-16T15:33:51.927597+00:00</updated>
-    <summary>Authors: Bärbel Kühn
-DOI: https://doi.org/10.1515/infodaf-2026-0025
-Pages: Page range: 189-195</summary>
-  </entry>
-  <entry>
-    <title>Böttger, Heiner: Neurodidaktik des frühen Sprachenlernens. Wo die Sprache zuhause ist. 2. Auflage. Bad Heilbrunn: Julius Klinkhardt, 2023 (utb 4654). – ISBN 978-3-8252-6122-1. 260 Seiten, € 24,90.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0026/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0026</id>
-    <updated>2026-06-16T15:33:51.927608+00:00</updated>
-    <summary>Authors: Frank Nickel
-DOI: https://doi.org/10.1515/infodaf-2026-0026
-Pages: Page range: 196-199</summary>
-  </entry>
-  <entry>
-    <title>Böttinger, Anja: Binnendifferenzierung im Alphabetisierungskurs im Bereich Deutsch als Zweitsprache. Berlin: Peter Lang, 2023 (DaZ und DaF in der Diskussion 17). – ISBN 978-3-631-89647-1. 304 Seiten, € 59,99 [Open Access unterwww.peterlang.com].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0027/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0027</id>
-    <updated>2026-06-16T15:33:51.927619+00:00</updated>
-    <summary>Authors: Stefanie Magdalene Helbert
-DOI: https://doi.org/10.1515/infodaf-2026-0027
-Pages: Page range: 200-203</summary>
-  </entry>
-  <entry>
-    <title>Bredel, Ursula: Das Schriftsystem des Deutschen. Graphetik – Graphematik – Orthographie – Erwerb. Eine Einführung. Berlin: Erich Schmidt, 2024 (Grundlagen der Germanistik 67). – ISBN 978-3-503-23683-1. 361 Seiten, € 29,95.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0028/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0028</id>
-    <updated>2026-06-16T15:33:51.927630+00:00</updated>
-    <summary>Authors: Peter Paschke
-DOI: https://doi.org/10.1515/infodaf-2026-0028
-Pages: Page range: 204-208</summary>
-  </entry>
-  <entry>
-    <title>Buck, Isabella: Wissenschaftliches Schreiben mit KI. Tübingen: UVK, 2025 (utb Schlüsselkompetenzen 6365). – ISBN 978-3-8252-6365-2. 242 Seiten, € 22,90.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0029/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0029</id>
-    <updated>2026-06-16T15:33:51.927640+00:00</updated>
-    <summary>Authors: Marcos Araújo Filho
-DOI: https://doi.org/10.1515/infodaf-2026-0029
-Pages: Page range: 208-210</summary>
-  </entry>
-  <entry>
-    <title>Czachur, Waldemar; Jóskowiak, Przemysław; Kosacka, Małgorzata; Piszczatowski, Paweł (Hrsg.): Germanistik neu denken. Aktuelle Herausforderungen und Zukunftsstrategien. Wiesbaden: Harrassowitz, 2024. – ISBN 978-3-447-12246-7. 246 Seiten, € 58,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0030/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0030</id>
-    <updated>2026-06-16T15:33:51.927652+00:00</updated>
-    <summary>Authors: Mariusz Jakosz
-DOI: https://doi.org/10.1515/infodaf-2026-0030
-Pages: Page range: 211-214</summary>
-  </entry>
-  <entry>
-    <title>Dengler, Stefanie;Sieber, Tanja;Rusch, Paul;Schmitz, Helen: Netzwerk neu A1 –Hybride Ausgabe allango. Deutsch als Fremdsprache. Kursbuch mit Audios und Videos inklusive Lizenzschlüssel allango (24 Monate). Stuttgart: Ernst Klett Sprachen, 2024. – ISBN 978-3-12-607147-5. 176 Seiten, € 22,99. Dengler, Stefanie; Sieber, Tanja; Rusch, Paul; Schmitz, Helen: Netzwerk neu A1 – Deutsch als Fremdsprache. Übungsbuch mit Audios. Stuttgart: Ernst Klett Sprachen, 2024. – ISBN978-3-12-607157-4. 176 Seiten, € 18,50. Pilaski, Anna; Wirth, Katja: Netzwerk neu A1 – Unterrichtshandbuch mit Extras zur Digitalen Ausgabe in allango. Stuttgart: Ernst Klett Sprachen, 2024. – ISBN 978-3-12-607160-4. 136 Seiten, € 24,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0031/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0031</id>
-    <updated>2026-06-16T15:33:51.927664+00:00</updated>
-    <summary>Authors: Anke Hilt
-DOI: https://doi.org/10.1515/infodaf-2026-0031
-Pages: Page range: 215-218</summary>
-  </entry>
-  <entry>
-    <title>Deppermann, Arnulf; Fandrych, Christian; Kupietz, Marc; Schmidt, Thomas (Hrsg.): Korpora in der germanistischen Sprachwissenschaft. Mündlich, schriftlich, multimedial. Berlin: De Gruyter, 2023 (Jahrbuch des Instituts für Deutsche Sprache 2022). – ISBN 978-3-11-108537-1. 262 Seiten, € 99,95.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0032/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0032</id>
-    <updated>2026-06-16T15:33:51.927675+00:00</updated>
-    <summary>Authors: Zhoufeng Wang
-DOI: https://doi.org/10.1515/infodaf-2026-0032
-Pages: Page range: 218-222</summary>
-  </entry>
-  <entry>
-    <title>Deutsche Akademie für Sprache und Dichtung; Union der deutschen Akademien der Wissenschaften (Hrsg.): Deutsch in Europa: Vielfalt, Sprachnormen und Sprachgebrauch. Vierter Bericht zur Lage der deutschen Sprache. Tübingen: Narr Francke Attempto, 2025. – ISBN 978-3-381-13521-9. 412 Seiten, € 29,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0033/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0033</id>
-    <updated>2026-06-16T15:33:51.927686+00:00</updated>
-    <summary>Authors: Christian Krekeler
-DOI: https://doi.org/10.1515/infodaf-2026-0033
-Pages: Page range: 222-225</summary>
-  </entry>
-  <entry>
-    <title>Diemer, Stefan (Hrsg.): Sprache und Essen. Ansichten einer linguistischen Kulinaristik. Würzburg: Königshausen &amp; Neumann, 2025. – ISBN 978-3-8260-7737-1. 428 Seiten, € 49,80 (Jahrbuch für Kulinaristik 6).</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0034/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0034</id>
-    <updated>2026-06-16T15:33:51.927697+00:00</updated>
-    <summary>Authors: Lutz Köster
-DOI: https://doi.org/10.1515/infodaf-2026-0034
-Pages: Page range: 225-229</summary>
-  </entry>
-  <entry>
-    <title>Efing, Christian; Kalkavan-Aydın, Zeynep (Hrsg.): Berufs- und Fachsprache Deutsch in Wissenschaft und Praxis. Ein Handbuch aus DaF- und DaZ-Perspektive. Berlin: De Gruyter, 2024 (DaZ-Handbücher. Deutsch als Zweitsprache, Mehrsprachigkeit und Migration 3). – ISBN 978-3-11-074544-3. 841 Seiten, € 270,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0035/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0035</id>
-    <updated>2026-06-16T15:33:51.927708+00:00</updated>
-    <summary>Authors: Dorothea Spaniel-Weise
-DOI: https://doi.org/10.1515/infodaf-2026-0035
-Pages: Page range: 230-231</summary>
-  </entry>
-  <entry>
-    <title>Egert, Franziska; Sachse, Steffi; Buschmann, Anke; Cordes, Anne-Kristine: Sprachliche Bildung und Förderung. Kommunikation, Sprache und Mehrsprachigkeit in Kindertageseinrichtungen. Frankfurt am Main: WOCHENSCHAU, 2024 (utb 5837). – ISBN 978-3-8252-5837-5. 296 Seiten, € 26,90.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0036/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0036</id>
-    <updated>2026-06-16T15:33:51.927719+00:00</updated>
-    <summary>Authors: Anja Döscher
-DOI: https://doi.org/10.1515/infodaf-2026-0036
-Pages: Page range: 232-234</summary>
-  </entry>
-  <entry>
-    <title>Engelke, Ulrich; Engelke, Barbara: ChatGPT &amp; Co. in der Schule. Modern unterrichten mit KI. Effizient vorbereiten, lehren, prüfen und korrigieren. Frechen: Mitp, 2025. – ISBN 978-3-7475-0877-0. 296 Seiten, € 27,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0037/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0037</id>
-    <updated>2026-06-16T15:33:51.927729+00:00</updated>
-    <summary>Authors: Julia Augart
-DOI: https://doi.org/10.1515/infodaf-2026-0037
-Pages: Page range: 235-237</summary>
-  </entry>
-  <entry>
-    <title>Falck, Joscha: Effektiv unterrichten mit Künstlicher Intelligenz. Wie Lehrkräfte und Lernende ChatGPT und andere KI-Tools in der Schule erfolgreich einsetzen können. Hamburg: Persen, 2024. – ISBN 978-3-403-51183-0. 71 Seiten, € 26,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0038/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0038</id>
-    <updated>2026-06-16T15:33:51.927740+00:00</updated>
-    <summary>Authors: Benjamin van Well, Yi Li
-DOI: https://doi.org/10.1515/infodaf-2026-0038
-Pages: Page range: 238-240</summary>
-  </entry>
-  <entry>
-    <title>Fandrych, Christian; Thurmair, Maria: Deutsch im Gebrauch: mündlich – schriftlich – medial. Grundlagen und Vermittlung. Berlin: Erich Schmidt, 2025. – ISBN 978-3-503-24059-3. 423 Seiten, € 38,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0039/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0039</id>
-    <updated>2026-06-16T15:33:51.927750+00:00</updated>
-    <summary>Authors: Carolina Flinz
-DOI: https://doi.org/10.1515/infodaf-2026-0039
-Pages: Page range: 240-244</summary>
-  </entry>
-  <entry>
-    <title>Foschi Albert, Marina; Hepp, Marianne: Mehrsprachiges Leseverstehen für Deutsch nach Englisch. Eine Einführung. Berlin: Erich Schmidt, 2024. – ISBN 978-3-503-23896-5. 171 Seiten, € 22,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0040/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0040</id>
-    <updated>2026-06-16T15:33:51.927761+00:00</updated>
-    <summary>Authors: Géraldine Bengsch
-DOI: https://doi.org/10.1515/infodaf-2026-0040
-Pages: Page range: 244-245</summary>
-  </entry>
-  <entry>
-    <title>Franke, Manuela; Lachmund, Anne-Marie: Digitales Lesen im Fremdsprachen-unterricht. Tübingen: Narr Francke Attempto, 2024 (narr starter). – ISBN 978-3-381-10101-6. 92 Seiten, € 15,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0041/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0041</id>
-    <updated>2026-06-16T15:33:51.927772+00:00</updated>
-    <summary>Authors: Meike Adams
-DOI: https://doi.org/10.1515/infodaf-2026-0041
-Pages: Page range: 246-249</summary>
-  </entry>
-  <entry>
-    <title>Furbach, Ulrich; Kitzelmann, Emanuel; Michaeli, Tilman; Schmid, Ute (Hrsg.): Künstliche Intelligenz für Lehrkräfte. Eine fachliche Einführung mit didaktischen Hinweisen. Wiesbaden: Springer Fachmedien, 2024. – ISBN 978-3-658-44247-7. 242 Seiten, € 59,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0042/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0042</id>
-    <updated>2026-06-16T15:33:51.927782+00:00</updated>
-    <summary>Authors: Anja Lange, Guldastan Ismailova
-DOI: https://doi.org/10.1515/infodaf-2026-0042
-Pages: Page range: 250-253</summary>
-  </entry>
-  <entry>
-    <title>Gerlach, David; Lüke, Mareen: (Kritische) Fremdsprachenlehrkraft werden. Tübingen: Narr Francke Attempto, 2024. – ISBN 978-3-381-11671-3. 259 Seiten, € 29,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0043/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0043</id>
-    <updated>2026-06-16T15:33:51.927793+00:00</updated>
-    <summary>Authors: Dörthe Uphoff
-DOI: https://doi.org/10.1515/infodaf-2026-0043
-Pages: Page range: 253-257</summary>
+    <title>Perzeptive Aspekte der Prominenz in der Fremdsprache Deutsch</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0079/html"/>
+    <id>https://doi.org/10.1515/infodaf-2025-0079</id>
+    <updated>2026-07-08T08:26:14.280728+00:00</updated>
+    <summary>Authors: Vincenzo Damiazzi
+DOI: https://doi.org/10.1515/infodaf-2025-0079
+Pages: Page range: 448-470</summary>
   </entry>
   <entry>
     <title>Goschler, Juliane; Rosenberg, Peter; Woerfel, Till (Hrsg.): Empirische Zugänge zu Bildungssprache und bildungssprachlichen Kompetenzen. Wiesbaden: Springer Spektrum, 2024. – ISBN 978-3-658-43736-7. 165 Seiten, € 79,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0044/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0044</id>
-    <updated>2026-06-16T15:33:51.927804+00:00</updated>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-5000/html"/>
+    <id>https://doi.org/10.1515/infodaf-2026-5000</id>
+    <updated>2026-07-08T08:26:14.280739+00:00</updated>
     <summary>Authors: Tülay Altun, Katrin Günther
-DOI: https://doi.org/10.1515/infodaf-2026-0044
-Pages: Page range: 257-261</summary>
-  </entry>
-  <entry>
-    <title>Grub, Frank Thomas (Hrsg.): Kultursensibel unterrichten. Berlin: Erich Schmidt, 2024 (Fremdsprache Deutsch 71). – ISBN 978-3-503-23934-4. 64 Seiten, € 15,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0045/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0045</id>
-    <updated>2026-06-16T15:33:51.927815+00:00</updated>
-    <summary>Authors: Maria Hummel
-DOI: https://doi.org/10.1515/infodaf-2026-0045
-Pages: Page range: 262-265</summary>
-  </entry>
-  <entry>
-    <title>Hille, Almut; Schiedermair, Simone (Hrsg.): Zur Kategorie „Diskurs“ in der Kultur- und Literaturdidaktik des Faches Deutsch als Fremd- und Zweitsprache. München: iudicium, 2023. – ISBN 978-3-86205-739-9. 339 Seiten, € 30,00 [Open Access unter https://iudicium.de].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0046/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0046</id>
-    <updated>2026-06-16T15:33:51.927826+00:00</updated>
-    <summary>Authors: Barbara Schmenk
-DOI: https://doi.org/10.1515/infodaf-2026-0046
-Pages: Page range: 265-267</summary>
-  </entry>
-  <entry>
-    <title>Hille, Almut; Schiedermair, Simone (Hrsg.): Zur Rolle von Mehrdeutigkeiten in der Literaturdidaktik Deutsch als Fremd- und Zweitsprache. München: iudicium, 2024. – ISBN 978-3-86205-741-2. 250 Seiten, € 30,00 [Open Access unter https://iudicium.de].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0047/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0047</id>
-    <updated>2026-06-16T15:33:51.927837+00:00</updated>
-    <summary>Authors: Laura Kiefer
-DOI: https://doi.org/10.1515/infodaf-2026-0047
-Pages: Page range: 267-272</summary>
-  </entry>
-  <entry>
-    <title>Holzer, Johanna: Sprachbiographien. Junge Geflüchtete aus Afghanistan, Iran und Syrien. Berlin: J. B. Metzler, 2025. – ISBN 978-3-662-70576-6 (eBook). 327 Seiten, € 66,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0048/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0048</id>
-    <updated>2026-06-16T15:33:51.927847+00:00</updated>
-    <summary>Authors: Claudia Di Maio
-DOI: https://doi.org/10.1515/infodaf-2026-0048
-Pages: Page range: 273-276</summary>
-  </entry>
-  <entry>
-    <title>Jaki, Sylvia; Steiger, Stefan (Hrsg.): Digitale Hate Speech. Interdisziplinäre Perspektiven auf Erkennung, Beschreibung und Regulation. Berlin: J. B. Metzler, 2023. – ISBN 978-3-662-65963-2. 220 Seiten, € 42,79 [Open Access unter https://link.springer.com].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0049/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0049</id>
-    <updated>2026-06-16T15:33:51.927858+00:00</updated>
-    <summary>Authors: Mariusz Jakosz
-DOI: https://doi.org/10.1515/infodaf-2026-0049
-Pages: Page range: 276-281</summary>
-  </entry>
-  <entry>
-    <title>Jentges, Sabine; Siebold, Kathrin; Adamczak-Krysztofowicz, Sylwia (Hrsg.): Internationale Bildungskooperation im Bereich Deutsch als Fremdsprache. State of the Art &amp; Perspektiven. Göttingen: V&amp;R unipress, 2025. – ISBN 978-3-8471-1755-1. 334 Seiten, € 60,00 [Open Access unterwww.vandenhoeck-ruprecht-verlage.com].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0050/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0050</id>
-    <updated>2026-06-16T15:33:51.927869+00:00</updated>
-    <summary>Authors: Yvonne Delhey
-DOI: https://doi.org/10.1515/infodaf-2026-0050
-Pages: Page range: 281-286</summary>
-  </entry>
-  <entry>
-    <title>Kauper, Tabea; Bernholt, Andrea; Möller, Jens; Köller, Olaf (Hrsg.): PaLea: Professionelle Kompetenzen und Studienstrukturen im Lehramtsstudium. Münster: Waxmann, 2023. – ISBN 978-3-8309-4621-2. 281 Seiten, € 39,90.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0051/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0051</id>
-    <updated>2026-06-16T15:33:51.927880+00:00</updated>
-    <summary>Authors: Yi Li, Benjamin van Well
-DOI: https://doi.org/10.1515/infodaf-2026-0051
-Pages: Page range: 286-289</summary>
-  </entry>
-  <entry>
-    <title>Kırgız, Yaşar: Mehrsprachigkeit im Kontext des Kurmancî-Kurdischen und des Deutschen. Eine Fallstudie aus einer kurdisch-deutschen Kindertagesstätte. Tübingen: Narr Francke Attempto, 2022. – ISBN 978-3-8233-8552-3. 256 Seiten, € 68,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0052/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0052</id>
-    <updated>2026-06-16T15:33:51.927891+00:00</updated>
-    <summary>Authors: Marco Triulzi
-DOI: https://doi.org/10.1515/infodaf-2026-0052
-Pages: Page range: 289-292</summary>
-  </entry>
-  <entry>
-    <title>Koch, Nikolas; Riehl, Claudia Maria: Migrationslinguistik. Eine Einführung. Tübingen: Narr Francke Attempto, 2024. – ISBN 978-3-8233-8517-2. 323 Seiten, € 24,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0053/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0053</id>
-    <updated>2026-06-16T15:33:51.927901+00:00</updated>
-    <summary>Authors: Vanessa Schütz
-DOI: https://doi.org/10.1515/infodaf-2026-0053
-Pages: Page range: 293-298</summary>
-  </entry>
-  <entry>
-    <title>Kucharová, Jana (Hrsg.): Mehrsprachigkeit – Begegnung von Sprache und Kulturen. Multilingualism – The Convergence of Languages and Culture. Hamburg: Dr. Kovač, 2024 (Lingua. Fremdsprachenuntericht in Forschung und Praxis 67). – ISBN 978-3-339-14024-1. 170 Seiten, € 77,80.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0054/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0054</id>
-    <updated>2026-06-16T15:33:51.927912+00:00</updated>
-    <summary>Authors: Gunnar Klatt
-DOI: https://doi.org/10.1515/infodaf-2026-0054
-Pages: Page range: 298-301</summary>
-  </entry>
-  <entry>
-    <title>Liang, Jingfei: Der mühevolle Kampf um die Herkunftssprache. Spracherwerb, Spracherhalt und Bilingualität in der chinesischen Diaspora in Deutschland. München: iudicium, 2024. – ISBN 978-3-86205-657-6. 227 Seiten, € 35,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0055/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0055</id>
-    <updated>2026-06-16T15:33:51.927922+00:00</updated>
-    <summary>Authors: Grit Mehlhorn
-DOI: https://doi.org/10.1515/infodaf-2026-0055
-Pages: Page range: 301-305</summary>
-  </entry>
-  <entry>
-    <title>Lin-Klitzing, Susanne; Di Fuccia, David; Gaube, Thomas (Hrsg.): Die Bedeutung der Bildungssprache Deutsch in der Schule. Bad Heilbrunn: Julius Klinkhardt, 2024 (Gymnasium –Bildung – Gesellschaft 15). – ISBN 978-3-715-2665-5. 184 Seiten, € 19,90.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0056/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0056</id>
-    <updated>2026-06-16T15:33:51.927933+00:00</updated>
-    <summary>Authors: Uwe Fricke
-DOI: https://doi.org/10.1515/infodaf-2026-0056
-Pages: Page range: 305-311</summary>
-  </entry>
-  <entry>
-    <title>Mackowiak, Klaus: Kann Spuren von Latein enthalten. Kleines Lexikon deutscher Wörter lateinischer Herkunft. Von abkanzeln bis Zwiebel. München: C. H. Beck, 2023. – ISBN 978-3-406-80857-9 (eBook). 174 Seiten, € 10,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0057/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0057</id>
-    <updated>2026-06-16T15:33:51.927944+00:00</updated>
-    <summary>Authors: Alexandra Ludewig
-DOI: https://doi.org/10.1515/infodaf-2026-0057
-Pages: Page range: 312-316</summary>
-  </entry>
-  <entry>
-    <title>Mainzer, Klaus (Hrsg.): Philosophisches Handbuch Künstliche Intelligenz. Wiesbaden: Springer Fachmedien, 2024. – ISBN 978-3-658-19606-6 (eBook). 935 Seiten, € 100,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0058/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0058</id>
-    <updated>2026-06-16T15:33:51.927954+00:00</updated>
-    <summary>Authors: Morten Debald
-DOI: https://doi.org/10.1515/infodaf-2026-0058
-Pages: Page range: 316-319</summary>
-  </entry>
-  <entry>
-    <title>Meier, Jörg; Blaschitz, Verena; Dirim, İnci (Hrsg.): Handbuch Mehrsprachigkeit und soziale Teilhabe. Interdisziplinäre Zugänge. Bad Heilbrunn: Julius Klinkhardt, 2024 (utb 6306). – ISBN 978-3-8252-6306-5. 525 Seiten, € 38,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0059/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0059</id>
-    <updated>2026-06-16T15:33:51.927965+00:00</updated>
-    <summary>Authors: Mariana K. Andrade e Silva
-DOI: https://doi.org/10.1515/infodaf-2026-0059
-Pages: Page range: 319-323</summary>
-  </entry>
-  <entry>
-    <title>Muñoz-Basols, Javier; Fuertes Gutiérrez, Mara; Cerezo, Luis (Hrsg.): Technology-Mediated Language Teaching. From Social Justice to Artificial Intelligence. Bristol: Multilingual Matters, 2025. – ISBN 978-1-80041-986-5. 344 Seiten, € 47,95 [Open Access unterwww.multilingual-matters.com].</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0060/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0060</id>
-    <updated>2026-06-16T15:33:51.927975+00:00</updated>
-    <summary>Authors: Géraldine Bengsch
-DOI: https://doi.org/10.1515/infodaf-2026-0060
-Pages: Page range: 323-327</summary>
-  </entry>
-  <entry>
-    <title>Rezat, Sara; Grundler, Elke; Feilke, Helmuth; Schmölzer-Eibinger, Sabine (Hrsg.): Textprozeduren in Spannungsfeldern. Tübingen: Stauffenburg, 2024. – ISBN 978-3-95809-173-3. 268 Seiten, € 49,80.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0061/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0061</id>
-    <updated>2026-06-16T15:33:51.927986+00:00</updated>
-    <summary>Authors: Brigitte Widmann
-DOI: https://doi.org/10.1515/infodaf-2026-0061
-Pages: Page range: 327-329</summary>
-  </entry>
-  <entry>
-    <title>Schlabach, Joachim; Bradlaw, Constanze; Hufeisen, Britta (Hrsg.): Mehrsprachenlernen in gesellschaftlichen und institutionellen Kontexten. Deutsch als Fremd- und Zweitsprache im Fokus der Mehrsprachendebatte. Tübingen: Narr Francke Attempto, 2024. – ISBN 978-3-8233-8439-7. 391 Seiten, € 34,99.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0062/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0062</id>
-    <updated>2026-06-16T15:33:51.927997+00:00</updated>
-    <summary>Authors: Dana Engel
-DOI: https://doi.org/10.1515/infodaf-2026-0062
-Pages: Page range: 330-334</summary>
-  </entry>
-  <entry>
-    <title>Schreiber, Michael: Kontrastive Linguistik. Französisch – Italienisch – Spanisch – Deutsch. Eine Einführung. Berlin: Erich Schmidt, 2023 (Grundlagen der Romanistik 32). – ISBN 978-3-503-23705-0. 193 Seiten, € 22,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0063/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0063</id>
-    <updated>2026-06-16T15:33:51.928008+00:00</updated>
-    <summary>Authors: Beate Lak
-DOI: https://doi.org/10.1515/infodaf-2026-0063
-Pages: Page range: 335-342</summary>
-  </entry>
-  <entry>
-    <title>Strätz, Theresa: Mixed-Methods-Designs in der Spracherwerbsforschung. Eine multiperspektivische Untersuchung des Empathieausdrucks von Kindern. Berlin: Frank &amp; Timme, 2024. – ISBN 978-3-7329-1096-0. 304 Seiten, € 49,80.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0064/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0064</id>
-    <updated>2026-06-16T15:33:51.928018+00:00</updated>
-    <summary>Authors: Caroline Köhncke
-DOI: https://doi.org/10.1515/infodaf-2026-0064
-Pages: Page range: 342-345</summary>
-  </entry>
-  <entry>
-    <title>Wang, Zhoufeng: Chunks in der gesprochenen Wissenschaftssprache des Deutschen. Eine korpusbasierte Studie. Berlin: Erich Schmidt, 2025 (Studien Deutsch als Fremd- und Zweitsprache 22). – ISBN 978-3-503-24006-7. 328 Seiten, € 79,95.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0065/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0065</id>
-    <updated>2026-06-16T15:33:51.928029+00:00</updated>
-    <summary>Authors: Gunther Dietz
-DOI: https://doi.org/10.1515/infodaf-2026-0065
-Pages: Page range: 345-349</summary>
-  </entry>
-  <entry>
-    <title>Wienen, Ursula: Translation von Fachsprache in literarischen Texten. 2., durchgesehene und ergänzte Auflage. Berlin: Frank &amp; Timme, 2025. – ISBN 978-3-7329-1142-4. 528 Seiten, € 88,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0066/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0066</id>
-    <updated>2026-06-16T15:33:51.928040+00:00</updated>
-    <summary>Authors: Alexandra Ludewig
-DOI: https://doi.org/10.1515/infodaf-2026-0066
-Pages: Page range: 349-352</summary>
-  </entry>
-  <entry>
-    <title>Wiesinger, Peter: Österreichisches Deutsch kompakt. Geschichte und Gegenwart. Herausgegeben von Peter Ernst. Wien: Praesens, 2024. – ISBN 978-3-7069-1177-1. 216 Seiten, € 26,50.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0067/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0067</id>
-    <updated>2026-06-16T15:33:51.928050+00:00</updated>
-    <summary>Authors: Claudia Di Maio
-DOI: https://doi.org/10.1515/infodaf-2026-0067
-Pages: Page range: 353-356</summary>
-  </entry>
-  <entry>
-    <title>Yang, Mengying: Effektivität von Vokabellernstrategien im DaF-Unterricht in China. München: iudicium, 2024. – ISBN 978-3-86205-539-5. 311 Seiten, € 48,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2026-0068/html"/>
-    <id>https://doi.org/10.1515/infodaf-2026-0068</id>
-    <updated>2026-06-16T15:33:51.928060+00:00</updated>
-    <summary>Authors: Johannes Gereons
-DOI: https://doi.org/10.1515/infodaf-2026-0068
-Pages: Page range: 356-360</summary>
+DOI: https://doi.org/10.1515/infodaf-2026-5000
+Pages: Page range: 471-471</summary>
   </entry>
 </feed>
