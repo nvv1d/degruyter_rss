@@ -1,163 +1,163 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lebende Sprachen...</title>
-  <link href="https://www.degruyterbrill.com/journal/key/les/70/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/les/71/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/les.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/les/html" rel="related"/>
-  <updated>2026-06-16T15:34:38.845586+00:00</updated>
+  <updated>2026-07-09T09:37:55.869593+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/les.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Lebende Sprachen... (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/les-2025-frontmatter2</id>
-    <updated>2026-06-16T15:34:38.845618+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/les-2025-frontmatter2
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/les-2026-frontmatter1</id>
+    <updated>2026-07-09T09:37:55.869626+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/les-2026-frontmatter1
 Pages: Page range: I-VI</summary>
   </entry>
   <entry>
-    <title>Herausforderungen und Chancen kultureller Missverständnisse: Literarische und linguistische Perspektiven</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0048/html"/>
-    <id>https://doi.org/10.1515/les-2025-0048</id>
-    <updated>2026-06-16T15:34:38.845632+00:00</updated>
-    <summary>Authors: Dominique Dias, Nadine Rentel, Stephanie Schwerter
-DOI: https://doi.org/10.1515/les-2025-0048
-Pages: Page range: 331-339</summary>
+    <title>Lebende Sprachen in Zeiten stochastischer Texte – ein Rück- und Ausblick zum Anlass des Jubiläumsjahres</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0033/html"/>
+    <id>https://doi.org/10.1515/les-2026-0033</id>
+    <updated>2026-07-09T09:37:55.869639+00:00</updated>
+    <summary>Authors: Ralph Krüger
+DOI: https://doi.org/10.1515/les-2026-0033
+Pages: Page range: 1-9</summary>
   </entry>
   <entry>
-    <title>Kunstsprachen, kulturelle Übersetzung und produktives Missverstehen in Zé do Rocks „lexikon üba vorurteile un andre teile“</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0047/html"/>
-    <id>https://doi.org/10.1515/les-2025-0047</id>
-    <updated>2026-06-16T15:34:38.845644+00:00</updated>
-    <summary>Authors: Myriam Geiser, Dominique Dias
-DOI: https://doi.org/10.1515/les-2025-0047
-Pages: Page range: 340-362</summary>
+    <title>Lebende Sprachen1935 – Eine kurze Premiere</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0027/html"/>
+    <id>https://doi.org/10.1515/les-2026-0027</id>
+    <updated>2026-07-09T09:37:55.869650+00:00</updated>
+    <summary>Authors: Anke Lutz
+DOI: https://doi.org/10.1515/les-2026-0027
+Pages: Page range: 10-49</summary>
   </entry>
   <entry>
-    <title>Kulturelle Missverständnisse in der Übersetzung französischer Migrationsliteratur</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0049/html"/>
-    <id>https://doi.org/10.1515/les-2025-0049</id>
-    <updated>2026-06-16T15:34:38.845655+00:00</updated>
-    <summary>Authors: Stephanie Schwerter
-DOI: https://doi.org/10.1515/les-2025-0049
-Pages: Page range: 363-383</summary>
+    <title>Die Geschichte der Zeitschrift Lebende Sprachen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0026/html"/>
+    <id>https://doi.org/10.1515/les-2026-0026</id>
+    <updated>2026-07-09T09:37:55.869661+00:00</updated>
+    <summary>Authors: Peter A. Schmitt
+DOI: https://doi.org/10.1515/les-2026-0026
+Pages: Page range: 50-90</summary>
   </entry>
   <entry>
-    <title>Interkulturelles Missverstehen der sozialen Distanz: Zu den interkulturellen Implikationen der Übersetzung pronominaler Anredeformen am Beispiel des KriminalromansKinesenvon Henning Mankell und seiner Übersetzungen ins Deutsche, Niederländische, Französische, Spanische, Russische und Tschechische</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0052/html"/>
-    <id>https://doi.org/10.1515/les-2025-0052</id>
-    <updated>2026-06-16T15:34:38.845667+00:00</updated>
-    <summary>Authors: Thomas Johnen
-DOI: https://doi.org/10.1515/les-2025-0052
-Pages: Page range: 384-411</summary>
+    <title>Leichte und Einfache Sprache: Ein komplexer Diskurs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0013/html"/>
+    <id>https://doi.org/10.1515/les-2026-0013</id>
+    <updated>2026-07-09T09:37:55.869671+00:00</updated>
+    <summary>Authors: Paul Mayr, Christine Konecny, Verena Thaler
+DOI: https://doi.org/10.1515/les-2026-0013
+Pages: Page range: 91-119</summary>
   </entry>
   <entry>
-    <title>Über translatorische Herausforderungen, die Verflechtung kultureller und subkultureller Referenzrahmen und interkulturelle Missverständnisse: Amanda Gormans virales InaugurationsgedichtThe Hill We Climb</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0054/html"/>
-    <id>https://doi.org/10.1515/les-2025-0054</id>
-    <updated>2026-06-16T15:34:38.845677+00:00</updated>
-    <summary>Authors: Britta C. Jung
-DOI: https://doi.org/10.1515/les-2025-0054
-Pages: Page range: 412-434</summary>
+    <title>Institutions facing the challenge of language accessibility: Insights from Switzerland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0011/html"/>
+    <id>https://doi.org/10.1515/les-2026-0011</id>
+    <updated>2026-07-09T09:37:55.869682+00:00</updated>
+    <summary>Authors: Annarita Felici, Eugenia Portioli
+DOI: https://doi.org/10.1515/les-2026-0011
+Pages: Page range: 120-156</summary>
   </entry>
   <entry>
-    <title>Materialität und fehlendes Verständnis kultureller Dimensionen von Texten</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0053/html"/>
-    <id>https://doi.org/10.1515/les-2025-0053</id>
-    <updated>2026-06-16T15:34:38.845688+00:00</updated>
-    <summary>Authors: Anne-Laure Daux-Combaudon
-DOI: https://doi.org/10.1515/les-2025-0053
-Pages: Page range: 435-457</summary>
+    <title>„Einfache Sprache ... betreutes Denken. Viel Glück!“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0005/html"/>
+    <id>https://doi.org/10.1515/les-2026-0005</id>
+    <updated>2026-07-09T09:37:55.869693+00:00</updated>
+    <summary>Authors: Marco Agnetta
+DOI: https://doi.org/10.1515/les-2026-0005
+Pages: Page range: 157-192</summary>
   </entry>
   <entry>
-    <title>Der Offene Brief in der politischen Kommunikation: kontrastive Betrachtungen einer politischen Textsorte am Beispiel populistischer Parteien</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0051/html"/>
-    <id>https://doi.org/10.1515/les-2025-0051</id>
-    <updated>2026-06-16T15:34:38.845699+00:00</updated>
-    <summary>Authors: Judith Visser
-DOI: https://doi.org/10.1515/les-2025-0051
-Pages: Page range: 458-480</summary>
+    <title>Relativsätze undpropositions relatives, Passivkonstruktionen undconstructions passives: Immer vermeiden?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0007/html"/>
+    <id>https://doi.org/10.1515/les-2026-0007</id>
+    <updated>2026-07-09T09:37:55.869703+00:00</updated>
+    <summary>Authors: Martina Nicklaus
+DOI: https://doi.org/10.1515/les-2026-0007
+Pages: Page range: 193-223</summary>
   </entry>
   <entry>
-    <title>Das Vermeiden kultureller Missverständnisse unter Berücksichtigung kulturspezifischer Erwartungen in der Tourismuswerbung. Ein deutsch-französischer Vergleich der Webseiten desClub Med</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0050/html"/>
-    <id>https://doi.org/10.1515/les-2025-0050</id>
-    <updated>2026-06-16T15:34:38.845709+00:00</updated>
-    <summary>Authors: Nadine Rentel
-DOI: https://doi.org/10.1515/les-2025-0050
-Pages: Page range: 481-500</summary>
+    <title>Linguistic features of Easy French (Facile à lire et à comprendre) – A corpus-based study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0008/html"/>
+    <id>https://doi.org/10.1515/les-2026-0008</id>
+    <updated>2026-07-09T09:37:55.869712+00:00</updated>
+    <summary>Authors: Julia Degenhardt
+DOI: https://doi.org/10.1515/les-2026-0008
+Pages: Page range: 224-253</summary>
   </entry>
   <entry>
-    <title>Italienische Chat- und E-Mail-Kommunikation vor dem Hintergrund der Covid-19-Pandemie: Organisationale Entscheidungskommunikation, Kommunikationsformen, gendergerechte Sprache und Lexik im Wandel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0005/html"/>
-    <id>https://doi.org/10.1515/les-2025-0005</id>
-    <updated>2026-06-16T15:34:38.845719+00:00</updated>
-    <summary>Authors: Miriam P. Leibbrand
-DOI: https://doi.org/10.1515/les-2025-0005
-Pages: Page range: 501-537</summary>
+    <title>Prompting Leichte Sprache: Effizienz und Qualität beim Einsatz generativer KI für die intralinguale Übersetzung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0009/html"/>
+    <id>https://doi.org/10.1515/les-2026-0009</id>
+    <updated>2026-07-09T09:37:55.869723+00:00</updated>
+    <summary>Authors: Fabian Merkel, Silke Gutermuth, Silvia Hansen-Schirra
+DOI: https://doi.org/10.1515/les-2026-0009
+Pages: Page range: 254-273</summary>
   </entry>
   <entry>
-    <title>ChatGPT zur Textproduktion und -korrektur im Französischunterricht der Sekundarstufe II – Unterrichtskonzeption und (video-)datenbasierte Befunde zu lernendenseitigen Bearbeitungs- und Reflexionsprozessen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0039/html"/>
-    <id>https://doi.org/10.1515/les-2025-0039</id>
-    <updated>2026-06-16T15:34:38.845749+00:00</updated>
-    <summary>Authors: Johanna Lea Korell, Maximilian Irion, Roland Ißler
-DOI: https://doi.org/10.1515/les-2025-0039
-Pages: Page range: 538-563</summary>
+    <title>Plain Italian and AI: Strengths and weaknesses of automatic linguistic simplification</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0003/html"/>
+    <id>https://doi.org/10.1515/les-2026-0003</id>
+    <updated>2026-07-09T09:37:55.869744+00:00</updated>
+    <summary>Authors: Giuliana Fiorentino, Marco Russodivito
+DOI: https://doi.org/10.1515/les-2026-0003
+Pages: Page range: 274-303</summary>
   </entry>
   <entry>
-    <title>Are ChatGPT, Gemini and DeepSeek adequate for intralingual translation of clinical reports in Spanish? A readability quantitative study</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0026/html"/>
-    <id>https://doi.org/10.1515/les-2025-0026</id>
-    <updated>2026-06-16T15:34:38.845761+00:00</updated>
-    <summary>Authors: Adriana M. Godoy-Lorenzatto
-DOI: https://doi.org/10.1515/les-2025-0026
-Pages: Page range: 564-581</summary>
+    <title>Translationswissenschaftliche Aspekte der Übersetzung in Leichte Sprache unter Berücksichtigung von ChatGPT</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0006/html"/>
+    <id>https://doi.org/10.1515/les-2026-0006</id>
+    <updated>2026-07-09T09:37:55.869755+00:00</updated>
+    <summary>Authors: Eva Wiesmann
+DOI: https://doi.org/10.1515/les-2026-0006
+Pages: Page range: 304-346</summary>
   </entry>
   <entry>
-    <title>Categorización de problemas de traducción en certificaciones académicas universitarias de los Estados Unidos: Importancia de las categorías transversales</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0033/html"/>
-    <id>https://doi.org/10.1515/les-2024-0033</id>
-    <updated>2026-06-16T15:34:38.845771+00:00</updated>
-    <summary>Authors: Mariana Relinque, Julia Lobato
-DOI: https://doi.org/10.1515/les-2024-0033
-Pages: Page range: 582-606</summary>
+    <title>A readability index benchmark for Italian Plain and Easy Language texts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0002/html"/>
+    <id>https://doi.org/10.1515/les-2026-0002</id>
+    <updated>2026-07-09T09:37:55.869764+00:00</updated>
+    <summary>Authors: Floriana C. Sciumbata
+DOI: https://doi.org/10.1515/les-2026-0002
+Pages: Page range: 347-364</summary>
   </entry>
   <entry>
-    <title>Implizit trotz maximaler Explizitheit: Beobachtungen und Überlegungen zum Funktions- und Wirkungspotential von Implikaturen am Beispiel von Swisstransplant</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0014/html"/>
-    <id>https://doi.org/10.1515/les-2025-0014</id>
-    <updated>2026-06-16T15:34:38.845782+00:00</updated>
-    <summary>Authors: Paul Mayr
-DOI: https://doi.org/10.1515/les-2025-0014
-Pages: Page range: 607-652</summary>
+    <title>Adressatenorientierung als Rahmen für das Schreiben von Texten in Leichter Sprache</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0004/html"/>
+    <id>https://doi.org/10.1515/les-2026-0004</id>
+    <updated>2026-07-09T09:37:55.869774+00:00</updated>
+    <summary>Authors: Katrin Burkhalter, Bernadette Rieder
+DOI: https://doi.org/10.1515/les-2026-0004
+Pages: Page range: 365-393</summary>
   </entry>
   <entry>
-    <title>Escavy Zamora, Ricardo/Hernández Sánchez, Eulalia/López Martínez, Mª Isabel (2024).La pragmática.Antecedentes y emergencia como disciplina. Murcia (España): Editum. Servicio de Publicaciones Universidad de Murcia, 320 páginas, ISBN: 978-84-10172-17-3.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0033/html"/>
-    <id>https://doi.org/10.1515/les-2025-0033</id>
-    <updated>2026-06-16T15:34:38.845792+00:00</updated>
-    <summary>Authors: Aina Torrent i Alamany-Lenzen
-DOI: https://doi.org/10.1515/les-2025-0033
-Pages: Page range: 653-658</summary>
+    <title>Simplification et inclusion dans les pages du site du ministère de l’Europe et des Affaires étrangères traduites en FALC</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0010/html"/>
+    <id>https://doi.org/10.1515/les-2026-0010</id>
+    <updated>2026-07-09T09:37:55.869785+00:00</updated>
+    <summary>Authors: Alida Maria Silletti
+DOI: https://doi.org/10.1515/les-2026-0010
+Pages: Page range: 394-419</summary>
   </entry>
   <entry>
-    <title>Bernal, Elisenda (2024) (Ed.):Col·loquial(s): Estudis de l’ús del català actual. Leipzig: Leipziger Universitätsverlag, 180 pages, ISBN: 978-3-96023-606-1.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0034/html"/>
-    <id>https://doi.org/10.1515/les-2025-0034</id>
-    <updated>2026-06-16T15:34:38.845802+00:00</updated>
-    <summary>Authors: Adriana Raya Palmer
-DOI: https://doi.org/10.1515/les-2025-0034
-Pages: Page range: 659-662</summary>
+    <title>Fachübergreifende Lexik und sprachliche Zugänglichkeit im Deutschen aus gebrauchsbasierter Perspektive</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0012/html"/>
+    <id>https://doi.org/10.1515/les-2026-0012</id>
+    <updated>2026-07-09T09:37:55.869795+00:00</updated>
+    <summary>Authors: Cordula Meißner
+DOI: https://doi.org/10.1515/les-2026-0012
+Pages: Page range: 420-449</summary>
   </entry>
   <entry>
-    <title>Posedición y paridad humano-máquina en traducción automática neuronal: Un estudio empírico desde la traducción profesional</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0800/html"/>
-    <id>https://doi.org/10.1515/les-2025-0800</id>
-    <updated>2026-06-16T15:34:38.845813+00:00</updated>
-    <summary>Authors: Cristina Toledo-Báez
-DOI: https://doi.org/10.1515/les-2025-0800
-Pages: Page range: 663-664</summary>
+    <title>Grammatikschreibung in Einfacher Sprache im ProjektLernGrammis– Ein adaptives Selbstlernangebot für Deutsch als Fremd- und Zweitsprache</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2026-0016/html"/>
+    <id>https://doi.org/10.1515/les-2026-0016</id>
+    <updated>2026-07-09T09:37:55.869806+00:00</updated>
+    <summary>Authors: Giorgio Antonioli
+DOI: https://doi.org/10.1515/les-2026-0016
+Pages: Page range: 450-476</summary>
   </entry>
 </feed>

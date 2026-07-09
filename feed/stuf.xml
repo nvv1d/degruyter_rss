@@ -1,55 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>STUF - Language Typology and Universals...</title>
-  <link href="https://www.degruyterbrill.com/journal/key/stuf/79/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/stuf/79/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/stuf.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/stuf/html" rel="related"/>
-  <updated>2026-06-16T15:35:39.591762+00:00</updated>
+  <updated>2026-07-09T09:38:45.161277+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/stuf.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from STUF - Language Typology and Universals... (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/stuf-2026-frontmatter1</id>
-    <updated>2026-06-16T15:35:39.591807+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/stuf-2026-frontmatter1
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-frontmatter2</id>
+    <updated>2026-07-09T09:38:45.161311+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/stuf-2026-frontmatter2
 Pages: Page range: i-iii</summary>
   </entry>
   <entry>
-    <title>Is the contrasting correlation between the consonantality of conative animal calls and the vocalicity of interjections accidental or motivated? The case of Gorwaa</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2002/html"/>
-    <id>https://doi.org/10.1515/stuf-2026-2002</id>
-    <updated>2026-06-16T15:35:39.591821+00:00</updated>
-    <summary>Authors: Alexander Andrason, Andrew Harvey
-DOI: https://doi.org/10.1515/stuf-2026-2002
-Pages: Page range: 1-39</summary>
+    <title>Rediscovering Papuan languages in New Ireland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-3001/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-3001</id>
+    <updated>2026-07-09T09:38:45.161329+00:00</updated>
+    <summary>Authors: Christoph Holz
+DOI: https://doi.org/10.1515/stuf-2026-3001
+Pages: Page range: 147-190</summary>
   </entry>
   <entry>
-    <title>A variety-driven approach to Goal-Source (a)symmetries</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2001/html"/>
-    <id>https://doi.org/10.1515/stuf-2026-2001</id>
-    <updated>2026-06-16T15:35:39.591833+00:00</updated>
-    <summary>Authors: Maja Robbers
-DOI: https://doi.org/10.1515/stuf-2026-2001
-Pages: Page range: 41-81</summary>
+    <title>Dead and dying duals meet the Agreement Hierarchy: Upper Sorbian clarifies the nature of ‘semantic agreement’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-3002/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-3002</id>
+    <updated>2026-07-09T09:38:45.161342+00:00</updated>
+    <summary>Authors: Greville G. Corbett, Leńka Šołćic
+DOI: https://doi.org/10.1515/stuf-2026-3002
+Pages: Page range: 191-207</summary>
   </entry>
   <entry>
-    <title>Concessive conditionals and language contact: the case of Cappadocian Greek</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2003/html"/>
-    <id>https://doi.org/10.1515/stuf-2026-2003</id>
-    <updated>2026-06-16T15:35:39.591844+00:00</updated>
-    <summary>Authors: Tom Bossuyt, Eline Daveloose
-DOI: https://doi.org/10.1515/stuf-2026-2003
-Pages: Page range: 83-125</summary>
-  </entry>
-  <entry>
-    <title>Lithuanian and the syntactic structure of pseudo-clefts</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-2004/html"/>
-    <id>https://doi.org/10.1515/stuf-2026-2004</id>
-    <updated>2026-06-16T15:35:39.591855+00:00</updated>
-    <summary>Authors: Axel Holvoet
-DOI: https://doi.org/10.1515/stuf-2026-2004
-Pages: Page range: 127-146</summary>
+    <title>-bɔ/-baconstruction in Assamese: its synchrony and diachrony</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2026-3003/html"/>
+    <id>https://doi.org/10.1515/stuf-2026-3003</id>
+    <updated>2026-07-09T09:38:45.161353+00:00</updated>
+    <summary>Authors: Gitanjali Bez
+DOI: https://doi.org/10.1515/stuf-2026-3003
+Pages: Page range: 209-260</summary>
   </entry>
 </feed>

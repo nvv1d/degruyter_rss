@@ -1,133 +1,106 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Language Relationship</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jlr/23/1-2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jlr/23/3-4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jlr.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jlr/html" rel="related"/>
-  <updated>2026-06-16T15:34:20.397345+00:00</updated>
+  <updated>2026-07-09T09:37:40.752054+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jlr.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Journal of Language Relationship (De Gruyter)</subtitle>
   <entry>
-    <title>Titelei</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-frontmatter231-2/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-frontmatter231-2</id>
-    <updated>2026-06-16T15:34:20.397379+00:00</updated>
-    <summary>DOI: https://doi.org/10.31826/jlr-2026-frontmatter231-2
+    <title>Title</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-frontmatter233-4/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-frontmatter233-4</id>
+    <updated>2026-07-09T09:37:40.752091+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/jlr-2026-frontmatter233-4
 Pages: Page range: I-VI</summary>
   </entry>
   <entry>
     <title>Table of Contents / Содержание</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-toc231-2/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-toc231-2</id>
-    <updated>2026-06-16T15:34:20.397393+00:00</updated>
-    <summary>DOI: https://doi.org/10.31826/jlr-2026-toc231-2
-Pages: Page range: VII-VIII</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-toc233-4/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-toc233-4</id>
+    <updated>2026-07-09T09:37:40.752104+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/jlr-2026-toc233-4
+Pages: Page range: VII-VII</summary>
   </entry>
   <entry>
     <title>Contributors / Сведения об авторах</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-201/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-201</id>
-    <updated>2026-06-16T15:34:20.397405+00:00</updated>
-    <summary>DOI: https://doi.org/10.31826/jlr-2026-231-201
-Pages: Page range: IX-IX</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-401/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-401</id>
+    <updated>2026-07-09T09:37:40.752114+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/jlr-2026-233-401
+Pages: Page range: VIII-VIII</summary>
   </entry>
   <entry>
     <title>Note for Contributors / Будущим авторам</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-202/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-202</id>
-    <updated>2026-06-16T15:34:20.397416+00:00</updated>
-    <summary>DOI: https://doi.org/10.31826/jlr-2026-231-202
-Pages: Page range: X-X</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-402/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-402</id>
+    <updated>2026-07-09T09:37:40.752125+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/jlr-2026-233-402
+Pages: Page range: IX-X</summary>
   </entry>
   <entry>
-    <title>Forms of the West Tocharian copular verb ste and the Proto-Indo-European mediopassive endings / Формы западнотохарского глагола-связки ste и окончания праиндоевропейского медиопассива</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-203/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-203</id>
-    <updated>2026-06-16T15:34:20.397428+00:00</updated>
-    <summary>Authors: Alexander Bezlepkin, А. С. Безлепкин
-DOI: https://doi.org/10.31826/jlr-2026-231-203
-Pages: Page range: 1-16</summary>
+    <title>Sources of lexical replacement and synonymy in Swadesh wordlists for proto-languages / О возможных источниках лексических замен и синонимии в праязыковых списках базисной лексики</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-403/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-403</id>
+    <updated>2026-07-09T09:37:40.752136+00:00</updated>
+    <summary>Authors: Svetlana Burlak
+DOI: https://doi.org/10.31826/jlr-2026-233-403
+Pages: Page range: 187-206</summary>
   </entry>
   <entry>
-    <title>Aryan loanwords in Burushaski as a data source for the reconstruction of language contact in the Upper Indus basin / Арийские заимствования в языке бурушаски как источник данных для реконструкции языковых контактов в верхней части бассейна Инда</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-204/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-204</id>
-    <updated>2026-06-16T15:34:20.397441+00:00</updated>
-    <summary>Authors: Anton Kogan, А. И. Коган
-DOI: https://doi.org/10.31826/jlr-2026-231-204
-Pages: Page range: 17-25</summary>
+    <title>Quantifying lexical distances among Nudiz, Mahmudi, and Verin Dvin Urmi (North-Eastern Neo-Aramaic) / Количественная оценка лексических различий между нудезнайским, мамедайским и верин-двинским урмийским (северо-восточные новоарамейские языки)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-404/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-404</id>
+    <updated>2026-07-09T09:37:40.752148+00:00</updated>
+    <summary>Authors: Elena Shvedova, Yuri Koryakov, Elizaveta Zabelina
+DOI: https://doi.org/10.31826/jlr-2026-233-404
+Pages: Page range: 207-275</summary>
   </entry>
   <entry>
-    <title>Lenition of Proto-Uto-Aztecan *t in Luiseño / Лениция праюто-ацтекского *t в языке луисеньо</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-205/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-205</id>
-    <updated>2026-06-16T15:34:20.397453+00:00</updated>
-    <summary>Authors: Varvara Petrova, В. Д. Петрова
-DOI: https://doi.org/10.31826/jlr-2026-231-205
-Pages: Page range: 26-36</summary>
+    <title>Hurrian and Ugaritic sibilants: Essay of phonetic interpretation / К фонетической интерпретации хурритских и угаритских сибилянтов</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-405/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-405</id>
+    <updated>2026-07-09T09:37:40.752178+00:00</updated>
+    <summary>Authors: Vera Tsukanova, Ilya Yakubovich
+DOI: https://doi.org/10.31826/jlr-2026-233-405
+Pages: Page range: 276-304</summary>
   </entry>
   <entry>
-    <title>Zur Position der lykischen Dichtersprache / К определению статуса ликийского поэтического языка</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-206/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-206</id>
-    <updated>2026-06-16T15:34:20.397464+00:00</updated>
-    <summary>Authors: Diether Schürr, Дитер Шюрр
-DOI: https://doi.org/10.31826/jlr-2026-231-206
-Pages: Page range: 37-50</summary>
+    <title>A phonological reconstruction of Proto-Dâw–Hup / Фонологическая реконструкция праязыка дыу–хупской группы</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-406/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-406</id>
+    <updated>2026-07-09T09:37:40.752191+00:00</updated>
+    <summary>Authors: Andrey Nikulin
+DOI: https://doi.org/10.31826/jlr-2026-233-406
+Pages: Page range: 307-343</summary>
   </entry>
   <entry>
-    <title>Hokan II: Labial and coronal obstruents / Хока II: лабиальные и корональные шумные</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-207/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-207</id>
-    <updated>2026-06-16T15:34:20.397474+00:00</updated>
-    <summary>Authors: Mikhail Zhivlov, М. А. Живлов
-DOI: https://doi.org/10.31826/jlr-2026-231-207
-Pages: Page range: 51-94</summary>
+    <title>Hokan III: Velar obstruents and glottal stop / Хока III: велярные шумные и гортанная смычка</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-407/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-407</id>
+    <updated>2026-07-09T09:37:40.752202+00:00</updated>
+    <summary>Authors: Mikhail Zhivlov
+DOI: https://doi.org/10.31826/jlr-2026-233-407
+Pages: Page range: 344-374</summary>
   </entry>
   <entry>
-    <title>Lexicostatistical studies in Khoisan III/II: Reconstructing a Swadesh wordlist for Proto-Khoe (items 26–50) / Лексикостатистические исследования по койсанским языкам III/2: реконструкция списка Сводеша для працентрально-койсанского (пракхойского) языка (элементы 26–50)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-208/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-208</id>
-    <updated>2026-06-16T15:34:20.397486+00:00</updated>
-    <summary>Authors: George Starostin, Г. С. Старостин
-DOI: https://doi.org/10.31826/jlr-2026-231-208
-Pages: Page range: 97-119</summary>
+    <title>Relative chronology of a series of phonetic changes in Old Indo-Aryan clusters based on data from the Kullui language / Относительная хронология ряда фонетических изменений древнеиндийских кластеров на материале языка куллуи</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-408/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-408</id>
+    <updated>2026-07-09T09:37:40.752213+00:00</updated>
+    <summary>Authors: Anastasia Krylova
+DOI: https://doi.org/10.31826/jlr-2026-233-408
+Pages: Page range: 375-388</summary>
   </entry>
   <entry>
-    <title>К вопросу о пермско-аланских языковых контактах: некоторые новые лексические материалы / On the question of Permian-Alan language contacts: some new lexical materials</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-209/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-209</id>
-    <updated>2026-06-16T15:34:20.397517+00:00</updated>
-    <summary>Authors: С. К. Белых, Sergey Belykh
-DOI: https://doi.org/10.31826/jlr-2026-231-209
-Pages: Page range: 120-136</summary>
-  </entry>
-  <entry>
-    <title>О критериях выявления и стратификации булгаро-чувашских заимствований в пермских языках I / On the criteria for identification and stratification of Bulgar-Chuvash loanwords in Permic I</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-210/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-210</id>
-    <updated>2026-06-16T15:34:20.397529+00:00</updated>
-    <summary>Authors: А. В. Савельев, Alexander Savelyev
-DOI: https://doi.org/10.31826/jlr-2026-231-210
-Pages: Page range: 137-167</summary>
-  </entry>
-  <entry>
-    <title>Развитие прасамодийских последовательностей гласных: место в истории самодийского языка-предка / The development of Proto-Samoyedic vowel sequences and their place in the history of Proto-Samoyed</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-211/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-211</id>
-    <updated>2026-06-16T15:34:20.397540+00:00</updated>
-    <summary>Authors: Л. А. Зайцев, Leonid Zaitsev
-DOI: https://doi.org/10.31826/jlr-2026-231-211
-Pages: Page range: 168-178</summary>
-  </entry>
-  <entry>
-    <title>PATRIZIA DE BERNARDO STEMPEL. The accents of Celtic: New light on the older and oldest stages. Heidelberg: Universitätsverlag Winter, 2023. — xviii + 430 p</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-231-212/html"/>
-    <id>https://doi.org/10.31826/jlr-2026-231-212</id>
-    <updated>2026-06-16T15:34:20.397551+00:00</updated>
-    <summary>Authors: Анастасия Гарнет Романцевски, Anastasia Garnet Romantsevski
-DOI: https://doi.org/10.31826/jlr-2026-231-212
-Pages: Page range: 181-185</summary>
+    <title>Оценка достоверности исходных данных при лексикостатистических расчётах / Evaluating the reliability of source data in lexicostatistical analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2026-233-409/html"/>
+    <id>https://doi.org/10.31826/jlr-2026-233-409</id>
+    <updated>2026-07-09T09:37:40.752223+00:00</updated>
+    <summary>Authors: Mikhail Vasilyev
+DOI: https://doi.org/10.31826/jlr-2026-233-409
+Pages: Page range: 389-403</summary>
   </entry>
 </feed>

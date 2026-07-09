@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Multilingua...</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mult/45/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mult/45/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/mult.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/mult/html" rel="related"/>
-  <updated>2026-06-16T15:35:01.222832+00:00</updated>
+  <updated>2026-07-09T09:38:14.634487+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/mult.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Multilingua... (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2026-frontmatter3/html"/>
-    <id>https://doi.org/10.1515/multi-2026-frontmatter3</id>
-    <updated>2026-06-16T15:35:01.222863+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/multi-2026-frontmatter3
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2026-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/multi-2026-frontmatter4</id>
+    <updated>2026-07-09T09:38:14.634528+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/multi-2026-frontmatter4
 Pages: Page range: i-iii</summary>
   </entry>
   <entry>
-    <title>English within language diversification discourses: tracing ideologies at European teaching conferences in the 1970s and 1980s</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2025-0163/html"/>
-    <id>https://doi.org/10.1515/multi-2025-0163</id>
-    <updated>2026-06-16T15:35:01.222893+00:00</updated>
-    <summary>Authors: Zorana Sokolovska, Maria Rosa Garrido
-DOI: https://doi.org/10.1515/multi-2025-0163
-Pages: Page range: 313-339</summary>
+    <title>Between language and identity: discursive constructions of intergenerational transmission among urban Circassians in Türkiye</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2025-0203/html"/>
+    <id>https://doi.org/10.1515/multi-2025-0203</id>
+    <updated>2026-07-09T09:38:14.634542+00:00</updated>
+    <summary>Authors: Yasemin Oral-Saribaş, Murat Topçu
+DOI: https://doi.org/10.1515/multi-2025-0203
+Pages: Page range: 437-463</summary>
   </entry>
   <entry>
-    <title>Creating learning opportunities through cultural categories: a sequential categorization analysis of multicultural cooking instruction</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2025-0179/html"/>
-    <id>https://doi.org/10.1515/multi-2025-0179</id>
-    <updated>2026-06-16T15:35:01.222920+00:00</updated>
-    <summary>Authors: Shu-Yu Huang
-DOI: https://doi.org/10.1515/multi-2025-0179
-Pages: Page range: 341-376</summary>
+    <title>When expectations meet realities: discursive negotiation of family language policy in a transnational Chinese heritage family</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2026-0004/html"/>
+    <id>https://doi.org/10.1515/multi-2026-0004</id>
+    <updated>2026-07-09T09:38:14.634554+00:00</updated>
+    <summary>Authors: Changchun Li, Claudia Vallejo Rubinstein, Melinda Dooly
+DOI: https://doi.org/10.1515/multi-2026-0004
+Pages: Page range: 465-487</summary>
   </entry>
   <entry>
-    <title>Translanguaging in parent–child book talk during shared reading in Chinese–German families</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2024-0207/html"/>
-    <id>https://doi.org/10.1515/multi-2024-0207</id>
-    <updated>2026-06-16T15:35:01.222934+00:00</updated>
-    <summary>Authors: Yin Yu, Ming Liu
-DOI: https://doi.org/10.1515/multi-2024-0207
-Pages: Page range: 377-406</summary>
+    <title>Chronicles of change and layered transformation: a contextualized and historicized approach to Antwerp and Brussels’ Chinatowns</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2025-0195/html"/>
+    <id>https://doi.org/10.1515/multi-2025-0195</id>
+    <updated>2026-07-09T09:38:14.634565+00:00</updated>
+    <summary>Authors: Rui Guo, Mieke Vandenbroucke, Rik Vosters
+DOI: https://doi.org/10.1515/multi-2025-0195
+Pages: Page range: 489-519</summary>
   </entry>
   <entry>
-    <title>“Never seen Chinese people and Korean people try to learn each other’s language so hard”: scaling multilingualism and digital nationalism in transnational online conflict</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2025-0212/html"/>
-    <id>https://doi.org/10.1515/multi-2025-0212</id>
-    <updated>2026-06-16T15:35:01.222945+00:00</updated>
-    <summary>Authors: Mengdi Liu, Luk Van Mensel, Robert Blackwood
-DOI: https://doi.org/10.1515/multi-2025-0212
-Pages: Page range: 407-435</summary>
+    <title>Complicity, resistance, and agency: the ambiguous discursive position of a Faroese tour guide</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2025-0142/html"/>
+    <id>https://doi.org/10.1515/multi-2025-0142</id>
+    <updated>2026-07-09T09:38:14.634575+00:00</updated>
+    <summary>Authors: Hanna Birkelund Nilsson, Marie Maegaard
+DOI: https://doi.org/10.1515/multi-2025-0142
+Pages: Page range: 521-543</summary>
   </entry>
 </feed>

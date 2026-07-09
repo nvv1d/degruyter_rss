@@ -1,100 +1,172 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Historical Sociolinguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jhsl/11/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jhsl/12/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jhsl.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jhsl/html" rel="related"/>
-  <updated>2026-06-16T15:34:13.518251+00:00</updated>
+  <updated>2026-07-09T09:37:35.005411+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/jhsl.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Journal of Historical Sociolinguistics (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/jhsl-2025-frontmatter2</id>
-    <updated>2026-06-16T15:34:13.518296+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jhsl-2025-frontmatter2
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2026-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jhsl-2026-frontmatter1</id>
+    <updated>2026-07-09T09:37:35.005454+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jhsl-2026-frontmatter1
 Pages: Page range: i-ii</summary>
   </entry>
   <entry>
-    <title>Variation and change in pronominal address in 19th and early 20th-century German private letters</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0036/html"/>
-    <id>https://doi.org/10.1515/jhsl-2023-0036</id>
-    <updated>2026-06-16T15:34:13.518349+00:00</updated>
-    <summary>Authors: Markus Schiegg, Stephan Elspaß
-DOI: https://doi.org/10.1515/jhsl-2023-0036
-Pages: Page range: 331-362</summary>
+    <title>Lingala only? A history of the D. R. Congo’s ideologies and counter-ideologies of monolingualism</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0034/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0034</id>
+    <updated>2026-07-09T09:37:35.005467+00:00</updated>
+    <summary>Authors: Margot Luyckfasseel, Michael Meeuwis, Joshua Castillo
+DOI: https://doi.org/10.1515/jhsl-2024-0034
+Pages: Page range: 1-31</summary>
   </entry>
   <entry>
-    <title>Orality and overtness: effects on Spanish subject use</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0017/html"/>
-    <id>https://doi.org/10.1515/jhsl-2024-0017</id>
-    <updated>2026-06-16T15:34:13.518374+00:00</updated>
-    <summary>Authors: Gemma McCarley
-DOI: https://doi.org/10.1515/jhsl-2024-0017
-Pages: Page range: 363-395</summary>
+    <title>A historical sociolinguistic study of two linguistic variables in epigraphic Mayan during the classic period</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0051/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0051</id>
+    <updated>2026-07-09T09:37:35.005479+00:00</updated>
+    <summary>Authors: David F. Mora-Marín
+DOI: https://doi.org/10.1515/jhsl-2024-0051
+Pages: Page range: 33-77</summary>
   </entry>
   <entry>
-    <title>Mixed: Turkish–Armenian language contact and its invisibilization</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0043/html"/>
-    <id>https://doi.org/10.1515/jhsl-2024-0043</id>
-    <updated>2026-06-16T15:34:13.518395+00:00</updated>
-    <summary>Authors: Jennifer Manoukian
-DOI: https://doi.org/10.1515/jhsl-2024-0043
-Pages: Page range: 397-427</summary>
+    <title>Individual variation and linguistic choices in new dialect formation processes: a case study from Narvik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0019/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0019</id>
+    <updated>2026-07-09T09:37:35.005490+00:00</updated>
+    <summary>Authors: Randi Neteland
+DOI: https://doi.org/10.1515/jhsl-2024-0019
+Pages: Page range: 79-102</summary>
   </entry>
   <entry>
-    <title>“Ik heef niets gezeg”: the past tense in an Anglo-Boer War concentration camp diary</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0062/html"/>
-    <id>https://doi.org/10.1515/jhsl-2023-0062</id>
-    <updated>2026-06-16T15:34:13.518406+00:00</updated>
-    <summary>Authors: Johanita Kirsten
-DOI: https://doi.org/10.1515/jhsl-2023-0062
-Pages: Page range: 429-449</summary>
+    <title>The social meaning of the third-person singular -thinflection in Early Modern English sermons</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0055/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0055</id>
+    <updated>2026-07-09T09:37:35.005500+00:00</updated>
+    <summary>Authors: Hiroshi Yadomi
+DOI: https://doi.org/10.1515/jhsl-2024-0055
+Pages: Page range: 103-140</summary>
   </entry>
   <entry>
-    <title>(De)constructing “verbatimness”: a study of speech reporting strategies in the late modern Flemish courtroom</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0025/html"/>
-    <id>https://doi.org/10.1515/jhsl-2024-0025</id>
-    <updated>2026-06-16T15:34:13.518416+00:00</updated>
-    <summary>Authors: Magda Serwadczak
-DOI: https://doi.org/10.1515/jhsl-2024-0025
-Pages: Page range: 451-480</summary>
+    <title>Sanskrit, Classical Arabic, Latin and now English – a case of a special kind of lingua franca use and status</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0040/html"/>
+    <id>https://doi.org/10.1515/jhsl-2024-0040</id>
+    <updated>2026-07-09T09:37:35.005509+00:00</updated>
+    <summary>Authors: Nikola Dobrić, Martin Korenjak, Stephan Procházka, Antonia Ruppel, Kristin Reinke, Rosemary Wildsmith-Cromarty, Enrique Pato
+DOI: https://doi.org/10.1515/jhsl-2024-0040
+Pages: Page range: 141-177</summary>
   </entry>
   <entry>
-    <title>Spanish socio-historical linguistics: isolation and contact</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2022-0002/html"/>
-    <id>https://doi.org/10.1515/jhsl-2022-0002</id>
-    <updated>2026-06-16T15:34:13.518427+00:00</updated>
-    <summary>Authors: Jason Doroga
-DOI: https://doi.org/10.1515/jhsl-2022-0002
-Pages: Page range: 481-486</summary>
+    <title>Gravestones of multilingual communities as sources for historical sociolinguistics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2026-0014/html"/>
+    <id>https://doi.org/10.1515/jhsl-2026-0014</id>
+    <updated>2026-07-09T09:37:35.005522+00:00</updated>
+    <summary>Authors: Karoline Kühl, Joshua R. Brown
+DOI: https://doi.org/10.1515/jhsl-2026-0014
+Pages: Page range: 179-184</summary>
   </entry>
   <entry>
-    <title>Hillary Taylor: Language and Social Relations in Early Modern England</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0061/html"/>
-    <id>https://doi.org/10.1515/jhsl-2024-0061</id>
-    <updated>2026-06-16T15:34:13.518436+00:00</updated>
-    <summary>Authors: Tino Oudesluijs
-DOI: https://doi.org/10.1515/jhsl-2024-0061
-Pages: Page range: 487-490</summary>
+    <title>“Tak for alt papá og Mamá”: Argentine Danish cemeteries as bilingual epigraphic landscapes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0040/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0040</id>
+    <updated>2026-07-09T09:37:35.005533+00:00</updated>
+    <summary>Authors: Karoline Kühl
+DOI: https://doi.org/10.1515/jhsl-2025-0040
+Pages: Page range: 185-208</summary>
   </entry>
   <entry>
-    <title>Investigating West Germanic Languages</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0037/html"/>
-    <id>https://doi.org/10.1515/jhsl-2024-0037</id>
-    <updated>2026-06-16T15:34:13.518460+00:00</updated>
-    <summary>Authors: Gijsbert Rutten
-DOI: https://doi.org/10.1515/jhsl-2024-0037
-Pages: Page range: 491-494</summary>
+    <title>Multiple roots of multilingualism: actors and factors affecting the linguistic landscape of cemeteries in an industrial town in Finland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0038/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0038</id>
+    <updated>2026-07-09T09:37:35.005543+00:00</updated>
+    <summary>Authors: Leena Kolehmainen, Kukka-Maaria Wessman
+DOI: https://doi.org/10.1515/jhsl-2025-0038
+Pages: Page range: 209-238</summary>
   </entry>
   <entry>
-    <title>The Victorians and English dialect</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0057/html"/>
-    <id>https://doi.org/10.1515/jhsl-2024-0057</id>
-    <updated>2026-06-16T15:34:13.518482+00:00</updated>
-    <summary>Authors: Paul Cooper
-DOI: https://doi.org/10.1515/jhsl-2024-0057
-Pages: Page range: 495-499</summary>
+    <title>Pennsylvania Dutch cemeteries as multilingual landscapes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0048/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0048</id>
+    <updated>2026-07-09T09:37:35.005553+00:00</updated>
+    <summary>Authors: Joshua R. Brown
+DOI: https://doi.org/10.1515/jhsl-2025-0048
+Pages: Page range: 239-272</summary>
+  </entry>
+  <entry>
+    <title>National allegiance and the ultimate sacrifice inscribed in Alsatian cemeteries</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0045/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0045</id>
+    <updated>2026-07-09T09:37:35.005574+00:00</updated>
+    <summary>Authors: Katharina Vajta
+DOI: https://doi.org/10.1515/jhsl-2025-0045
+Pages: Page range: 273-297</summary>
+  </entry>
+  <entry>
+    <title>Geb.(‘Born’)in Berlin, Germany: a semiotic construction of German heritage in Canadian cemeteries</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0052/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0052</id>
+    <updated>2026-07-09T09:37:35.005584+00:00</updated>
+    <summary>Authors: Doris Stolberg, Grit Liebscher
+DOI: https://doi.org/10.1515/jhsl-2025-0052
+Pages: Page range: 299-333</summary>
+  </entry>
+  <entry>
+    <title>A complicated source</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2026-0013/html"/>
+    <id>https://doi.org/10.1515/jhsl-2026-0013</id>
+    <updated>2026-07-09T09:37:35.005593+00:00</updated>
+    <summary>Authors: Suzanne Aalberse, Joshua R. Brown, Karoline Kühl
+DOI: https://doi.org/10.1515/jhsl-2026-0013
+Pages: Page range: 335-341</summary>
+  </entry>
+  <entry>
+    <title>Medieval English in a Multilingual Context: current methodologies and approaches</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0022/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0022</id>
+    <updated>2026-07-09T09:37:35.005604+00:00</updated>
+    <summary>Authors: Laura Welsh
+DOI: https://doi.org/10.1515/jhsl-2025-0022
+Pages: Page range: 343-348</summary>
+  </entry>
+  <entry>
+    <title>Review: Scribes and Languages Use in the Graeco-Roman World</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0043/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0043</id>
+    <updated>2026-07-09T09:37:35.005613+00:00</updated>
+    <summary>Authors: Andrew Campman
+DOI: https://doi.org/10.1515/jhsl-2025-0043
+Pages: Page range: 349-354</summary>
+  </entry>
+  <entry>
+    <title>Historical and sociolinguistic approaches to French</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0012/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0012</id>
+    <updated>2026-07-09T09:37:35.005623+00:00</updated>
+    <summary>Authors: Sandrine Tailleur
+DOI: https://doi.org/10.1515/jhsl-2025-0012
+Pages: Page range: 355-359</summary>
+  </entry>
+  <entry>
+    <title>Spanish as a contact language: an ecological history</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2025-0013/html"/>
+    <id>https://doi.org/10.1515/jhsl-2025-0013</id>
+    <updated>2026-07-09T09:37:35.005632+00:00</updated>
+    <summary>Authors: James Hawkey
+DOI: https://doi.org/10.1515/jhsl-2025-0013
+Pages: Page range: 361-364</summary>
+  </entry>
+  <entry>
+    <title>Corrigendum to: A historical sociolinguistic study of two linguistic variables in epigraphic Mayan during the classic period</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2026-3012/html"/>
+    <id>https://doi.org/10.1515/jhsl-2026-3012</id>
+    <updated>2026-07-09T09:37:35.005642+00:00</updated>
+    <summary>Authors: David F. Mora-Marín
+DOI: https://doi.org/10.1515/jhsl-2026-3012
+Pages: Page range: 365-366</summary>
   </entry>
 </feed>
