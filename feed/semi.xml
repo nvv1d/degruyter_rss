@@ -1,91 +1,118 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Semiotica...</title>
-  <link href="https://www.degruyterbrill.com/journal/key/semi/2026/270/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/semi/2026/271/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/semi.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/semi/html" rel="related"/>
-  <updated>2026-06-16T15:35:26.877288+00:00</updated>
+  <updated>2026-07-10T09:34:20.446809+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/semi.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Semiotica... (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-frontmatter270/html"/>
-    <id>https://doi.org/10.1515/sem-2026-frontmatter270</id>
-    <updated>2026-06-16T15:35:26.877358+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/sem-2026-frontmatter270
-Pages: Page range: i-vii</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-frontmatter271/html"/>
+    <id>https://doi.org/10.1515/sem-2026-frontmatter271</id>
+    <updated>2026-07-10T09:34:20.446842+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sem-2026-frontmatter271
+Pages: Page range: i-viii</summary>
   </entry>
   <entry>
-    <title>Décrire la resémiotisation d’un phénomène: un modèle fondé sur des traits partagés entre les classes des signes peirciennes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0120/html"/>
-    <id>https://doi.org/10.1515/sem-2025-0120</id>
-    <updated>2026-06-16T15:35:26.877373+00:00</updated>
-    <summary>Authors: Mattéo Raimbault
-DOI: https://doi.org/10.1515/sem-2025-0120
-Pages: Page range: 1-19</summary>
+    <title>Introduction to Digi-Age: intergenerational communication and new approaches to aging</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-0082/html"/>
+    <id>https://doi.org/10.1515/sem-2026-0082</id>
+    <updated>2026-07-10T09:34:20.446888+00:00</updated>
+    <summary>Authors: Daria Arkhipova, Silvia Barbotto
+DOI: https://doi.org/10.1515/sem-2026-0082
+Pages: Page range: 1-8</summary>
   </entry>
   <entry>
-    <title>Travels in hyper-semiosis: navigating the digitization of meaning</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0071/html"/>
-    <id>https://doi.org/10.1515/sem-2025-0071</id>
-    <updated>2026-06-16T15:35:26.877385+00:00</updated>
-    <summary>Authors: Gregg S. Lloren
-DOI: https://doi.org/10.1515/sem-2025-0071
-Pages: Page range: 21-44</summary>
+    <title>Silver Tech, the “eternal new”: understanding an aging society through technology and chaos theory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-0080/html"/>
+    <id>https://doi.org/10.1515/sem-2026-0080</id>
+    <updated>2026-07-10T09:34:20.446909+00:00</updated>
+    <summary>Authors: Sara Hejazi, Stefania Yapo
+DOI: https://doi.org/10.1515/sem-2026-0080
+Pages: Page range: 9-22</summary>
   </entry>
   <entry>
-    <title>La « langue dessinée » : maximiser le potentiel des images dans l’acquisition du sens des mots</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0059/html"/>
-    <id>https://doi.org/10.1515/sem-2023-0059</id>
-    <updated>2026-06-16T15:35:26.877396+00:00</updated>
-    <summary>Authors: Monica Barbir
-DOI: https://doi.org/10.1515/sem-2023-0059
-Pages: Page range: 45-85</summary>
+    <title>Semiotics of Umarèlls: reclaiming the elderly voice in the digital semiosphere</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-0079/html"/>
+    <id>https://doi.org/10.1515/sem-2026-0079</id>
+    <updated>2026-07-10T09:34:20.446921+00:00</updated>
+    <summary>Authors: Federico Bellentani
+DOI: https://doi.org/10.1515/sem-2026-0079
+Pages: Page range: 23-36</summary>
   </entry>
   <entry>
-    <title>The state beneath the skin: tattoos as uncensored testimony in Russian prisons</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0162/html"/>
-    <id>https://doi.org/10.1515/sem-2025-0162</id>
-    <updated>2026-06-16T15:35:26.877406+00:00</updated>
-    <summary>Authors: Natalie Putz
-DOI: https://doi.org/10.1515/sem-2025-0162
-Pages: Page range: 87-109</summary>
+    <title>Modes of affordance: action possibilities in the time and place of aging</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-0078/html"/>
+    <id>https://doi.org/10.1515/sem-2026-0078</id>
+    <updated>2026-07-10T09:34:20.446935+00:00</updated>
+    <summary>Authors: Gunnar Sandin
+DOI: https://doi.org/10.1515/sem-2026-0078
+Pages: Page range: 37-51</summary>
   </entry>
   <entry>
-    <title>The laughing body: when to laugh is to do</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0053/html"/>
-    <id>https://doi.org/10.1515/sem-2023-0053</id>
-    <updated>2026-06-16T15:35:26.877416+00:00</updated>
-    <summary>Authors: Saleta De Salvador Agra
-DOI: https://doi.org/10.1515/sem-2023-0053
-Pages: Page range: 111-132</summary>
+    <title>Female aging in Eastern European advertising: semiosis, representation, reinterpretation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-0085/html"/>
+    <id>https://doi.org/10.1515/sem-2026-0085</id>
+    <updated>2026-07-10T09:34:20.446950+00:00</updated>
+    <summary>Authors: Lyudmyla Zaporozhtseva
+DOI: https://doi.org/10.1515/sem-2026-0085
+Pages: Page range: 53-72</summary>
   </entry>
   <entry>
-    <title>Framing affordance transformation in multi-semiotic rhetorical design: a systemic-ordered typological analysis of posters in the Chinese eco-cultural context</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0194/html"/>
-    <id>https://doi.org/10.1515/sem-2024-0194</id>
-    <updated>2026-06-16T15:35:26.877426+00:00</updated>
-    <summary>Authors: Yanfang Han
-DOI: https://doi.org/10.1515/sem-2024-0194
-Pages: Page range: 133-160</summary>
+    <title>“I’m as old as I am, I suppose”: interpretative cooperation in medical communication with older adults</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-0074/html"/>
+    <id>https://doi.org/10.1515/sem-2026-0074</id>
+    <updated>2026-07-10T09:34:20.446960+00:00</updated>
+    <summary>Authors: Nicolae-Sorin Drăgan
+DOI: https://doi.org/10.1515/sem-2026-0074
+Pages: Page range: 73-82</summary>
   </entry>
   <entry>
-    <title>Nuances de marque</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0116/html"/>
-    <id>https://doi.org/10.1515/sem-2025-0116</id>
-    <updated>2026-06-16T15:35:26.877437+00:00</updated>
-    <summary>Authors: Alain Perusset
-DOI: https://doi.org/10.1515/sem-2025-0116
-Pages: Page range: 161-191</summary>
+    <title>Urban vegetable gardens: a Portuguese semiosphere for understanding seniors’ memories and crises</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2026-0084/html"/>
+    <id>https://doi.org/10.1515/sem-2026-0084</id>
+    <updated>2026-07-10T09:34:20.446977+00:00</updated>
+    <summary>Authors: Cynthia Luderer
+DOI: https://doi.org/10.1515/sem-2026-0084
+Pages: Page range: 83-93</summary>
   </entry>
   <entry>
-    <title>At the table of wonder: the semiotics of ghoul and food in Palestinian folktales</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0162/html"/>
-    <id>https://doi.org/10.1515/sem-2024-0162</id>
-    <updated>2026-06-16T15:35:26.877449+00:00</updated>
-    <summary>Authors: Kawthar Jabir-Kassoum
-DOI: https://doi.org/10.1515/sem-2024-0162
-Pages: Page range: 193-214</summary>
+    <title>Semiosis as translation mechanism</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0109/html"/>
+    <id>https://doi.org/10.1515/sem-2024-0109</id>
+    <updated>2026-07-10T09:34:20.446986+00:00</updated>
+    <summary>Authors: Hongzhou Lü, Qiang Ning
+DOI: https://doi.org/10.1515/sem-2024-0109
+Pages: Page range: 95-109</summary>
+  </entry>
+  <entry>
+    <title>Analyse sémiotique du vestimentaire dans la traduction arabe du romanWalaandede l’auteure camerounaise Djaili Amadou Amal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0052/html"/>
+    <id>https://doi.org/10.1515/sem-2025-0052</id>
+    <updated>2026-07-10T09:34:20.446997+00:00</updated>
+    <summary>Authors: Gehane Essawy, Wafa Bedjaoui, Mimouna Zitouni
+DOI: https://doi.org/10.1515/sem-2025-0052
+Pages: Page range: 111-142</summary>
+  </entry>
+  <entry>
+    <title>Stories of labyrinths: Umberto Eco’s semiotics inThe Name of the Rose</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0034/html"/>
+    <id>https://doi.org/10.1515/sem-2025-0034</id>
+    <updated>2026-07-10T09:34:20.447007+00:00</updated>
+    <summary>Authors: Nino Liam Töndury
+DOI: https://doi.org/10.1515/sem-2025-0034
+Pages: Page range: 143-155</summary>
+  </entry>
+  <entry>
+    <title>Cinema poetics in South Africa’s post-apartheid animation narratives: a case for semiotic add-ons</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-0022/html"/>
+    <id>https://doi.org/10.1515/sem-2025-0022</id>
+    <updated>2026-07-10T09:34:20.447016+00:00</updated>
+    <summary>Authors: Addamms Mututa
+DOI: https://doi.org/10.1515/sem-2025-0022
+Pages: Page range: 157-186</summary>
   </entry>
 </feed>
