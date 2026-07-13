@@ -1,91 +1,73 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of the Sociology of Language</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijsl/2026/298-299/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijsl/2026/300/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/ijsl.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/ijsl/html" rel="related"/>
-  <updated>2026-06-16T15:33:48.303872+00:00</updated>
+  <updated>2026-07-13T09:24:04.693645+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/ijsl.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from International Journal of the Sociology of Language (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2026-frontmatter298-299/html"/>
-    <id>https://doi.org/10.1515/ijsl-2026-frontmatter298-299</id>
-    <updated>2026-06-16T15:33:48.303902+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/ijsl-2026-frontmatter298-299
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2026-frontmatter300/html"/>
+    <id>https://doi.org/10.1515/ijsl-2026-frontmatter300</id>
+    <updated>2026-07-13T09:24:04.693715+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ijsl-2026-frontmatter300
 Pages: Page range: i-iv</summary>
   </entry>
   <entry>
-    <title>The revivals of Manx – introduction</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2026-0002/html"/>
-    <id>https://doi.org/10.1515/ijsl-2026-0002</id>
-    <updated>2026-06-16T15:33:48.303915+00:00</updated>
-    <summary>Authors: Christopher Lewin, Erin McNulty
-DOI: https://doi.org/10.1515/ijsl-2026-0002
-Pages: Page range: 1-22</summary>
+    <title>“Ahora está más complicado”. Narrativas del control de la migración centroamericana por México hacia Estados Unidos</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2024-0139/html"/>
+    <id>https://doi.org/10.1515/ijsl-2024-0139</id>
+    <updated>2026-07-13T09:24:04.693743+00:00</updated>
+    <summary>Authors: Francisco Daniel Morales Hernández
+DOI: https://doi.org/10.1515/ijsl-2024-0139
+Pages: Page range: 1-24</summary>
   </entry>
   <entry>
-    <title>Manx language for all: community, cooperation and creativity in the 21st century</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0036/html"/>
-    <id>https://doi.org/10.1515/ijsl-2025-0036</id>
-    <updated>2026-06-16T15:33:48.303929+00:00</updated>
-    <summary>Authors: Breesha Maddrell, Ruth Keggin Gell
-DOI: https://doi.org/10.1515/ijsl-2025-0036
-Pages: Page range: 23-55</summary>
+    <title>New speakers of the Basque informal address formhika, the quintessential marker of authenticity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0005/html"/>
+    <id>https://doi.org/10.1515/ijsl-2025-0005</id>
+    <updated>2026-07-13T09:24:04.693757+00:00</updated>
+    <summary>Authors: Beñat Muguruza, Garbiñe Bereziartua
+DOI: https://doi.org/10.1515/ijsl-2025-0005
+Pages: Page range: 25-59</summary>
   </entry>
   <entry>
-    <title>Rationalisation versus revitalisation: neoliberal capitalism and language revival in the Isle of Man</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0047/html"/>
-    <id>https://doi.org/10.1515/ijsl-2025-0047</id>
-    <updated>2026-06-16T15:33:48.303943+00:00</updated>
-    <summary>Authors: Ben Ó Ceallaigh
-DOI: https://doi.org/10.1515/ijsl-2025-0047
-Pages: Page range: 57-81</summary>
+    <title>Competing patterns of prestige in Latin American Spanish: implicit attitudes towards informal address in two Uruguayan cities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0058/html"/>
+    <id>https://doi.org/10.1515/ijsl-2025-0058</id>
+    <updated>2026-07-13T09:24:04.693769+00:00</updated>
+    <summary>Authors: María Irene Moyna, Verónica Loureiro-Rodríguez, Elif Fidan Acar
+DOI: https://doi.org/10.1515/ijsl-2025-0058
+Pages: Page range: 61-99</summary>
   </entry>
   <entry>
-    <title>What does it mean to speak “good Manx”? Insights from ideologies and attitudes around Manx morphosyntax</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0035/html"/>
-    <id>https://doi.org/10.1515/ijsl-2025-0035</id>
-    <updated>2026-06-16T15:33:48.303959+00:00</updated>
-    <summary>Authors: Erin McNulty
-DOI: https://doi.org/10.1515/ijsl-2025-0035
-Pages: Page range: 83-115</summary>
+    <title>Thai-Muslim young adults’ narrative identities as multilingual learners: intersections of individualization, language ideologies, and ethnic accent bullying</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0063/html"/>
+    <id>https://doi.org/10.1515/ijsl-2025-0063</id>
+    <updated>2026-07-13T09:24:04.693781+00:00</updated>
+    <summary>Authors: Melada Sudajit-apa, Alisa Hasamoh
+DOI: https://doi.org/10.1515/ijsl-2025-0063
+Pages: Page range: 101-131</summary>
   </entry>
   <entry>
-    <title>Pan-Gaelicism and the perception of the Gaelicness of Manx in the revivalist founder group</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0037/html"/>
-    <id>https://doi.org/10.1515/ijsl-2025-0037</id>
-    <updated>2026-06-16T15:33:48.303973+00:00</updated>
-    <summary>Authors: Tadhg Ó hIfearnáin
-DOI: https://doi.org/10.1515/ijsl-2025-0037
-Pages: Page range: 117-145</summary>
+    <title>The “total linguistic fact” of Ulti, the secret language of the hijra-kotis in Bengal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0082/html"/>
+    <id>https://doi.org/10.1515/ijsl-2025-0082</id>
+    <updated>2026-07-13T09:24:04.693791+00:00</updated>
+    <summary>Authors: Ayesha Kidwai, Enakshi Nandi
+DOI: https://doi.org/10.1515/ijsl-2025-0082
+Pages: Page range: 133-152</summary>
   </entry>
   <entry>
-    <title>Digitising Manx language recordings: Manx National Heritage and the British Library’s ‘Unlocking our Sound Heritage’ project</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0055/html"/>
-    <id>https://doi.org/10.1515/ijsl-2025-0055</id>
-    <updated>2026-06-16T15:33:48.303997+00:00</updated>
-    <summary>Authors: Nicola Tooms
-DOI: https://doi.org/10.1515/ijsl-2025-0055
-Pages: Page range: 147-161</summary>
-  </entry>
-  <entry>
-    <title>Constructing “Traditional Manx”: the persistence of native speaker models in post-shift revitalization</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0030/html"/>
-    <id>https://doi.org/10.1515/ijsl-2025-0030</id>
-    <updated>2026-06-16T15:33:48.304007+00:00</updated>
-    <summary>Authors: Christopher Lewin
-DOI: https://doi.org/10.1515/ijsl-2025-0030
-Pages: Page range: 163-188</summary>
-  </entry>
-  <entry>
-    <title>Models of language revitalisation around the world: processes and outcomes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-0057/html"/>
-    <id>https://doi.org/10.1515/ijsl-2025-0057</id>
-    <updated>2026-06-16T15:33:48.304017+00:00</updated>
-    <summary>Authors: Julia Sallabank
-DOI: https://doi.org/10.1515/ijsl-2025-0057
-Pages: Page range: 189-228</summary>
+    <title>Family dynamics, community ties, and strategies in the transmission of Japanese as a heritage language in Barcelona</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2024-0093/html"/>
+    <id>https://doi.org/10.1515/ijsl-2024-0093</id>
+    <updated>2026-07-13T09:24:04.693801+00:00</updated>
+    <summary>Authors: Isabel Sáenz-Hernández
+DOI: https://doi.org/10.1515/ijsl-2024-0093
+Pages: Page range: 153-173</summary>
   </entry>
 </feed>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Text &amp; Talk...</title>
-  <link href="https://www.degruyterbrill.com/journal/key/text/46/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/text/46/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/text.xml" type="application/atom+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/text/html" rel="related"/>
-  <updated>2026-06-16T15:35:42.995457+00:00</updated>
+  <updated>2026-07-13T09:25:47.371752+00:00</updated>
   <id>https://raw.githubusercontent.com/nvv1d/degruyter_rss/main/degruyter/feed/text.xml</id>
   <generator>https://github.com/nvv1d/AcademicRSSFeed-TG/blob/main/degruyter/degruyter_feedgenerator.py</generator>
   <subtitle>Latest articles from Text &amp; Talk... (De Gruyter)</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2026-frontmatter3/html"/>
-    <id>https://doi.org/10.1515/text-2026-frontmatter3</id>
-    <updated>2026-06-16T15:35:42.995502+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/text-2026-frontmatter3
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2026-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/text-2026-frontmatter4</id>
+    <updated>2026-07-13T09:25:47.371785+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/text-2026-frontmatter4
 Pages: Page range: i-iv</summary>
   </entry>
   <entry>
-    <title>Empathy as dynamic social meaning-making: audience responses to patient-generated materials about endometriosis care</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0219/html"/>
-    <id>https://doi.org/10.1515/text-2024-0219</id>
-    <updated>2026-06-16T15:35:42.995515+00:00</updated>
-    <summary>Authors: Elisabeth El Refaie
-DOI: https://doi.org/10.1515/text-2024-0219
-Pages: Page range: 291-311</summary>
+    <title>Mothering in a digital age – a first-time mother’s account of using an infant tracking application</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2025-0031/html"/>
+    <id>https://doi.org/10.1515/text-2025-0031</id>
+    <updated>2026-07-13T09:25:47.371806+00:00</updated>
+    <summary>Authors: Philippa Amery, Susan Danby, Maryanne Theobald
+DOI: https://doi.org/10.1515/text-2025-0031
+Pages: Page range: 429-449</summary>
   </entry>
   <entry>
-    <title>Motivational interviewing and the reframing of identity: small stories in first encounters between clients with alcohol use disorders and their therapists</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0161/html"/>
-    <id>https://doi.org/10.1515/text-2024-0161</id>
-    <updated>2026-06-16T15:35:42.995527+00:00</updated>
-    <summary>Authors: Cindie A. Aaen Maagaard, Anette Søgaard Nielsen
-DOI: https://doi.org/10.1515/text-2024-0161
-Pages: Page range: 313-338</summary>
+    <title>Modality in Chilean Spanish: construing historical interpretations in the Introduction to the Report of the Commission of Historical Truth</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2025-0003/html"/>
+    <id>https://doi.org/10.1515/text-2025-0003</id>
+    <updated>2026-07-13T09:25:47.371817+00:00</updated>
+    <summary>Authors: Claudia Castro, Teresa Oteíza, Felipe Lledó
+DOI: https://doi.org/10.1515/text-2025-0003
+Pages: Page range: 451-476</summary>
   </entry>
   <entry>
-    <title>Shifting from a ‘just’ to a ‘fair’ transition in environmental discourse: a case of old wine in a new bottle?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0156/html"/>
-    <id>https://doi.org/10.1515/text-2024-0156</id>
-    <updated>2026-06-16T15:35:42.995540+00:00</updated>
-    <summary>Authors: Pietro Manzella
-DOI: https://doi.org/10.1515/text-2024-0156
-Pages: Page range: 339-356</summary>
+    <title>“No Gain? No Pain!”: metapragmatic comments and their role in online fandom construction on social media</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0262/html"/>
+    <id>https://doi.org/10.1515/text-2024-0262</id>
+    <updated>2026-07-13T09:25:47.371828+00:00</updated>
+    <summary>Authors: Jialiang Chen, Ping Liu
+DOI: https://doi.org/10.1515/text-2024-0262
+Pages: Page range: 477-498</summary>
   </entry>
   <entry>
-    <title>Unveiling romance in categories: exploring compatibility in Tinder conversations</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0159/html"/>
-    <id>https://doi.org/10.1515/text-2024-0159</id>
-    <updated>2026-06-16T15:35:42.995551+00:00</updated>
-    <summary>Authors: Carles Roca-Cuberes, Michael Mora-Rodriguez, Julio Hardisson-Guimerà
-DOI: https://doi.org/10.1515/text-2024-0159
-Pages: Page range: 357-381</summary>
+    <title>The language of scientific uncertainty in Congressional hearings</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0245/html"/>
+    <id>https://doi.org/10.1515/text-2024-0245</id>
+    <updated>2026-07-13T09:25:47.371839+00:00</updated>
+    <summary>Authors: Denise Coberley
+DOI: https://doi.org/10.1515/text-2024-0245
+Pages: Page range: 499-519</summary>
   </entry>
   <entry>
-    <title>Praising the client in career guidance</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0206/html"/>
-    <id>https://doi.org/10.1515/text-2024-0206</id>
-    <updated>2026-06-16T15:35:42.995562+00:00</updated>
-    <summary>Authors: Sanna Vehviläinen, Liisa Voutilainen
-DOI: https://doi.org/10.1515/text-2024-0206
-Pages: Page range: 383-407</summary>
+    <title>Cutting emissions, halting biodiversity loss: climate change solutions in the language of UK politicians and UK climate activists, 2018–2020</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0231/html"/>
+    <id>https://doi.org/10.1515/text-2024-0231</id>
+    <updated>2026-07-13T09:25:47.371849+00:00</updated>
+    <summary>Authors: John S. G. Currie
+DOI: https://doi.org/10.1515/text-2024-0231
+Pages: Page range: 521-545</summary>
   </entry>
   <entry>
-    <title>“Kaigewanxiao” (‘Just kidding’): the use of humor markers in Chinese media discourse</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0180/html"/>
-    <id>https://doi.org/10.1515/text-2024-0180</id>
-    <updated>2026-06-16T15:35:42.995574+00:00</updated>
-    <summary>Authors: Zhiwei Zhao, Chengtuan Li, Jing Han, Huhua Ouyang
-DOI: https://doi.org/10.1515/text-2024-0180
-Pages: Page range: 409-428</summary>
+    <title>Hermeneutic injustice and troubling experiences of interactional inequality: a review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2024-0286/html"/>
+    <id>https://doi.org/10.1515/text-2024-0286</id>
+    <updated>2026-07-13T09:25:47.371859+00:00</updated>
+    <summary>Authors: Melisa Stevanovic, Minna Leinonen, Henri Nevalainen, Annika Valtonen, Elina Weiste
+DOI: https://doi.org/10.1515/text-2024-0286
+Pages: Page range: 547-567</summary>
   </entry>
 </feed>
